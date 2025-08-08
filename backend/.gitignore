@@ -1,0 +1,25 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files
+*.pkl
+
+# Ignore personal model directories
+data_stored/personal_models/
+data_stored/general_model/
+
+# Allow datasets (unignore explicitly if needed)
+!*.json
+!*.csv
+!*.xlsx
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore environment variables
+.env
+
+# VSCode settings (optional)
+.vscode/

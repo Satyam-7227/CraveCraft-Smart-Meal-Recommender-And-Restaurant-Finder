@@ -1,0 +1,268 @@
+dish,mood,dayStatus,craving,diet,cuisines
+Margherita,Tired,Lazy,Heavy,Veg,Fast Food
+Veggie Feast,Tired,Lazy,Heavy,Veg,Fast Food
+Tandoori Paneer,Stressed,Hectic,Spicy,Veg,North Indian
+Country Feast,Tired,Lazy,Heavy,Veg,Fast Food
+Veggie Supreme,Tired,Lazy,Heavy,Veg,Fast Food
+Chicken Sausage,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Murg Malai Chicken,Tired,Lazy,Heavy,Non-Veg,North Indian
+Chicken Supreme,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Triple Chicken Feast,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Classic Onion Capsicum,Tired,Lazy,Heavy,Veg,Fast Food
+Cheesy Spicy Delight,Stressed,Hectic,Spicy,Veg,Snacks
+Chilli Paneer Sizzle,Stressed,Hectic,Spicy,Veg,Snacks
+Classic Chicken Pepperoni & Onion,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Classic Herbed Chicken & Capsicum,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Chatpata Chicken Feast,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Bold BBQ Veggie Thin n Crispy,Tired,Lazy,Heavy,Veg,Fast Food
+Spicy Schezwan Pasta Chicken,Stressed,Hectic,Spicy,Non-Veg,Chinese
+Spicy Red Schezwan Pasta,Stressed,Hectic,Spicy,Veg,Chinese
+Kadhai Paneer,Stressed,Hectic,Spicy,Veg,North Indian
+Southern Fiery Paneer,Stressed,Hectic,Spicy,Veg,South Indian
+Royal Spice Paneer,Stressed,Hectic,Spicy,Veg,North Indian
+Kadhai Chicken,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Juicylicious Southern Fiery Chicken,Stressed,Hectic,Spicy,Non-Veg,South Indian
+Royal Spice Chicken,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Kadhai Paneer Melts,Stressed,Hectic,Spicy,Veg,Snacks
+Royal Spice Paneer Melts,Stressed,Hectic,Spicy,Veg,Snacks
+Kadhai Chicken Melts,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Royal Spice Chicken Melts,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Baked Royal Spice Chicken Wings 4pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Baked Royal Spice Chicken Wings 6pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Baked Southern Fiery Chicken Wings 4pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Baked Southern Fiery Chicken Wings 6pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Kadhai Garlic Bread,Stressed,Hectic,Spicy,Veg,Snacks
+Southern Fiery Garlic Bread,Stressed,Hectic,Spicy,Veg,Snacks
+Kadhai Keema Garlic Bread,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Southern Fiery Keema Garlic Bread,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Indi Garlic Bread Combo,Tired,Lazy,Heavy,Veg,Snacks
+Indi Keema Garlic Bread Combo,Tired,Lazy,Heavy,Non-Veg,Snacks
+Schezwan Margherita,Stressed,Hectic,Spicy,Veg,Fast Food
+Mexican Fiesta,Tired,Lazy,Heavy,Veg,Fast Food
+Bold BBQ Veggies,Tired,Lazy,Heavy,Veg,Fast Food
+Ultimate Tandoori Veggie,Stressed,Hectic,Spicy,Veg,Fast Food
+Mazedar Makhni Paneer,Tired,Lazy,Heavy,Veg,North Indian
+Corn & Cheese,Tired,Lazy,Heavy,Veg,Fast Food
+Spiced Paneer,Stressed,Hectic,Spicy,Veg,Fast Food
+Margherita Pizza,Tired,Lazy,Heavy,Veg,Fast Food
+Sausage & Sweet Corn.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Dhabe Da Keema,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Sizzling Schezwan Chicken,Stressed,Hectic,Spicy,Non-Veg,Chinese
+Nawabi Murg Makhni,Tired,Lazy,Heavy,Non-Veg,North Indian
+Chicken Tikka,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Chicken Pepperoni,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Tikka Supreme,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Create Your Flavour Fun Combo - Box Of 4 - Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Create Your Flavour Fun Combo - Box Of 4 - Non Veg,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza,Tired,Lazy,Heavy,Veg,Fast Food
+Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Classic Corn,Tired,Lazy,Heavy,Veg,Snacks
+Chatpata Tomato Onion & Chilli,Stressed,Hectic,Spicy,Veg,Snacks
+"Spicy Sweet Corn, Onion, Green Chilli",Stressed,Hectic,Spicy,Veg,Snacks
+Hut Treat Meal for 2 - Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Hut Treat Meal for 2 - Non Veg,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Hut Treat Meal for 4 - Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Hut Treat Meal for 4 - Non Veg,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Tandoori Paneer Thin n Crispy,Stressed,Hectic,Spicy,Veg,Fast Food
+Mexican Fiesta Thin n Crispy,Tired,Lazy,Heavy,Veg,Fast Food
+Dhabe Da Keema Thin n Crispy,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Chicken Pepperoni Thin n Crispy,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Supreme Thin n Crispy,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Cosy Comfort White Sauce Chicken Pasta,Tired,Lazy,Heavy,Non-Veg,Chinese
+Cosy Comfort White Sauce Pasta,Tired,Lazy,Heavy,Veg,Chinese
+Classic Mushroom Pasta,Tired,Lazy,Heavy,Veg,Chinese
+Tomato Twist Red Sauce Pasta,Tired,Lazy,Heavy,Veg,Chinese
+Tandoori Murg Pasta,Stressed,Hectic,Spicy,Non-Veg,Chinese
+Tandoori Paneer Pasta,Stressed,Hectic,Spicy,Veg,Chinese
+Penne McN Cheese & Chicken Pasta,Tired,Lazy,Heavy,Non-Veg,Chinese
+Penne McN Cheese Pasta,Tired,Lazy,Heavy,Veg,Chinese
+Super Value Deal : 2 Medium Veg Pizzas starting at Rs 649 (Save Upto 41%).,Tired,Lazy,Heavy,Veg,Fast Food
+Super Value Deal : 2 Medium Non-Veg Pizzas starting at Rs 749 (Save Upto 39%).,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Cheese Garlic Bread,Tired,Lazy,Heavy,Veg,Snacks
+Exotica Veggie Garlic Bread,Tired,Lazy,Heavy,Veg,Snacks
+Classic Bread Stix,Tired,Lazy,Heavy,Veg,Snacks
+Loaded Bread Stix,Tired,Lazy,Heavy,Veg,Snacks
+Garlic Bread Spicy Supreme,Stressed,Hectic,Spicy,Veg,Snacks
+Masala Keema Garlic Bread,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Create your Melts Box of 2 - Veg,Tired,Lazy,Heavy,Veg,Snacks
+Cheezy Cheese Veg & Loaded BBQ Veg Combo,Tired,Lazy,Heavy,Veg,Snacks
+Create your Melts Box of 2 Non-Veg,Tired,Lazy,Heavy,Non-Veg,Snacks
+Cheezy Cheese Chicken & Loaded BBQ Non-Veg Combo,Tired,Lazy,Heavy,Non-Veg,Snacks
+Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Veg,Tired,Lazy,Heavy,Veg,Snacks
+Melts 3 Course Meal for 1 - Veg,Tired,Lazy,Heavy,Veg,Snacks
+Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Non Veg,Tired,Lazy,Heavy,Non-Veg,Snacks
+Melts 3 Course Meal for 1 Non-Veg,Tired,Lazy,Heavy,Non-Veg,Snacks
+Cheezy Sprinkled Fries,Tired,Lazy,Heavy,Veg,Snacks
+BBQ Baked Chicken Wings 6pc,Tired,Lazy,Heavy,Non-Veg,Snacks
+BBQ Baked Chicken Wings 4pc,Tired,Lazy,Heavy,Non-Veg,Snacks
+Sprinkled Fries - New,Tired,Lazy,Heavy,Veg,Snacks
+Spicy Baked Chicken Wings 4pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Spicy Baked Chicken Wings 6pc,Stressed,Hectic,Spicy,Non-Veg,Snacks
+Jalapeno Pepper Dip,Stressed,Hectic,Spicy,Veg,Snacks
+Veg Mayonnaise Dip,Tired,Lazy,Heavy,Veg,Snacks
+Tomato Ketchup,Tired,Lazy,Heavy,Veg,Snacks
+Momo Dip,Stressed,Hectic,Spicy,Veg,Snacks
+Mirinda 475ml,Happy,Lazy,Sweet,Veg,Snacks
+7UP,Happy,Lazy,Sweet,Veg,Snacks
+Pepsi Zero Sugar 300ml,Happy,Lazy,Sweet,Veg,Snacks
+Brow-wow-nie,Happy,Lazy,Sweet,Veg,Dessert
+Choco Volcano,Happy,Lazy,Sweet,Veg,Dessert
+Combo for 1 Veg,Tired,Lazy,Heavy,Veg,Chinese
+Hunan Paneer Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Hunan Paneer Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Hunan Paneer Bowl,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Chinese Fried Rice - Half (500 ml).,Tired,Lazy,Heavy,Veg,Chinese
+Veg Chinese Hakka Noodles - Half (500 ml).,Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Noodles - Half (500 ml).,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Noodles - Half (500 ml).,Stressed,Hectic,Spicy,Veg,Chinese
+Black forest Mousse Cake,Happy,Lazy,Sweet,Veg,Dessert
+Salted Caramel Choco Mousse,Happy,Lazy,Sweet,Veg,Dessert
+Desi Chilli Potato - Mini,Stressed,Hectic,Spicy,Veg,Snacks
+Desi Chilli Potato - Full,Stressed,Hectic,Spicy,Veg,Snacks
+Black Pepper Paneer Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Black Pepper Paneer Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Paneer Chilli Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Paneer Chilli Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Paneer Manchurian Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Paneer Manchurian Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Dry - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Dry - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Ball In Choice Of Sauce - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Spring Roll 6 Pcs - Mini,Tired,Lazy,Heavy,Veg,Snacks
+Sweet Chilli Potato - Mini,Happy,Lazy,Sweet,Veg,Snacks
+Sweet Chilli Potato - Full,Happy,Lazy,Sweet,Veg,Snacks
+Manchurian Potato - Mini,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Potato - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchow Soup,Normal,Productive,Light,Veg,Chinese
+Veg Schezwan Noodle Soup,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Kurkure Fried Momo with Momo Chutney,Tired,Lazy,Heavy,Veg,Snacks
+Veg Chinese Fried Rice - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Burnt Garlic Fried Rice - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Fried Rice - Half (500 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Chinese Schezwan Fried Rice - Half (500 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Chowmein Veg - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Hakka Noodles - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Burnt Garlic Noodles - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Noodles - Half (500 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Noodles - Half (500 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Fried Rice - Full (1000 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Burnt Garlic Fried Rice - Full (1000 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Fried Rice - Full (1000 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Fried Rice - Full (1000 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Triple Schezwan Rice,Stressed,Hectic,Spicy,Veg,Chinese
+Chowmein Veg  - Full (1000 Ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Hakka Noodles - Full (1000 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Burnt Garlic Noodles - Full (1000 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Noodles - Full (1000 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Noodles - Full (1000 ml),Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Bowl,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Paneer Bowl,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Bowl with Hakka Noodle,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer Bowl,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer Bowl,Stressed,Hectic,Spicy,Veg,Chinese
+Hunan Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Black Pepper Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Chilli Paneer Bowl.,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Personal Wok Bowl,Tired,Lazy,Heavy,Veg,Chinese
+Veg Medium Wok Bowl,Tired,Lazy,Heavy,Veg,Chinese
+Hunan Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Black Pepper Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Chilli Paneer Gravy - Half,Stressed,Hectic,Spicy,Veg,Chinese
+Hunan Paneer Gravy - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Black Pepper Paneer Gravy - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Veg - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Kung Pao Paneer - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Schezwan Paneer - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Manchurian Paneer - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Chilli Paneer - Full,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Manchurian Pot Rice,Stressed,Hectic,Spicy,Veg,Chinese
+Veg Fried Rice - Light Eaters,Normal,Productive,Light,Veg,Chinese
+Veg Hakka Noodles - Light Eaters,Normal,Productive,Light,Veg,Chinese
+Veg Desi Chilli Value Wok,Stressed,Hectic,Spicy,Veg,Chinese
+Chocolate Mousse - Small,Happy,Lazy,Sweet,Veg,Dessert
+Choco Lava,Happy,Lazy,Sweet,Veg,Dessert
+Pepsi Pet Bottle,Happy,Lazy,Sweet,Veg,Snacks
+Coolberg Peach,Happy,Lazy,Sweet,Veg,Snacks
+Coolberg Cranberry,Happy,Lazy,Sweet,Veg,Snacks
+Peach Ice Tea,Happy,Lazy,Sweet,Veg,Snacks
+Aam Panna,Happy,Lazy,Sweet,Veg,Snacks
+Masala Shikanji,Stressed,Hectic,Spicy,Veg,Snacks
+Lemon Ice Tea,Happy,Lazy,Sweet,Veg,Snacks
+Water,Normal,Productive,Light,Veg,Snacks
+Crispy Noodles,Tired,Lazy,Heavy,Veg,Snacks
+Extra Schezwan Dip,Stressed,Hectic,Spicy,Veg,Snacks
+Extra Mayo Dip,Tired,Lazy,Heavy,Veg,Snacks
+Extra Sweet Chilli Dip,Happy,Lazy,Sweet,Veg,Snacks
+Extra Momo Chutney,Stressed,Hectic,Spicy,Veg,Snacks
+Crispy Veg Burger,Tired,Lazy,Heavy,Veg,Fast Food
+Crispy Chicken Burger,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Crispy Veg Double Patty Burger,Tired,Lazy,Heavy,Veg,Fast Food
+Crispy Chicken Double Patty Burger,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Original Whopper Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Original Whopper Chicken,Tired,Lazy,Heavy,Non-Veg,Fast Food
+King Fries,Tired,Lazy,Heavy,Veg,Snacks
+Medium Fries,Tired,Lazy,Heavy,Veg,Snacks
+King Peri Peri Fries,Stressed,Hectic,Spicy,Veg,Snacks
+Chocolate Thick Shake,Happy,Lazy,Sweet,Veg,Dessert
+Crispy Veg Double Patty Burger+Fries(M),Tired,Lazy,Heavy,Veg,Fast Food
+Classic Family Feast for 4 - Veg,Tired,Lazy,Heavy,Veg,Fast Food
+4 Crispy Veg + 2 Medium Fries,Tired,Lazy,Heavy,Veg,Fast Food
+Crispy Veg Double Patty + Crispy Veg Double Patty,Tired,Lazy,Heavy,Veg,Fast Food
+Veg Makhani Burst + Whopper Jr Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Korean Spicy Paneer Burger,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Paneer Burger.,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Chicken Burger.,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Korean Spicy Fries,Stressed,Hectic,Spicy,Veg,Snacks
+Korean Spicy Fries.,Stressed,Hectic,Spicy,Veg,Snacks
+2Crispy Veg Double Patty Burger+Korean Spicy Fries.,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Chicken (4 Pc),Stressed,Hectic,Spicy,Non-Veg,Snacks
+Korean Spicy Chicken (4pc) + Crispy Chicken Burger.,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Korean Spicy Chicken (7 Pc),Stressed,Hectic,Spicy,Non-Veg,Snacks
+2Crispy Veg Burger+Korean Spicy Fries+2Coke.,Stressed,Hectic,Spicy,Veg,Fast Food
+2Crispy Chicken Burger+Korean Spicy Chicken(4pc)+2Coke.,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+2Whopper Jr Chicken+Korean Spicy Chicken(7pc).,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+2Whopper Jr Veg+2Korean Spicy Fries.,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Paneer Burger Meal.,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Chicken Burger Meal.,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Korean Spicy Paneer+Korean Spicy Fries(M).,Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Chicken+Korean Spicy Fries(M).,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Veg Makhani Burst Burger,Tired,Lazy,Heavy,Veg,Fast Food
+Chicken Makhani Burst Burger,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Veg Crunchy Taco,Tired,Lazy,Heavy,Veg,Snacks
+Crunchy Chicken Taco,Tired,Lazy,Heavy,Non-Veg,Snacks
+Crispy Chicken Triple Cheese Burger.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+BK Veggie Burger,Tired,Lazy,Heavy,Veg,Fast Food
+BK Chicken Burger,Tired,Lazy,Heavy,Non-Veg,Fast Food
+BK Veggie Triple Cheese Burger.,Tired,Lazy,Heavy,Veg,Fast Food
+Original Whopper Chicken.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Whopper Jr Veg,Tired,Lazy,Heavy,Veg,Fast Food
+Chicken Whopper Jr Double Patty.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Whopper Jr Veg Stacker.,Tired,Lazy,Heavy,Veg,Fast Food
+Whopper Jr Chicken with Cheese Slice.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Whopper Jr Veg with Cheese Slice.,Tired,Lazy,Heavy,Veg,Fast Food
+Whopper Jr Chicken,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Jr Whopper Stacker – Chicken,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Original Whopper Veg Stacker,Tired,Lazy,Heavy,Veg,Fast Food
+Original Whopper Chicken Stacker,Tired,Lazy,Heavy,Non-Veg,Fast Food
+"Paneer Royale Wrap,",Tired,Lazy,Heavy,Veg,Snacks
+Paneer Royale Wrap,Tired,Lazy,Heavy,Veg,Snacks
+"Korean Spicy Paneer Burger,",Stressed,Hectic,Spicy,Veg,Fast Food
+Korean Spicy Paneer Burger!,Stressed,Hectic,Spicy,Veg,Fast Food
+"Korean Spicy Chicken Burger,",Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Korean Spicy Chicken Burger!,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Medium Peri Peri Fries,Stressed,Hectic,Spicy,Veg,Snacks
+Saucy Fries,Tired,Lazy,Heavy,Veg,Snacks
+2 Med Fries.,Tired,Lazy,Heavy,Veg,Snacks
+"2 King Fries,",Tired,Lazy,Heavy,Veg,Snacks

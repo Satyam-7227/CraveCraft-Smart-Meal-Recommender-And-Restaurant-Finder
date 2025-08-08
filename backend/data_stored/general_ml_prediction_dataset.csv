@@ -1,0 +1,301 @@
+mood,dayStatus,craving,diet,cuisine,price,timeNeed,dish
+Tired,Productive,Spicy,Non-Veg,Chinese,115,30,Chicken Biryani
+Happy,Lazy,Heavy,Jain,Dessert,334,15,Veg Biryani
+Stressed,Normal,Heavy,Jain,Snacks,102,30,Spring Rolls
+Tired,Hectic,Light,Non-Veg,North Indian,287,30,Fried Rice
+Sad,Productive,Light,Jain,South Indian,237,15,Chicken Biryani
+Happy,Productive,Heavy,Jain,South Indian,367,60,Veg Biryani
+Tired,Lazy,Spicy,Veg,Snacks,198,60,Fried Rice
+Stressed,Normal,Light,Jain,Chinese,333,15,Dosa
+Happy,Hectic,Light,Veg,South Indian,369,60,Fried Rice
+Sad,Productive,Light,Jain,South Indian,165,30,Dosa
+Stressed,Hectic,Light,Non-Veg,Fast Food,371,30,Pizza
+Sad,Normal,Sweet,Non-Veg,South Indian,375,60,Rajma Chawal
+Tired,Productive,Sweet,Jain,North Indian,309,15,Paratha
+Sad,Normal,Spicy,Non-Veg,Dessert,324,15,Fried Rice
+Stressed,Normal,Sweet,Jain,Dessert,135,15,Dosa
+Sad,Normal,Spicy,Non-Veg,Fast Food,177,60,Fried Rice
+Happy,Productive,Spicy,Veg,Fast Food,190,60,Veg Biryani
+Sad,Lazy,Spicy,Jain,Dessert,227,30,Ice Cream
+Sad,Normal,Spicy,Veg,Chinese,339,60,Fried Rice
+Stressed,Normal,Heavy,Jain,Dessert,254,15,Veg Biryani
+Happy,Lazy,Sweet,Veg,North Indian,148,60,Chicken Biryani
+Stressed,Hectic,Light,Non-Veg,Dessert,133,15,Spring Rolls
+Tired,Lazy,Spicy,Non-Veg,Fast Food,164,30,Spring Rolls
+Stressed,Hectic,Spicy,Jain,South Indian,363,60,Spring Rolls
+Tired,Normal,Light,Non-Veg,Snacks,294,15,Chicken Biryani
+Stressed,Hectic,Spicy,Veg,North Indian,157,60,Rajma Chawal
+Happy,Productive,Light,Non-Veg,Fast Food,254,15,Ice Cream
+Stressed,Normal,Sweet,Veg,Chinese,261,30,Chole Bhature
+Tired,Normal,Sweet,Jain,Dessert,311,15,Dosa
+Tired,Productive,Light,Veg,Fast Food,269,15,Pizza
+Sad,Normal,Light,Veg,Dessert,132,60,Fried Rice
+Tired,Hectic,Heavy,Veg,South Indian,123,15,Ice Cream
+Tired,Lazy,Spicy,Veg,North Indian,353,15,Chole Bhature
+Stressed,Lazy,Spicy,Non-Veg,Dessert,147,15,Chole Bhature
+Happy,Hectic,Spicy,Veg,Dessert,270,30,Rajma Chawal
+Tired,Productive,Sweet,Veg,Chinese,347,30,Rajma Chawal
+Tired,Lazy,Spicy,Non-Veg,Snacks,162,30,Ice Cream
+Stressed,Hectic,Sweet,Veg,Chinese,222,60,Veg Biryani
+Tired,Lazy,Sweet,Jain,Chinese,122,60,Chole Bhature
+Stressed,Hectic,Spicy,Jain,North Indian,302,15,Chicken Biryani
+Stressed,Productive,Heavy,Veg,North Indian,301,15,Fried Rice
+Sad,Lazy,Sweet,Veg,Chinese,337,60,Fried Rice
+Happy,Lazy,Heavy,Veg,South Indian,116,30,Chicken Biryani
+Tired,Hectic,Light,Veg,Snacks,167,30,Ice Cream
+Sad,Lazy,Heavy,Veg,North Indian,394,15,Paratha
+Sad,Lazy,Heavy,Veg,Chinese,395,15,Veg Biryani
+Stressed,Lazy,Heavy,Non-Veg,Dessert,106,30,Veg Biryani
+Happy,Hectic,Heavy,Jain,South Indian,295,60,Fried Rice
+Happy,Hectic,Heavy,Non-Veg,South Indian,231,30,Spring Rolls
+Happy,Productive,Light,Non-Veg,Snacks,255,60,Pizza
+Happy,Productive,Spicy,Non-Veg,Fast Food,346,15,Paratha
+Tired,Lazy,Sweet,Jain,South Indian,160,15,Chole Bhature
+Sad,Hectic,Heavy,Non-Veg,North Indian,239,30,Fried Rice
+Happy,Lazy,Heavy,Veg,Fast Food,286,60,Pizza
+Tired,Lazy,Sweet,Non-Veg,Chinese,200,15,Chicken Biryani
+Stressed,Productive,Spicy,Veg,Chinese,117,60,Rajma Chawal
+Tired,Normal,Spicy,Non-Veg,South Indian,307,30,Rajma Chawal
+Happy,Lazy,Spicy,Veg,Fast Food,294,60,Pizza
+Sad,Productive,Heavy,Jain,Chinese,203,30,Chole Bhature
+Sad,Lazy,Light,Veg,North Indian,335,30,Fried Rice
+Tired,Hectic,Heavy,Non-Veg,Dessert,324,60,Dosa
+Sad,Hectic,Sweet,Jain,Chinese,328,15,Fried Rice
+Stressed,Normal,Sweet,Jain,North Indian,352,60,Dosa
+Tired,Productive,Heavy,Jain,South Indian,179,60,Paratha
+Happy,Productive,Sweet,Jain,Snacks,153,60,Rajma Chawal
+Stressed,Normal,Sweet,Veg,Dessert,130,15,Fried Rice
+Happy,Lazy,Spicy,Non-Veg,North Indian,334,15,Dosa
+Tired,Hectic,Light,Non-Veg,North Indian,123,15,Chole Bhature
+Stressed,Normal,Light,Non-Veg,Fast Food,398,60,Rajma Chawal
+Happy,Lazy,Heavy,Jain,North Indian,232,60,Paratha
+Sad,Normal,Sweet,Jain,Snacks,290,30,Paratha
+Stressed,Hectic,Spicy,Non-Veg,South Indian,347,30,Paratha
+Happy,Normal,Light,Jain,South Indian,295,60,Spring Rolls
+Sad,Productive,Heavy,Non-Veg,Snacks,184,30,Chicken Biryani
+Tired,Normal,Light,Jain,Dessert,115,15,Chicken Biryani
+Stressed,Hectic,Heavy,Non-Veg,South Indian,374,30,Fried Rice
+Tired,Normal,Light,Jain,Snacks,105,60,Pizza
+Tired,Lazy,Heavy,Jain,Snacks,141,30,Fried Rice
+Sad,Productive,Heavy,Jain,North Indian,339,60,Paratha
+Tired,Productive,Light,Non-Veg,Fast Food,239,60,Chole Bhature
+Happy,Hectic,Light,Non-Veg,Chinese,398,60,Chicken Biryani
+Happy,Productive,Spicy,Non-Veg,Chinese,135,60,Chicken Biryani
+Tired,Hectic,Light,Jain,South Indian,292,30,Idli Sambhar
+Stressed,Lazy,Light,Veg,Chinese,211,15,Fried Rice
+Stressed,Lazy,Heavy,Veg,North Indian,377,30,Pizza
+Stressed,Lazy,Spicy,Veg,Dessert,342,60,Chole Bhature
+Sad,Normal,Sweet,Jain,Fast Food,230,60,Chicken Biryani
+Tired,Normal,Spicy,Jain,North Indian,332,60,Dosa
+Tired,Normal,Heavy,Veg,Snacks,305,30,Ice Cream
+Happy,Normal,Heavy,Non-Veg,Fast Food,105,30,Rajma Chawal
+Sad,Productive,Heavy,Non-Veg,North Indian,101,60,Rajma Chawal
+Tired,Lazy,Sweet,Jain,Chinese,368,60,Ice Cream
+Happy,Normal,Heavy,Jain,South Indian,138,60,Dosa
+Sad,Normal,Spicy,Veg,Chinese,396,30,Rajma Chawal
+Stressed,Normal,Light,Veg,Snacks,229,15,Chicken Biryani
+Sad,Productive,Sweet,Veg,Fast Food,267,30,Fried Rice
+Sad,Hectic,Spicy,Jain,Snacks,254,30,Rajma Chawal
+Tired,Productive,Spicy,Veg,North Indian,259,15,Fried Rice
+Tired,Lazy,Light,Jain,Chinese,295,60,Chicken Biryani
+Tired,Normal,Light,Jain,South Indian,160,60,Idli Sambhar
+Stressed,Lazy,Light,Veg,Chinese,340,30,Ice Cream
+Sad,Hectic,Heavy,Veg,Dessert,255,30,Dosa
+Sad,Lazy,Heavy,Non-Veg,South Indian,370,15,Chicken Biryani
+Happy,Normal,Sweet,Non-Veg,Dessert,267,15,Chole Bhature
+Stressed,Normal,Light,Veg,South Indian,382,30,Rajma Chawal
+Sad,Hectic,Sweet,Jain,Dessert,118,15,Pizza
+Stressed,Hectic,Heavy,Veg,Fast Food,166,60,Chole Bhature
+Tired,Hectic,Heavy,Non-Veg,Chinese,197,30,Chicken Biryani
+Happy,Normal,Sweet,Veg,Snacks,125,60,Chicken Biryani
+Sad,Normal,Heavy,Non-Veg,Dessert,106,30,Rajma Chawal
+Tired,Productive,Light,Veg,North Indian,196,60,Fried Rice
+Stressed,Hectic,Spicy,Jain,North Indian,378,60,Paratha
+Happy,Normal,Spicy,Non-Veg,North Indian,157,60,Ice Cream
+Tired,Productive,Light,Veg,North Indian,113,60,Ice Cream
+Sad,Normal,Light,Veg,Chinese,137,15,Dosa
+Sad,Lazy,Light,Veg,Chinese,190,60,Rajma Chawal
+Stressed,Lazy,Heavy,Veg,Dessert,171,30,Chicken Biryani
+Sad,Productive,Spicy,Non-Veg,North Indian,360,15,Chole Bhature
+Stressed,Productive,Light,Jain,Chinese,267,60,Pizza
+Tired,Normal,Sweet,Jain,Snacks,117,30,Rajma Chawal
+Happy,Normal,Light,Non-Veg,North Indian,298,60,Paratha
+Sad,Normal,Spicy,Non-Veg,North Indian,345,15,Rajma Chawal
+Stressed,Productive,Spicy,Veg,South Indian,399,30,Spring Rolls
+Sad,Normal,Heavy,Jain,Fast Food,211,15,Chole Bhature
+Stressed,Hectic,Spicy,Non-Veg,Fast Food,239,15,Paratha
+Happy,Lazy,Light,Veg,North Indian,368,30,Chicken Biryani
+Sad,Hectic,Heavy,Non-Veg,Chinese,142,15,Chole Bhature
+Sad,Lazy,Sweet,Non-Veg,Dessert,196,30,Veg Biryani
+Happy,Productive,Light,Veg,Fast Food,106,60,Spring Rolls
+Tired,Productive,Light,Non-Veg,South Indian,181,30,Rajma Chawal
+Sad,Normal,Sweet,Veg,Snacks,396,60,Fried Rice
+Tired,Productive,Sweet,Veg,South Indian,327,15,Chicken Biryani
+Tired,Normal,Heavy,Non-Veg,Snacks,282,60,Chole Bhature
+Happy,Productive,Spicy,Non-Veg,Fast Food,202,15,Paratha
+Stressed,Productive,Heavy,Veg,Fast Food,116,15,Pizza
+Tired,Productive,Heavy,Non-Veg,South Indian,187,30,Ice Cream
+Tired,Normal,Spicy,Veg,South Indian,380,60,Chole Bhature
+Stressed,Hectic,Spicy,Veg,North Indian,154,30,Spring Rolls
+Stressed,Productive,Heavy,Non-Veg,Chinese,178,15,Chicken Manchurian
+Tired,Lazy,Spicy,Non-Veg,Chinese,146,60,Veg Biryani
+Happy,Lazy,Sweet,Veg,Dessert,365,60,Rasgulla
+Stressed,Lazy,Spicy,Non-Veg,North Indian,127,30,Chole Bhature
+Happy,Hectic,Light,Non-Veg,Fast Food,169,30,Veg Biryani
+Tired,Productive,Sweet,Veg,North Indian,222,30,Chicken Biryani
+Happy,Productive,Heavy,Non-Veg,Snacks,166,60,Fried Rice
+Tired,Normal,Heavy,Jain,South Indian,183,30,Pizza
+Happy,Normal,Spicy,Non-Veg,Snacks,273,15,Chole Bhature
+Sad,Hectic,Sweet,Non-Veg,South Indian,361,30,Chole Bhature
+Sad,Productive,Spicy,Veg,North Indian,101,60,Paratha
+Happy,Hectic,Light,Jain,Fast Food,192,30,Rajma Chawal
+Stressed,Normal,Heavy,Non-Veg,North Indian,191,30,Ice Cream
+Tired,Hectic,Sweet,Jain,North Indian,166,60,Chicken Biryani
+Tired,Productive,Heavy,Veg,Dessert,230,30,Paratha
+Stressed,Normal,Heavy,Veg,Fast Food,165,15,Fried Rice
+Happy,Hectic,Spicy,Jain,Chinese,307,30,Veg Biryani
+Happy,Normal,Light,Veg,North Indian,338,30,Veg Biryani
+Tired,Normal,Heavy,Non-Veg,North Indian,282,30,Fried Rice
+Stressed,Normal,Light,Veg,Snacks,310,30,Paratha
+Stressed,Normal,Spicy,Non-Veg,Dessert,366,15,Spring Rolls
+Happy,Normal,Sweet,Jain,South Indian,102,30,Chole Bhature
+Sad,Lazy,Spicy,Veg,Dessert,256,30,Paratha
+Tired,Lazy,Spicy,Jain,Fast Food,198,30,Rajma Chawal
+Happy,Productive,Spicy,Veg,Dessert,259,15,Rajma Chawal
+Happy,Lazy,Sweet,Jain,South Indian,266,15,Chole Bhature
+Stressed,Hectic,Heavy,Jain,Chinese,137,60,Rajma Chawal
+Sad,Normal,Heavy,Jain,North Indian,352,15,Dosa
+Stressed,Normal,Light,Veg,Fast Food,206,30,Rajma Chawal
+Sad,Normal,Light,Veg,Dessert,127,15,Spring Rolls
+Sad,Lazy,Heavy,Veg,South Indian,209,60,Paratha
+Happy,Productive,Light,Non-Veg,North Indian,152,15,Chicken Biryani
+Tired,Normal,Spicy,Non-Veg,Fast Food,308,15,Chole Bhature
+Happy,Productive,Light,Jain,South Indian,171,15,Rajma Chawal
+Tired,Hectic,Sweet,Veg,North Indian,129,15,Rajma Chawal
+Happy,Hectic,Light,Jain,South Indian,145,15,Pizza
+Sad,Hectic,Sweet,Jain,North Indian,277,15,Veg Biryani
+Stressed,Productive,Light,Veg,Fast Food,190,15,Spring Rolls
+Happy,Lazy,Spicy,Non-Veg,Fast Food,286,60,Rajma Chawal
+Happy,Hectic,Sweet,Jain,Chinese,330,15,Spring Rolls
+Stressed,Productive,Light,Jain,Fast Food,167,15,Rajma Chawal
+Stressed,Hectic,Heavy,Veg,Chinese,239,15,Fried Rice
+Sad,Productive,Light,Jain,Fast Food,319,60,Rajma Chawal
+Stressed,Lazy,Light,Jain,Dessert,225,30,Pizza
+Stressed,Hectic,Heavy,Non-Veg,Dessert,382,30,Pizza
+Stressed,Productive,Spicy,Veg,Fast Food,216,30,Chicken Biryani
+Happy,Normal,Spicy,Non-Veg,Fast Food,145,60,Rajma Chawal
+Tired,Productive,Heavy,Veg,Chinese,218,60,Veg Biryani
+Stressed,Hectic,Heavy,Non-Veg,Chinese,165,15,Chicken Manchurian
+Tired,Lazy,Heavy,Jain,North Indian,328,30,Ice Cream
+Stressed,Productive,Spicy,Jain,Snacks,146,60,Pizza
+Happy,Hectic,Spicy,Jain,Snacks,190,60,Pizza
+Stressed,Normal,Spicy,Veg,South Indian,118,60,Spring Rolls
+Tired,Lazy,Light,Jain,North Indian,395,30,Chole Bhature
+Happy,Lazy,Heavy,Veg,Snacks,324,30,Dosa
+Stressed,Normal,Spicy,Veg,Snacks,149,30,Fried Rice
+Happy,Lazy,Light,Jain,South Indian,376,60,Rajma Chawal
+Happy,Normal,Sweet,Jain,Snacks,293,30,Veg Biryani
+Tired,Lazy,Spicy,Veg,Fast Food,287,15,Dosa
+Tired,Productive,Sweet,Veg,Chinese,235,15,Chole Bhature
+Stressed,Normal,Spicy,Veg,Fast Food,212,30,Pizza
+Tired,Normal,Sweet,Jain,Snacks,151,60,Pizza
+Sad,Productive,Spicy,Non-Veg,South Indian,111,30,Paratha
+Tired,Lazy,Spicy,Non-Veg,Chinese,384,60,Ice Cream
+Happy,Productive,Sweet,Non-Veg,Chinese,217,15,Veg Biryani
+Tired,Normal,Sweet,Jain,Chinese,325,60,Spring Rolls
+Stressed,Productive,Sweet,Veg,North Indian,116,30,Chole Bhature
+Happy,Normal,Light,Non-Veg,Fast Food,348,15,Fried Rice
+Sad,Lazy,Heavy,Jain,South Indian,212,15,Veg Biryani
+Stressed,Productive,Light,Veg,Chinese,392,60,Veg Biryani
+Tired,Normal,Spicy,Non-Veg,North Indian,242,15,Chole Bhature
+Tired,Lazy,Sweet,Non-Veg,South Indian,114,60,Paratha
+Tired,Normal,Spicy,Veg,Fast Food,112,15,Rajma Chawal
+Stressed,Productive,Light,Jain,Dessert,137,15,Dosa
+Happy,Lazy,Light,Non-Veg,Snacks,270,30,Chicken Biryani
+Stressed,Lazy,Spicy,Jain,South Indian,365,30,Chicken Biryani
+Happy,Hectic,Heavy,Non-Veg,Dessert,144,60,Fried Rice
+Stressed,Normal,Light,Non-Veg,Chinese,142,15,Spring Rolls
+Stressed,Hectic,Light,Jain,Dessert,262,15,Paratha
+Happy,Productive,Heavy,Non-Veg,Chinese,292,60,Chicken Biryani
+Tired,Lazy,Light,Non-Veg,Dessert,219,30,Dosa
+Tired,Normal,Light,Jain,South Indian,183,30,Idli Sambhar
+Stressed,Hectic,Spicy,Jain,Fast Food,252,30,Rajma Chawal
+Sad,Normal,Heavy,Jain,Snacks,200,60,Chicken Biryani
+Sad,Lazy,Sweet,Veg,Chinese,370,30,Paratha
+Tired,Productive,Heavy,Veg,Dessert,188,15,Pizza
+Tired,Lazy,Spicy,Non-Veg,Dessert,138,15,Pizza
+Stressed,Lazy,Spicy,Veg,Snacks,140,60,Rajma Chawal
+Stressed,Productive,Light,Non-Veg,North Indian,264,30,Paratha
+Happy,Hectic,Sweet,Jain,South Indian,194,30,Pizza
+Stressed,Hectic,Heavy,Veg,Snacks,351,30,Dosa
+Sad,Hectic,Spicy,Jain,North Indian,255,60,Dosa
+Stressed,Hectic,Light,Veg,Snacks,136,30,Chicken Biryani
+Happy,Lazy,Spicy,Veg,South Indian,172,30,Ice Cream
+Happy,Hectic,Spicy,Non-Veg,Chinese,174,15,Fried Rice
+Tired,Normal,Sweet,Veg,South Indian,126,30,Rajma Chawal
+Tired,Lazy,Light,Veg,Dessert,356,15,Pizza
+Stressed,Productive,Heavy,Non-Veg,Chinese,306,30,Chicken Manchurian
+Sad,Lazy,Light,Jain,South Indian,395,60,Fried Rice
+Happy,Normal,Spicy,Veg,South Indian,384,60,Fried Rice
+Stressed,Hectic,Spicy,Non-Veg,Fast Food,262,60,Dosa
+Happy,Normal,Sweet,Jain,Chinese,167,15,Fried Rice
+Tired,Hectic,Heavy,Non-Veg,Dessert,364,60,Chole Bhature
+Tired,Productive,Spicy,Jain,North Indian,181,30,Veg Biryani
+Sad,Lazy,Spicy,Jain,South Indian,147,60,Rajma Chawal
+Tired,Lazy,Heavy,Veg,Snacks,393,30,Spring Rolls
+Happy,Lazy,Light,Veg,North Indian,217,60,Veg Biryani
+Stressed,Lazy,Spicy,Veg,Snacks,320,60,Ice Cream
+Happy,Normal,Heavy,Veg,Dessert,208,30,Fried Rice
+Sad,Normal,Light,Veg,Snacks,348,30,Rajma Chawal
+Tired,Normal,Spicy,Jain,South Indian,224,15,Chicken Biryani
+Tired,Normal,Heavy,Non-Veg,Fast Food,312,60,Veg Biryani
+Tired,Productive,Light,Veg,Dessert,244,15,Veg Biryani
+Tired,Normal,Spicy,Jain,North Indian,386,15,Fried Rice
+Stressed,Normal,Sweet,Jain,North Indian,308,60,Veg Biryani
+Happy,Lazy,Sweet,Jain,South Indian,172,30,Ice Cream
+Happy,Hectic,Heavy,Jain,Chinese,320,30,Rajma Chawal
+Stressed,Productive,Light,Non-Veg,South Indian,178,60,Paratha
+Happy,Lazy,Light,Jain,Snacks,265,30,Chole Bhature
+Sad,Hectic,Spicy,Jain,Fast Food,132,15,Paratha
+Tired,Normal,Spicy,Non-Veg,Chinese,219,15,Veg Biryani
+Stressed,Productive,Light,Veg,North Indian,288,60,Dosa
+Stressed,Lazy,Sweet,Veg,North Indian,381,15,Rajma Chawal
+Sad,Lazy,Light,Veg,Fast Food,219,30,Chole Bhature
+Sad,Productive,Sweet,Veg,Dessert,144,60,Gulab Jamun
+Stressed,Hectic,Sweet,Non-Veg,Chinese,183,30,Fried Rice
+Sad,Productive,Light,Jain,Snacks,159,30,Rajma Chawal
+Happy,Lazy,Sweet,Non-Veg,Snacks,120,30,Spring Rolls
+Sad,Normal,Spicy,Non-Veg,Dessert,382,60,Ice Cream
+Stressed,Lazy,Spicy,Jain,North Indian,329,30,Rajma Chawal
+Tired,Hectic,Sweet,Jain,Snacks,331,60,Fried Rice
+Tired,Productive,Light,Jain,North Indian,342,60,Chole Bhature
+Tired,Productive,Light,Non-Veg,Chinese,317,60,Rajma Chawal
+Tired,Productive,Sweet,Non-Veg,Fast Food,153,60,Spring Rolls
+Stressed,Hectic,Sweet,Non-Veg,South Indian,396,60,Ice Cream
+Happy,Normal,Sweet,Non-Veg,South Indian,104,30,Spring Rolls
+Tired,Lazy,Sweet,Non-Veg,Snacks,142,60,Paratha
+Happy,Hectic,Light,Veg,Snacks,174,60,Fried Rice
+Stressed,Normal,Light,Veg,Fast Food,148,15,Paratha
+Happy,Hectic,Spicy,Jain,South Indian,321,15,Spring Rolls
+Happy,Normal,Light,Non-Veg,Dessert,127,15,Fried Rice
+Tired,Productive,Heavy,Veg,North Indian,372,30,Chicken Biryani
+Sad,Lazy,Light,Jain,Chinese,261,15,Fried Rice
+Sad,Productive,Light,Non-Veg,Snacks,165,60,Paratha
+Happy,Productive,Light,Veg,Snacks,127,60,Paratha
+Happy,Normal,Sweet,Jain,South Indian,203,30,Ice Cream
+Happy,Hectic,Heavy,Jain,Chinese,311,30,Paratha
+Tired,Productive,Heavy,Jain,North Indian,253,30,Spring Rolls
+Sad,Productive,Spicy,Non-Veg,Fast Food,377,15,Chole Bhature
+Sad,Hectic,Light,Jain,Snacks,249,60,Ice Cream
+Sad,Hectic,Sweet,Veg,South Indian,269,30,Chole Bhature
+Happy,Lazy,Heavy,Jain,Chinese,214,30,Spring Rolls
+Happy,Lazy,Light,Jain,North Indian,215,15,Rajma Chawal
+Happy,Hectic,Sweet,Veg,Snacks,291,60,Veg Biryani
+Sad,Hectic,Spicy,Non-Veg,Fast Food,204,30,Chicken Biryani
+Happy,Productive,Sweet,Veg,North Indian,165,15,Rajma Chawal
+Stressed,Normal,Spicy,Non-Veg,South Indian,309,30,Dosa
+Happy,Productive,Sweet,Jain,Snacks,114,15,Chole Bhature
+Tired,Lazy,Light,Jain,Fast Food,310,15,Rajma Chawal
+Sad,Normal,Sweet,Non-Veg,Snacks,320,30,Spring Rolls
+Happy,Normal,Spicy,Non-Veg,North Indian,382,60,Fried Rice
+Stressed,Lazy,Heavy,Non-Veg,Snacks,294,60,Fried Rice
