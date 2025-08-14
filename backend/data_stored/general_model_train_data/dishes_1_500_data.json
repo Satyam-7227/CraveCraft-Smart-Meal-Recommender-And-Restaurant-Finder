@@ -1,0 +1,4002 @@
+[
+    {
+        "dish": "Margherita",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Feast",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tandoori Paneer",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Country Feast",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Sausage",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Murg Malai Chicken",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Supreme",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Triple Chicken Feast",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Onion Capsicum",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheesy Spicy Delight",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Paneer Sizzle",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Chicken Pepperoni & Onion",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Herbed Chicken & Capsicum",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chatpata Chicken Feast",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Bold BBQ Veggie Thin n Crispy",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Schezwan Pasta Chicken",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Spicy Red Schezwan Pasta",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Paneer",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Southern Fiery Paneer",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Royal Spice Paneer",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Chicken",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Juicylicious Southern Fiery Chicken",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Royal Spice Chicken",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Paneer Melts",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Royal Spice Paneer Melts",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Chicken Melts",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Royal Spice Chicken Melts",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Baked Royal Spice Chicken Wings 4pc",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Baked Royal Spice Chicken Wings 6pc",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Baked Southern Fiery Chicken Wings 4pc",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Baked Southern Fiery Chicken Wings 6pc",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Garlic Bread",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Southern Fiery Garlic Bread",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhai Keema Garlic Bread",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Southern Fiery Keema Garlic Bread",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Indi Garlic Bread Combo",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Indi Keema Garlic Bread Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Margherita",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Mexican Fiesta",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Bold BBQ Veggies",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Ultimate Tandoori Veggie",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mazedar Makhni Paneer",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Margherita",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Corn & Cheese",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Feast",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spiced Paneer",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tandoori Paneer",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Country Feast",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Margherita Pizza",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veggie Supreme",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sausage & Sweet Corn.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dhabe Da Keema",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sizzling Schezwan Chicken",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Nawabi Murg Makhni",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Sausage",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Murg Malai Chicken",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Pepperoni",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Supreme",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka Supreme",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Triple Chicken Feast",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Pepperoni",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Create Your Flavour Fun Combo - Box Of 4 - Veg",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Create Your Flavour Fun Combo - Box Of 4 - Non Veg",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Corn",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Onion Capsicum",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chatpata Tomato Onion & Chilli",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Sweet Corn, Onion, Green Chilli",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheesy Spicy Delight",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Paneer Sizzle",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Chicken Pepperoni & Onion",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Herbed Chicken & Capsicum",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chatpata Chicken Feast",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hut Treat Meal for 2 - Veg",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hut Treat Meal for 2 - Non Veg",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hut Treat Meal for 4 - Veg",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hut Treat Meal for 4 - Non Veg",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Bold BBQ Veggie Thin n Crispy",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tandoori Paneer Thin n Crispy",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mexican Fiesta Thin n Crispy",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dhabe Da Keema Thin n Crispy",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Pepperoni Thin n Crispy",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Supreme Thin n Crispy",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Schezwan Pasta Chicken",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Cosy Comfort White Sauce Chicken Pasta",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cosy Comfort White Sauce Pasta",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Mushroom Pasta",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tomato Twist Red Sauce Pasta",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Red Schezwan Pasta",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Tandoori Murg Pasta",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tandoori Paneer Pasta",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Penne McN Cheese & Chicken Pasta",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Penne McN Cheese Pasta",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Super Value Deal : 2 Medium Veg Pizzas starting at Rs 649 (Save Upto 41%).",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Super Value Deal : 2 Medium Non-Veg Pizzas starting at Rs 749 (Save Upto 39%).",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Garlic Bread",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Exotica Veggie Garlic Bread",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Bread Stix",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Loaded Bread Stix",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Garlic Bread Spicy Supreme",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Keema Garlic Bread",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Create your Melts Box of 2 - Veg",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheezy Cheese Veg & Loaded BBQ Veg Combo",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Create your Melts Box of 2 Non-Veg",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheezy Cheese Chicken & Loaded BBQ Non-Veg Combo",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Veg",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Melts 3 Course Meal for 1 - Veg",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Non Veg",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Melts 3 Course Meal for 1 Non-Veg",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheezy Sprinkled Fries",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BBQ Baked Chicken Wings 6pc",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BBQ Baked Chicken Wings 4pc",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sprinkled Fries - New",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Baked Chicken Wings 4pc",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Baked Chicken Wings 6pc",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Jalapeno Pepper Dip",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Mayonnaise Dip",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tomato Ketchup",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Momo Dip",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mirinda 475ml",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "7UP",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pepsi Zero Sugar 300ml",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Brow-wow-nie",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Choco Volcano",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Combo for 1 Veg",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Full",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Fried Rice - Half (500 ml).",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Hakka Noodles - Half (500 ml).",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles - Half (500 ml).",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles - Half (500 ml).",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Black forest Mousse Cake",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Salted Caramel Choco Mousse",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Combo for 1 Veg",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Desi Chilli Potato - Mini",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Desi Chilli Potato - Full",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Full",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Dry - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Dry - Full",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Chilli Dry - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Chilli Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Dry - Mini",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Dry - Full",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Ball In Choice Of Sauce - Full",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Spring Roll 6 Pcs - Mini",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sweet Chilli Potato - Mini",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sweet Chilli Potato - Full",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Manchurian Potato - Mini",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Potato - Full",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchow Soup with Crispy Noodles",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodle Soup",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Kurkure Fried Momo with Momo Chutney",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Fried Rice - Half (500 ml)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Burnt Garlic Fried Rice - Half (500 ml)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chilli Garlic Fried Rice - Half (500 ml)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Schezwan Fried Rice - Half (500 ml)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chowmein Veg - Half (500 ml)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Hakka Noodles - Half (500 ml)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Burnt Garlic Noodles - Half (500 ml)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles - Half (500 ml)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles - Half (500 ml)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Fried Rice - Full (1000 ml)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Burnt Garlic Fried Rice - Full (1000 ml)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chilli Garlic Fried Rice - Full (1000 ml)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Schezwan Fried Rice - Full (1000 ml)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Triple Schezwan Rice",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chowmein Veg  - Full (1000 Ml)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Hakka Noodles - Full (1000 ml)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Burnt Garlic Noodles - Full (1000 ml)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles - Full (1000 ml)",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles - Full (1000 ml)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Hunan Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Bowl with Hakka Noodle",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Bowl.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Manchurian Paneer Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Bowl.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Bowl.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Bowl.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chilli Paneer Bowl.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chowmein Veg  - Half (500 ml).",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Fried Rice - Half (500 ml).",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Burnt Garlic Fried Rice - Half (500 ml).",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chilli Garlic Fried Rice - Half (500 ml).",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Chinese Schezwan Fried Rice - Half (500 ml).",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chinese Hakka Noodles - Half (500 ml).",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Burnt Garlic Noodles - Half (500 ml).",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles - Half (500 ml).",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles - Half (500 ml).",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Personal Wok Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Medium Wok Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Gravy - Half",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Gravy - Half",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Gravy - Half",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Kung Pao Paneer Gravy - Half",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Gravy - Half",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Manchurian Paneer Gravy - Half",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Paneer Gravy - Half",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Gravy - Full",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Gravy - Full",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Manchurian Veg - Full",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Kung Pao Paneer - Full",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer - Full",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Manchurian Paneer - Full",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Paneer - Full",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Pot Rice",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Fried Rice - Light Eaters",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Hakka Noodles - Light Eaters",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Desi Chilli Value Wok",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chocolate Mousse - Small",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black forest Mousse Cake",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Salted Caramel Choco Mousse",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Choco Lava",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pepsi Pet Bottle",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "7 Up",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Coolberg Peach",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Coolberg Cranberry",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peach Ice Tea",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aam Panna",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Shikanji",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Lemon Ice Tea",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Water",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Noodles",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Extra Schezwan Dip",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Extra Mayo Dip",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Extra Sweet Chilli Dip",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Extra Momo Chutney",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Veg Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Burger",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Double Patty Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Veg",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "King Fries",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Medium Fries",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "King Peri Peri Fries",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chocolate Thick Shake",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Burger+Fries(M)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Family Feast for 4 - Veg",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "4 Crispy Veg + 2 Medium Fries",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty + Crispy Veg Double Patty",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Makhani Burst + Whopper Jr Veg",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Paneer Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Paneer Burger.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Chicken Burger",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Fries",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Fries.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2Crispy Veg Double Patty Burger+Korean Spicy Fries.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Chicken (4 Pc)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken (4pc) + Crispy Chicken Burger.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Chicken (7 Pc)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2Crispy Veg Burger+Korean Spicy Fries+2Coke.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2Crispy Chicken Burger+Korean Spicy Chicken(4pc)+2Coke.",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2Whopper Jr Chicken+Korean Spicy Chicken(7pc).",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2Whopper Jr Veg+2Korean Spicy Fries.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Paneer Burger Meal.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken Burger Meal.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Paneer+Korean Spicy Fries(M).",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken+Korean Spicy Fries(M).",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Makhani Burst Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Makhani Burst Burger",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Burger",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Double Patty Burger",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Crunchy Taco",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crunchy Chicken Taco",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Chicken Triple Cheese Burger.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veggie Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veggie Triple Cheese Burger.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Veg",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Veg",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Whopper Jr Double Patty.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Veg Stacker.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Chicken with Cheese Slice.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Veg with Cheese Slice.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Chicken",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Jr Whopper Stacker – Chicken",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Veg Stacker",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken Stacker",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Royale Wrap,",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Royale Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Paneer Burger,",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Paneer Burger!",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken Burger,",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Chicken Burger!",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Medium Peri Peri Fries",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "King Fries",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Saucy Fries",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Med Fries.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 King Fries,",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Medium Fries",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "King Peri Peri Fries",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fiery Hell Dip",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri Spice Mix",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Fries,",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spicy Fries!",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veg Pizza Puff",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veggie Strips(5 Pcs)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Hashbrown",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "(6Pc) Crunchy Chicken Nuggets + 1 Dip.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "(6Pc) Crunchy Chicken Nuggets + 1 Dip",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "(9Pc) Crunchy Chicken Nuggets + 2 Dips,",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Wings Regular",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Wings Regular.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Wings Large",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken (4 Pc)!",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Spicy Chicken (7 Pc)!",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chocolate Thick Shake",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chocolate Shake.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mango Thick Shake",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mango Shake.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Berry Blast Thick Shake",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Chicken Meal.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Veg Meal.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Makhani Burst Meal.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crunchy Veg Taco+Veggie Strips+Coke.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Puff Meal.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Veg Meal,",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Veggie Burger+Fries(Reg)+Coca Cola,",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Meal,",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Makhani Burst+Fries(Reg)+Coke,",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Combo (M)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Veg Combo (M)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Whopper Jr Veg Combo (M)",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Chicken Combo (M)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Veggie Burger Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Whopper Jr Chicken Combo (M)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Chicken Burger Combo (M)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Whopper Jr Veg+ Crispy Veg.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 BK Veggie Burgers,",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken + Crunchy Chicken Taco.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Veggie Burger + Veg Taco.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Makhani Burst Burger+ Medium Peri Peri Fries.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken + Chicken Nuggets (4Pcs).",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Veggie Burger + Crispy Veg Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Burger+Fries(M)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Crunchy Veg Taco+Fries(M),",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken + Med Fries.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Burger+Veg Crunchy Taco.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Whopper Jr + BK Veg Pizza Puff.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Makhani Burst Burger+Fries(Reg)+Peri Peri Sachet.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty Burger+Fries(M)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "1Crispy Veg Double Patty + 1Med Fries.",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Burger+Peri Peri Fries(Reg).",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veggie Burger+Veg Makhani Burst Burger.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veggie Burger + BK Veg Pizza Puff.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Veg Whopper Jr,",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Jr Veg Whopper",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Chicken Double Patty Burger+Crunchy Chicken Taco,",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "3 Veg Makhani Burst Burger,",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Burger + BK Chicken Burger,",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Crunchy Chicken Taco,",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Veg Crunchy Tacos+Crispy Veg Burger,",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Whopper Jr + Crunchy Veg Taco,",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chocolate Thick Shake + Crispy Veg Burger,",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken+Crunchy Chicken Nuggets(6Pcs),",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Chicken+Crunchy Chicken Nuggets(4pcs),",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Royale Wrap+BK Veggie Burger.",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Wings(7pcs)+Fiery Hell Dip.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken+Fries(M).",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Veg Meal(Reg).",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Veg+Peri Peri Fries(M).",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Chicken+4pcs Crunchy Chicken Nuggets.",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Veg+BK Veggie Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Family Feast for 4 - Veg",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Family Feast for 4 - Chicken",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "11Pc Boneless Wings",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Choco Lava Cup",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chocolate Mousse Cup",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Coca Cola Medium",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Fanta Medium",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "4 Crispy Veg + 2 Medium Fries",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "6 Crispy Veg",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "6 Crispy Chicken",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "4 Crispy Chicken + 2 Medium Fries",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veggie Strips(5Pcs) + 1 Dip",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Chicken Wings(4pcs)+1Fiery Hell Dip",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boneless Chicken Wings(7Pcs)+1Fiery Hell Dip",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "1 Jr Veg Whopper +1 Chocolate Thick Shake",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "1 Jr Chicken Whopper+1 Chocolate Thick Shake",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Crispy Veg Double Patty + 1 King Fries +1Chocolate mousse cup",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veg Double Patty + Crispy Veg Double Patty",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Makhani Burst + Whopper Jr Veg",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Veggie Burger + BK Veggie Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken Double Patty + Crispy Chicken Double Patty",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Makhani Burst + Whopper Jr Chicken",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "BK Chicken Burger + BK Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Whopper Jr Veg + Whopper Jr Veg",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Veg + Original Whopper Veg",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Original Whopper Chicken + Original Whopper Chicken",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Veg + Med Fries + Chocolate Thick Shake",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Chicken + Med Fries + Chocolate Thick Shake",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Veggie + Med Fries + Chocolate Thick Shake",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "BK Chicken + Med Fries + Chocolate Thick Shake",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Veg + Med Fries + Chocolate Thick Shake",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Original Whopper Chicken + Med Fries + Chocolate Thick Shake",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger + McVeggie Burger + Fries (M).",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger Meal (M).",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger Meal (M).",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger + McChicken Burger + Fries (M).",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger Combo (M).",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger Combo (M).",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Egg Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Egg Burger Combo (M).",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger Combo (M).",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger Combo (M).",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Chicken Burger",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Chicken Burger Combo (M).",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Paneer Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Paneer Burger Combo (M).",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Yuzu-Pop Sprite",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McSaver Korean Chicken Surprise Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSaver Korean Mc Aloo Tikki Burger",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSaver Korean Mc Egg Burger",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Minecraft Movie Meal - 9 Pc Chicken Nuggets.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Minecraft Movie Meal - Pizza McPuff.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger with Multi-Millet Bun",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger with Multi-Millet Bun",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger with Multi-Millet Bun",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Burger with Multi-Millet Bun",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Paneer Burger with Multi-Millet Bun",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McVeggie Burger with Multi-Millet Bun",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McAloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "6 Pc Chicken Nuggets + McChicken Burger + Coke",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Chicken + McChicken",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: Corn & Cheese + McVeggie",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McChicken Burger with Pizza McPuff",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Chicken Burger with Pizza McPuff",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McVeggie Burger with Pizza McPuff",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Pizza McPuff",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Burger Combo for 2: McVeggie + McAloo Tikki with Pizza McPuff",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McChicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McVeggie Burger",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Coke",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Burger Combo for 2: McVeggie + McAloo Tikki with Coke",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: Corn & Cheese Burger",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: Grilled Chicken & Cheese",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Deluxe Chicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McSpicy Deluxe Paneer Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Burger Combo for 2: McCheese Burger Chicken",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Burger Combo for 2: McCheese Burger Veg",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Crispy Veggie Burger  + 2 Fries (M) + Veg Pizza McPuff",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Crispy Veggie Burger  + Fries (L) + 2 Coke",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Mc Crispy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Mc Crispy Chicken Burger + Fries (L) + 2 Coke",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger + McVeggie Burger + Fries (M)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger + McChicken Burger + Fries (M)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Pizza McPuff + McSpicy Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Cappuccino",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McChicken Burger + McSpicy Chicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Iced Coffee",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McVeggie Burger + McAloo Tikki Burger",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Strawberry Shake + Fries (M)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger + Fries (M)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Fries (M)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Veg Pizza McPuff + Coke",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Coke",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McAloo Tikki + Fries (R)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger + Fries (R)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger + Veg Pizza McPuff",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Veg Pizza McPuff",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Fries (R)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger + Fries (L)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger + Fries (L)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Fries (L)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    }
+]

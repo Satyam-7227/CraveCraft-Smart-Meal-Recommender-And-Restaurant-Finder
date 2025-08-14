@@ -1,0 +1,4002 @@
+[
+    {
+        "dish": "Chicken Kheema Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Kofta Rice Bowl with Omelette",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Barbeque Chicken Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Mushroom Masala Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Creamy Chicken Tikka Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Chicken Shawarma Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Mutton Bhuna Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Bhuna Chicken Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Roast Vegetables Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Mughlai Falafel Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Mughlai Egg Curry Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Classic Rajma Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pindi Chole Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Lababdar Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Corn Masala Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Paneer Lababdar Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Tikka Masala Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Good'ol Butter Chicken Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Tikka Masala Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Rajma Mini Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Roast Vegetables Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn Masala Mini Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Barbeque Chicken Mini Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka Masala Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Lababdar Mini Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Good'ol Butter Chicken Mini Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pindi Chole Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Paneer Tikka Masala Mini Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Creamy Chicken Tikka Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Kheema Mini Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Lababdar Mini Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Hot Garlic Mac N Cheese Pasta Bowl With Sausages",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Chicken Tikka Mac & Cheese Pasta Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mac & Cheese Paneer Tikka Pasta Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot Garlic Mac N Cheese Pasta Bowl With Paneer Tikka",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pesto Mac N Cheese Pasta Bowl With Sausages",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Korean Mac & Cheese With Crispy Paneer",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pesto Mac N Cheese Pasta Bowl With Roasted Veggies",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Mac & Cheese Falafel Pasta Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Kheema Mac & Cheese Pasta Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Korean Mac & Cheese With Chicken Popcorn",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Butter Chicken Mac & Cheese Bowl",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Egg Biryani Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Biryani Bowl (Boneless)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Paneer Biryani Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Biryani Bowl",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gulab Jamun Box (Pack of 10)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Moong Dal Halwa (80 gm)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mango Cheesecake",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Death by Chocolate Cake Jar",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chocolate Cheesecake Slice",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Blueberry Cheesecake",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Gulab Jamun (Pack of 5)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Rich Red Velvet Pastry",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Walnut Brownie",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Gulab Jamun (Pack Of 2)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Chip Pastry",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Chip Brownie",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Lava Cake",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Gulab Jamun - Pack of 1",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Mutton Haleem",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Haleem",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Potato Wedges (Medium)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Meatball Kebab (5 Pcs)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Tikki (5 pcs)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Potato Chilli Shots with Mayo Dip",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Falafel Nuggets with Mayo Dip",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Pizza Puff (Pack of 2)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pizza Puff (Pack of 4)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Badam Kesar Thandai (Pack of 4)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Skimmed Mint Buttermilk",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Badam Kesar Thandai",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Coca Cola Bottle (475 mL)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Thums Up Can (330 mL)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Jeera Masala Soda (350 mL)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Coke Zero 330 ml Can",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Lemon Soda (250 mL)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Coke (250 mL)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Lemonade (200 mL)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Lemon Ice Tea (250 mL)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chicken Lababdar Rice Bowl (Protein-34g)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Lababdar Rice Bowl (Protein-21g)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhni Rice Bowl with Dahi Kebab (Protein-25g)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Good'ol Butter Chicken Rice Bowl (Protein-29g)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mughlai Grilled Chicken Rice Bowl with Omelette (Protein-25g)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mughlai Chicken Kofta Rice Bowl with Omelette (Protein-29g)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka Masala Rice Bowl (Protein-35g)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Biryani Bowl + Thums Up Combo",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Mini Bowl Meal Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Tikka Baked Cheese Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mexican Cheesy Baked Cheese Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Butter Chicken Baked Cheese Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chicken Tikka Baked Cheese Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Chawal Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mini Rajma Chawal Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pesto Mac & Cheese with Roast Veggies Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Pesto Mac & Cheese with Chicken Sausage Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Hot Garlic Mac & Cheese with Paneer Tikka Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot Garlic Mac & Cheese with Chicken Sausage Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Korean Mac and Cheese With Crispy Paneer",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mac and Cheese With Chicken Popcorn",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Veg Hakka Noodles Bowl.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles Bowl.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Hakka Noodles Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Hunan Paneer Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Khichadi Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Chawal Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Mini",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Paneer - Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Hunan Paneer - Bowl",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer - Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer - Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer - Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian - Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chilli Paneer - Bowl",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chowmein Veg.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Fried Rice Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Burnt Garlic Fried Rice Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Chilli Garlic Fried Rice Bowl.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Veg Schezwan Fried Rice Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Hakka Noodles Bowl.",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Burnt Garlic Noodles Bowl.",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Dal Khichadi Bowl.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Chawal Bowl.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Indian Bowls with Dessert & Drinks",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Chinese Bowls with Dessert",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chinese Bowls with Drinks",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chinese Bowls with Dessert & Drinks",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Fried Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chowmein Veg",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Burnt Garlic Fried Rice Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Chilli Garlic Fried Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Schezwan Fried Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Hakka Noodles Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Burnt Garlic Noodles Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Chilli Garlic Noodles Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Schezwan Noodles Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Bowl with Hakka Noodle",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Hunan Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chilli Paneer Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Khichadi Bowl",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Chawal Bowl",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Desi Chilli Potato - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Desi Chilli Potato - Full",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hunan Paneer Dry - Full",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Dry - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Black Pepper Paneer Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Schezwan Paneer Dry - Full",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Kung Pao Paneer Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kung Pao Paneer Dry - Full",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Chilli Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Chilli Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Manchurian Dry - Mini",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Dry - Full",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchurian Balls in Choice of Sauce - Full",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Mini",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Paneer Manchurian Dry - Full",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Spring Roll 6pcs - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sweet Chilli Potato - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sweet Chilli Potato - Full",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Manchurian Potato - Mini",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Manchurian Potato - Full",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Manchow Soup with Crispy Noodles",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Kurkure Fried Momo with Momo Chutney",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chocolate Mousse - Small",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Black Forest Mousse Cake",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Salted Caramel Choco Mousse",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Choco Lava",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pepsi Pet Bottle",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "7 Up",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Coolberg Peach",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Coolberg Cranberry",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Peach Ice Tea",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Aam Panna",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Shikanji",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lemon Ice Tea",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Water",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Extra Crispy Noodles",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Momo Chutney",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Schezwan Dip",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Mayo Dip",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sweet Chilli Dip",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Farm Aloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Go Green",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Crispy Masala",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Popeye",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Farm Spicy Paneer",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pepper Jack Cheese",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "4 Farm Aloo Tikki",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "2 Farm Spicy Paneer",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Crispy Masala",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "2 Go Green",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Lava Cake",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Farm Cheese Burst Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Crispy Paneer Italia Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Paneer Italia",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Regular Crinkle Fries",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Peri Peri Crinkle Fries",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Medium Crinkle Fries",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Aloo Tikki Meal",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Masala Meal",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Go Green Meal",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Farm Aloo Tikki Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Cheese Masala Burger Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Masala Meal",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Go Green Meal",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Farm Spicy Paneer Meal",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pepper Jack Cheese Meal",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Popeye Meal",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Super Freak Burger Meal",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Spicy Paneer Supreme Meal",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Farm Aloo Tikki",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Cheese Masala Burger",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Go Green",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Crispy Masala",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Popeye",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Super Freak Burger",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Spicy Paneer",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pepper Jack Cheese",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Spicy Paneer Supreme",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Regular Crinkle Fries",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Peri Peri Crinkle Fries",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Peri Peri Crinkle fries",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Medium Crinkle Fries",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Peri Peri Regular Crinkle Fries",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "V Cut Cheesy Peri Peri",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Onion Rings",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Cheddar Cheese Doughnuts",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "V Cut peri peri",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "V Cut Med Fries",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Cheese Burst Meal",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Farm Cheese Burst",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Crispy Paneer Italia Meal",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Crispy Paneer Italia",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Farm Aloo Tikki Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Masala Wrap",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Farm Spicy Paneer Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "4 Farm Aloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "2 Farm Spicy Paneer",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Crispy Masala",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "2 Go Green",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Farm Aloo Tikki Wrap Meal",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Farm Spicy Paneer Wrap Meal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheesy Masala Wrap Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Oreo Shake",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Strawberry Shake",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gulkand Paan Shake",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "MANGO SHAKE",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Masala Coke",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Lemonade",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Virgin Mojito",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "AAM PANNA",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "CLASSIC FRAPPE",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Moccha Frappe",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Choco Lava Cake",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chole Bhature Combo",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Rajma Chawal Combo",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Tikka",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken 65",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Malai Tikka",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Punjabi Desi Chicken [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Egg Bhurji (2 Egg)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Punjabi Egg Curry (2 Boiled Egg)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Dal Makhani [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Pulao",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Veg Fried Rice",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Veg Biryani",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Chicken Biryani",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Boondi Raita [100ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fried Papad",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Roasted Papad",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Egg Bhurji (2 Egg)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Punjabi Egg Curry (2 Boiled Egg)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Surati Egg Keema (2 Egg)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Punjabi Omelette (2 Egg)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Egg Masala Half Fry [2 Egg]",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Plain Omelette (2 Egg)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Boiled Egg [3 Egg]",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Fried Boiled Egg [3 Egg]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Plain Egg Half Fry [2 Egg]",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Masala Omelette (2 Egg)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Punjabi Egg Gotalo (3 Egg)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Extra Bread [3 Pcs]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Jaipuri Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Palak Paneer Di Sabzi (500ml)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mix Veg Di Sabzi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Matar Di Sabzi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Jeera Aloo Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Aloo Methi Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Rasila Aloo Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Aloo Patta Gobhi Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Aloo Patta Gobhi Matar Di Sabzi [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Phool Gobhi Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Aloo Phool Gobhi Matar Di Sabzi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Sev Tamatar Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Rajma Masaledar Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pindi Chole Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Butter Masala Di Sabzi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Lucknowi Tawa Paneer Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Makhanwala Di Sabzi (500ml)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Angara Di Sabzi (500ml)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Lababdar Di Sabzi (500ml)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Do Pyaza Di Sabzi (500ml)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Toofani Di Sabzi(500ml)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Bhurji Di Sabzi (500ml)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Matar Paneer Di Sabzi (500ml)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Patiala Di Sabzi (500ml)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Tikka Masala Di Sabzi (500ml)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Butter Masala Di Sabzi (500ml)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Kadai Di Sabzi [500gm]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Handi Di Sabzi (500ml)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Hyderabadi Di Sabzi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sarson Da Saag (500ml)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Punjabi Desi Chicken [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Chicken Butter Masala [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Butter Chicken [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Masala [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Kadai [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Chicken Handi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Keema Masala [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Ra Ra [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Shahi Chicken [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Lababdar [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Mughlai [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Bhuna Masala [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Afghani Gravy [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tangdi Masala",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Prawns Masala [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Punjabi Special Prawns Curry [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Dal Fry [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Handi [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Tadka [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Double Tadka [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Palak [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Kadhi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chicken Dum Biryani",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Egg Biryani",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Biryani",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Prawns Biryani",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Biryani",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Khichdi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Dal Tadka Khichdi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheese Butter Masala Khichdi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Plain Dal Khichdi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Vegetable Khichdi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Dahi Khichdi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Plain Green Moong Dal Khichdi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Green Moong Dal Masala Khichdi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Palak Paneer Khichdi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Special Punjabi Khichdi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Egg Fried Rice",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Veg Pulao",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Fried Rice",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Egg + Chicken Fried Rice",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Prawns Fried Rice",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Saade Chawal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Jeera Wale Chawal",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Non Veg Punjabi Prawns Thali",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non Veg Punjabi Thali",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Non Veg Punjabi Chicken Thali",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Non Veg Punjabi Prawns Thali",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Punjabi Large Thali",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Executive Thali",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Executive Thali",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Punjabi Large Thali",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken 65",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chicken Malai Tikka",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka Banjara",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Tikka Peri Peri",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Afghani",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Paneer Tikka",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Malai Paneer Tikka",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Sadi Tawa Rotti",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Jowar Di Rotti [3 Pcs]1",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Makki Di Rotti [3 Pcs]",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Bhakhri [3 Pcs]1",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Deep Fried Poori [5 Pcs]",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Fulka Rotti",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Sada Paratha",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Punjabi Thepla [3 Pcs]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Gujarati Methi Thepla [3 Pcs]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Masala Thepla [3 Pcs]",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Masaledar Lachha Parathe [3 Pcs]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Bajra Di Rotti [3 Pcs]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Lachedar Parathe [3 Pcs]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Masala Pasta",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Classic Masala Pasta",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Vegetable Masala Pasta",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Egg Masala Maggi",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Classic Masala Maggi",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Vegetable Masala Maggi",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Vegetable Frankie",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Frankie",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chicken Frankie",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Lasan Cheese De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Special Punjabi De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "All In One De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Amritsari De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Plain Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Sweet Corn Cheese De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Muli De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Aloo De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Pudina De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Aloo Paneer De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Cheese De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Aloo Paneer Cheese De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Lasan De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Lasan Paneer De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Lasan Paneer Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Pyaz De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Aloo Pyaz Paneer De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Pyaz Cheese De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Aloo Pyaz Paneer Cheese De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Methi De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Methi Paneer De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Methi Cheese De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Aloo Methi Paneer Lasan De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Aloo Methi Cheese Lasan De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Aloo Methi Paneer Lasan Cheese De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Shimla Mirch De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Paneer Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pyaz De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pyaz Lasan De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pyaz Paneer De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pyaz Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Pyaz Paneer Cheese De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pyaz Lasan Paneer Cheese De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gobhi De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gobhi Lasan De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gobhi Paneer De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gobhi Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Gobhi Lasan Cheese De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Gobhi Paneer Cheese De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gobhi Lasan Paneer Cheese De Parathe",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pizza Cheese De Parathe",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pizza Paneer Cheese De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Anda De Parathe",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken De Parathe",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Chole Bhature Combo",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Aloo Ki Sabji Puri Combo",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Special Punjabi De Parathe Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Amritsari Parathe Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Patiala De Parathe Combo",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Makki Di Rotti Te Sarson Da Saag Combo",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Punjabi Kadhi Chawal Combo",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Chawal Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Punjabi Thepla Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Gujarati Methi Thepla Combo",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Masala Thepla Combo",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Veg Poha Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Bread Omelet Combo",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Punjabi Plain Lassi [300ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Punjabi Gulab Lassi [300ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Punjabi Kesar Lassi [300ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Jain",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Punjabi Khus Lassi [300ml]",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Punjabi Mango Lassi [300ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Punjabi Dry Furuit Lassi [300ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Kheer [100ml]",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gulab Jambu [3 Pcs]",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Rasgulla [3 Pcs]",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Suji Da Halwa [100ml]",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Plain Makhan Wali Lassi [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Gulab Makhan Wali Lassi [500ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Kesar Makhan Wali Lassi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Khus Makhan Wali Lassi [500ml]",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Jain",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mango Makhan Wali Lassi [500ml]",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "South Indian"
+    },
+    {
+        "dish": "Dry Fruit Makhan Wali Lassi [500ml]",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Egg Soup [2 Egg] [300ml]",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Clear Soup [300ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Hot 'n' Sour Soup [300ml]",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Chinese"
+    },
+    {
+        "dish": "Chicken Sweet Corn Soup [300ml]",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Veg Clear Soup [300ml]",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Hot 'n' Sour Soup [300ml]",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Veg Sweet Corn Soup [300ml]",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "South Indian"
+    }
+]

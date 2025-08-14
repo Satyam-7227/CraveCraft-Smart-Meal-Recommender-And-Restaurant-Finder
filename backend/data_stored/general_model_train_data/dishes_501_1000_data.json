@@ -1,0 +1,4002 @@
+[
+    {
+        "dish": "2 Fries (R)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 McVeggie Burger",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Grilled Chicken & Cheese Burger + Coke",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Veg Pizza McPuff + Fries (R)",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Fries (M) + Piri Piri Mix",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger + Veg Pizza McPuff + Fries (L)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "6 Pc Chicken Nuggets + Fries (M) + Piri Piri Spice Mix",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Veg Pizza McPuff + Piri Piri Spice Mix",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Grilled Chicken & Cheese Burger + Veg Pizza McPuff",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn & Cheese Burger + Veg Pizza McPuff",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn & Cheese Burger + Fries (R)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn & Cheese Burger + Coke",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chocolate Flavoured Shake+ Fries (M)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn & Cheese Burger + Coke + Fries (M) + Veg Pizza McPuff",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Burger + Fries (M) + Piri Piri Spice Mix",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Paneer Burger + Fries (M) + Piri Piri Spice Mix",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McSpicy Paneer + Classic Cheese Fries",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "New McSaver Chicken Surprise",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver Chicken Nuggets (4 Pc)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver Masala McEgg",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver McAloo Tikki",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver Mexican McAloo Tikki",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver Pizza McPuff",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + Chocolate Shake",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + McChicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + Fries (M)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver McAloo Tikki NONG",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "New McSaver Mexican McAloo Tikki NONG",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger +  Classic Cheese Fries",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger + McAloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger + Piri Piri Fries (M)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger + Piri Piri Fries (M)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger + Classic Cheese Fries",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger + McAloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + Cappuccino",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + Cold Coffee",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + Iced Coffee",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Cappuccino",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Cold Coffee",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger + Iced Coffee",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Choco Crunch Cookie + McAloo Tikki Burger",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Choco Crunch Cookie + McVeggie Burger",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lemon Ice Tea + Choco Crunch Cookie",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Pizza McPuff + Choco Crunch Cookie",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Korean Mc Spicy Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Korean Mc Spicy Paneer Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger + Korean Mc Spicy Chicken Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger + Korean Yuzu-Pop Sprite",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger + Korean Mc Spicy Paneer Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger+ Korean Yuzu-Pop Sprite",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger +Korean Yuzu- Pop Sprite Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger +Korean Yuzu- Pop Sprite Combo",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McSaver Korean Chicken Surprise Burger.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSaver Korean Mc Aloo Tikki Burger.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSaver Korean Mc Egg Burger.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise + Korean Shake Shake Fries (M)",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger+ Korean Shake Shake Fries (M)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger  + Korean Shake Shake Fries (M)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger + Korean Shake Shake Fries (M)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Shake Shake Chicken Nuggets 6 pc.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Shake Shake Fries (M).",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Double Patty Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Double Patty Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Double Patty Burger combo",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Double Patty Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger Happy Meal",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger Happy Meal",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Grilled Cheese and Chicken Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger Happy Meal",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Maharaja Mac Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Filet-O-Fish Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Burger Combo",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Big Spicy Paneer Wrap Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Corn & cheese Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Big Spicy Chicken Wrap Combo",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Maharaja Mac Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Paneer Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "9 Pc Chicken Nuggets Combo",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala McEgg Burger Combo",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McEgg Burger Happy Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Premium Burger Veg Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCheese Burger Chicken Combo",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCheese Burger Veg Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Premium Burger Chicken Combo",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Pc Chicken Nuggets Happy Meal",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "4 Pc Chicken Nuggets Happy Meal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Deluxe Chicken Burger Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Deluxe Paneer Burger Combo",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McAloo Tikki Burger Combo",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Double Patty Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Deluxe Chicken Double Patty Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger Combo",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken McNuggets 6 Pcs Combo",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki NONG Burger Combo ( M)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki NONG Burger Combo ( M)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger Combo",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger Meal (M)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger Meal (M)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger with Cheese Combo ( M)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger with Cheese Combo ( M)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Choco Crunch Cookie + McAloo Tikki Burger + Lemon Ice Tea",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Pizza McPuff + Choco Crunch Cookie + Americano",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger Combo (M)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Egg Burger Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger Combo (M)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Chicken Burger Combo (M)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Paneer Burger Combo (M)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Minecraft Movie Meal - 9 Pc Chicken Nuggets",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Minecraft Movie Meal - Pizza McPuff",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Minecraft Movie Meal - Chicken Surprise",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Minecraft Movie Meal - McAloo Tikki",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Double Patty Burger",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Double Patty Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McVeggie Double Patty Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Double Patty Burger",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Double Patty Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Maharaja Mac Burger",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Maharaja Mac Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Paneer Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Big Spicy Chicken Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Chicken Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McChicken Burger",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Corn & Cheese Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Big Spicy Paneer Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McVeggie Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Grilled Chicken & Cheese Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala McEgg Burger",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCheese Burger Chicken",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCheese Burger Veg",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Premium Chicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Premium Veg Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Filet-O-Fish Burger",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Deluxe Chicken Burger",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McSpicy Deluxe Paneer Burger",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "McSpicy Deluxe Chicken Double Patty Burger",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Surprise Burger",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger NONG",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki Burger NONG",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Crispy Veggie Burger",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mc Crispy Chicken Burger",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McAloo Tikki Burger with Cheese",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mexican McAloo Tikki with Cheese",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Chicken Surprise Burger.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Aloo Tikki Burger.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Egg Burger.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Chicken Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Paneer Burger.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Chicken Burger.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mc Spicy Premium Paneer Burger.",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Piri Piri Spice Mix",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fries (Regular)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fries (Medium)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fries (Large)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Tomato Ketchup Sachet",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "9 Pc Chicken Nuggets",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "6 Pc Chicken Nuggets",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chilli Sauce Sachet",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Pizza McPuff",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Corn Cup",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fries (M) + Piri Piri Mix",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Cheese Fries",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "20 Pc Chicken Nuggets",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Barbeque Sauce",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "4 Pcs Chicken Nuggets",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mustard Sauce",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Nether Flame Sauce",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Shake Shake Chicken Nuggets 6 pc",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Shake Shake Fries (M)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Spice Mix",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mango Smoothie",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Ice Americano Coffee",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chocolate Frappe",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCafe-Ice Coffee",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mixed Berry Smoothie",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "American Mud Pie Shake",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Hot Chocolate (S)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mocha Coffee (R)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mocha Coffee (S)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Coke",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Hot Chocolate (R)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Coke zero can",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Schweppes Water bottle",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Fanta",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mixed Fruit Beverage",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sprite",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Latte Coffee (S)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Flat White Coffee",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Latte Coffee (R)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Americano Coffee (R)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Americano Coffee (S)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Moroccan Mint Green Tea (R )",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "English Breakfast Tea",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Strawberry Green Tea (S)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cappuccino Coffee (R)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cappuccino Coffee (S)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Berry Lemonade Regular",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chocolate Flavoured Shake",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "McCafe-Classic Coffee",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mocha Frappe",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Espresso Shot",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cappuccino Small with Hazelnut",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Ice Tea - Green Apple flavour",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Ice Tea - lemon flavour",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Ice Tea- strawberry flavour",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Strawberry Shake",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cappuccino Small with French Vanilla",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Coffee Regular with French Vanilla",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Coffee Regular with Hazelnut",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Iced Coffee with French Vanilla",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Iced Coffee with Hazelnut",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Yuzu-Pop Sprite.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chocochip Muffin",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Choco Crunch Cookie",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cinnamon Raisin Cookie",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cold Coffee  Combo",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Indulge Choco Jar Dessert",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Hot  Coffee Combo",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Indulge Combo",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Take a break Combo",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Treat Combo",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Burger Wrap .",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Burger Wrap .",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Salad Burger Wrap .",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Paneer Burger Wrap .",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Paneer Salad Burger Wrap .",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Salad Burger Wrap .",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Jalapeno Chicken Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Paneer Salad Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Strips Chilli Wrap",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Strips Chipotle Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Jalapeno Chicken Strips Salad Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spiced Chicken Strips Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Fried Paneer Korean Wrap (Spicy).",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Buldak Chicken Popcorn Korean Wrap (Spicy).",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Chicken Strips Korean Wrap (Spicy).",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pizza Puff.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Burger Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Paneer Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Paneer Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Burger Wrap .",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Burger Wrap .",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Salad Burger Wrap .",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Paneer Burger Wrap .",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Paneer Salad Burger Wrap .",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Salad Burger Wrap .",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Jalapeno Chicken Salad Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Paneer Salad Burger Wrap.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Strips Chilli Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Strips Chipotle Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Jalapeno Chicken Strips Salad Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spiced Chicken Strips Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Fried Paneer Korean Wrap (Spicy).",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Buldak Chicken Popcorn Korean Wrap (Spicy).",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Chicken Strips Korean Wrap (Spicy).",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pizza Puff.",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Burger Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Paneer Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Paneer Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chipotle Chicken Patty Wrap.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Salad Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Burger Wrap.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Chicken Salad Burger Wrap.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Aloo Patty Burger Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Crispy Chicken Wrap .",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Chicken Strips Wrap.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chilli Chicken Strips Wrap.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Veg Fingers Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Paneer Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Jalapeno Cheese Chicken Salad Burger Wrap.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Chicken Strips Salad Burger Wrap.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Chicken Strips Salad Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chilli Crispy Chicken Wrap .",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Burger Wrap and Side Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Burger Wrap with Side and Beverage Meal",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Burger Wrap and Side Meal",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Burger Wrap with Side and Beverage Meal",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Burger Wraps at 120 each",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Chicken Popcorn Burger Wrap & Chilli Chicken Strips Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Chipotle Chicken Patty Wrap.",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Classic Veg Rolls at 160 each",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "1 Cheesy Paneer Wrap + 1 Masala Paneer Tikka Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Classic Non-Veg Rolls at 165 each",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "2 Non-Veg Shawarmas at 195 each .",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "1 Non-Veg Classic Wrap + 1 Non-Veg Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "1 Chicken Bhuna Wrap + 1 Masala Chicken Tikka Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "1 Veg Classic Wrap + 1 Veg Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Signature Veg Wraps at 195 each",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Signature Non-Veg Wraps at 220 each",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Burger Wrap at 120 each",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Chipotle Chicken Patty Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "3 Veg Classic Wraps at 106 each",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "4 Classic Veg Wraps at 409",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Classic Rolls (1 Veg + 1 Non-Veg) starting at 115 each",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "3 Non-Veg Classic Wraps at 103 each",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "4 Classic Non-Veg Wraps at 429",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Veg Shawarmas at 185 each",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Classic Veg Rolls at 160 each.",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Aloo Patty Chipotle Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pindi Chole Roll",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Spicy Indie Chatpata Aloo Wrap",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Fingers Chipotle Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Classic Non-Veg Rolls at 165 each .",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chatpata Double Egg Roll",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Cheese Melt Double Egg Roll",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "2 Burger Wraps at 105 each.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Crispy Chicken Patty Wrap",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Egg Chicken Sausage Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Aloo Patty Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Paneer Tikka Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chipotle Veg Fingers Burger Wrap.",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Melt Paneer Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheesy Corn Salsa Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Mushroom Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Falafel Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Indie Chatpate Aloo Wrap",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pindi Chole Wrap",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesynator Melt Paneer Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chipotle Crispy Chicken Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Chicken Tikka Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chilli Crispy Chicken Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Chicken Strips Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Bhuna Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Chicken Patty Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Malai Chicken Kebab Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Cheese Chicken Sausage Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Malai Chicken Cheese Melt Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Melt Chicken Bhuna Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Melt Chicken Tikka Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chatpata Roll With Double Egg",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Chilli Chicken Strips Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Fried Paneer Korean Wrap (Spicy)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Lebanese Falafel Veggie Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Paneer Jalapeno Salad Burger Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoky Diced Paneer Salad Wrap.",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cheese Garlic Manchurian Wrap",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Paneer Burger Wrap.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chimichurri Paneer Salad Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chilli Manchurian Garlic Wrap.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Chicken Popcorn Korean Wrap (Spicy)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Buldak Chicken Strips Korean Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Chicken Salad Burger Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Extravaganza Wrap",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Chicken Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Chicken Strips Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jalapeno Cheese Chicken Strips Salad Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Smoked Butter Chicken Wrap",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lebanese Chicken Meatball Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Zaikedar Mutton Bhuna Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Burger Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Strips Salad Burger Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Burger Wrap.",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chimichurri Chicken Salad Burger Wrap.",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Smoky Chicken Shawarma.",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Peppy Chicken Shawarma.",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Tikka Shawarma.",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Special Smoky Chicken Shawarma",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Special Peppy Chicken Shawarma",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Shawarma with Side & Beverage Meal",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Shawarma & Side Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sizzled Falafel Shawarma",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Shawarma & Side Meal",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Shawarma with Side & Beverage Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Paneer Tikka Wholewheat Wrap",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pindi Chole Wholewheat Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Smoky Diced Paneer Salad Wholewheat Wrap",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Falafel Veggie Lebanese Wholewheat Wrap",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Indie Chatpata Aloo Wholewheat Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Corn Salsa Wholewheat Wrap",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Mushroom Wholewheat Wrap",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Chicken Tikka Wholewheat Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Bhuna Wholewheat Wrap",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Malai Chicken Kebab Wholewheat Wrap",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lebanese Chicken Meatball Wholewheat Wrap",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Cheese Chicken Sausage Wholewheat Wrap",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheese Melt Double Egg Wholewheat Wrap",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Double Egg Chatpata Wholewheat Roll",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Veg Classic Wrap with Side and Beverage Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Wrap with Side Mini Meal",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Wrap with Side and Beverage Meal",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Wrap with Side Mini Meal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Signature Meal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Paneer Tikka Wrap & Wedges Mini Meal",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Classic Wrap & Wedges Meal at 189",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Shawarma and Side Meal .",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Shawarma with Side and Beverage Meal .",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Shawarma and Side Meal .",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Wrap and Beverage Meal at 139",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Wrap & Fries Meal at 209",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Signature Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Meal",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Bhuna Wrap & Wedges Mini Meal",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Wrap & Wedges Meal at 189",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Wrap and Beverage Meal at 139",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 Masala Paneer Tikka Wrap with Fries & Coke Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 Chicken Bhuna Wrap with Fries & Coke Meal",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Wrap & Coke Mini Meal",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Classic Wrap, Side & Coke Meal",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Signature Wrap & Coke Mini Meal",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Signature Wrap, Side & Coke Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non Veg Classic Wrap & Coke Mini Meal",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Classic Wrap, Side & Coke Meal",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Signature Wrap & Coke Mini Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Non-Veg Signature Wrap, Side & Coke Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Bhuna Rice Feast (Regular)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Rice Bowl (Regular)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Dal Makhani Rice Bowl (Regular)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dal Makhani Rice Bowl (Jumbo)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rajma Masala Rice Bowl (Regular)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Rajma Masala Rice Bowl (Jumbo)",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Signature Rice Bowl (Regular)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoked Butter Chicken Rice Bowl (Regular)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pindi Chole Signature Rice Bowl (Regular)",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Signature Rice Bowl (Jumbo)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mutton Bhuna Rice Bowl (Regular)",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Signature Rice Bowl (Regular)",
+        "mood": "Tired",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Royal Chicken Rice Bowl (Jumbo)",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Smoked Butter Chicken Rice Bowl (Jumbo)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Signature Rice Bowl (Jumbo)",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pindi Chole Signature Rice Bowl (Jumbo)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Keema Rice Feast (Regular).",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pizza Puff",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "French Fries",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Potato Wedges",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Teekha Chaska French Fries",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Potato Chilli Shots with Mayo Dip",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Falafel Shots (6 pieces)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Cheesy Chicken Meatballs",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Teekha Chaska (Pack of 20)",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Teekha Chaska Sausages",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lemon Ice Tea (250 mL)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Coke (250 mL)",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Lemon Soda (250 mL)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Thums Up Can (330 mL)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Lemonade (200 mL)",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Skimmed Mint Buttermilk",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Coca Cola Bottle (475 mL)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Coke Zero 330 ml Can",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Badam Kesar Thandai",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Jeera Masala Soda (350 mL)",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Walnut Brownie",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Chip Brownie",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Choco Lava Cake",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Mango Cheesecake",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Blueberry Cheesecake",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Biscoff Cheesecake Slice",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Dessert"
+    },
+    {
+        "dish": "Rich Red Velvet Pastry",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Moong Dal Halwa (80 gm)",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "DIY Paneer Classic Wrap and Beverage Breakfast Meal",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "DIY Paneer Classic Wrap and Wedges Breakfast Meal",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Double Omelette & Wedges with Masala Bread",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Cheese Melt Wrap",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "DIY Egg Classic Wrap and Beverage Breakfast Meal",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "DIY Egg Classic Wrap and Wedges Breakfast Meal",
+        "mood": "Sad",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Egg Chicken Sausage Cheese Wrap",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Double Egg Chatpata Roll",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Pindi Chana Roll",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Double Egg Cheese Melt Roll",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "2 Wrap Breakfast Combo",
+        "mood": "Happy",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Meatballs Cheesy Omelette with Masala Bread",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Sausage Cheesy Omelette with Masala Bread",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Lemonade - Morning Special (200 mL)",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Masala Paneer Tikka Wrap + Lemon Soda",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Chicken Tikka Wrap + Lemon Soda",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Aloo Patty Wrap + Pizza Puff (Pack of 2)",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Veg Fingers Wrap + Pizza Puff (Pack of 2)",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chipotle Chicken Patty Wrap + Pizza Puff (Pack of 2)",
+        "mood": "Stressed",
+        "dayStatus": "Normal",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chatpata Aloo Wrap + Wedges + Lemon Soda",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Double Egg Chatpata Roll + Wedges + Lemon Soda",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Snacks"
+    },
+    {
+        "dish": "Rajma Chawal Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mini Rajma Chawal Bowl",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Biryani Bowl + Thums Up Combo",
+        "mood": "Stressed",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mini Bowl Meal Combo",
+        "mood": "Tired",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pesto Mac & Cheese with Roast Veggies Bowl",
+        "mood": "Tired",
+        "dayStatus": "Normal",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pesto Mac & Cheese with Chicken Sausage Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Hot Garlic Mac & Cheese with Paneer Tikka Bowl",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot Garlic Mac & Cheese with Chicken Sausage Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Korean Mac and Cheese With Crispy Paneer",
+        "mood": "Stressed",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Korean Mac and Cheese With Chicken Popcorn",
+        "mood": "Stressed",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mughlai Grilled Chicken Rice Bowl with Omelette",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Tikka Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Kheema Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Kofta Rice Bowl with Omelette",
+        "mood": "Sad",
+        "dayStatus": "Hectic",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Barbeque Chicken Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mushroom Masala Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Creamy Chicken Tikka Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Chicken Shawarma Bowl",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mutton Bhuna Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Bhuna Chicken Rice Bowl",
+        "mood": "Tired",
+        "dayStatus": "Productive",
+        "craving": "Sweet",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Mughlai Grilled Chicken Rice Bowl with Omelette",
+        "mood": "Happy",
+        "dayStatus": "Hectic",
+        "craving": "Spicy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Paneer Tikka Rice Bowl",
+        "mood": "Happy",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    }
+]
