@@ -1,0 +1,802 @@
+[
+    {
+        "dish": "Zinger Pro Burger & Popcorn Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Zinger Pro Burger & Chicken Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Burger Buddy Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gold Edition Veg Zinger Burger",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "American Classic Zinger Mojito Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Mixed Chicken Zinger Burger Doubles",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Zinger Burger - Classic with Cheese",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Zinger Burger - Tandoori with Cheese",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Zinger Burger with Cheese",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Zinger Burger - Classic",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Veg Zinger Burger",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Zinger Burger - Tandoori",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 X Chicken Krisper Burgers",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 X Veg Krisper Burgers",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Zinger Burger and Chicken Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Zinger Pro Burger",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Longer Burger & 2 Strips Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "All Chicken Box",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Zinger Box",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rice Box Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Roll Meal Box",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Box Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Partnership Zinger Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Bouncer Roll Popcorn Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Challengers Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Strips King Popcorn Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Cricket Crunch Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Dream Team Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Clean Bowled Combo",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Super 6s Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Rolls Super Kings",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Green Pitch Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "LBW Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Roll Super Kings Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Super Over Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri Chicken 5 Leg Piece Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri Chicken 5 Leg Piece Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri Chicken 10 Leg Pc & 4 Dips",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "6 Pc Strips & Pepsi Bottle Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri chicken strips - 6 Pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "House Party Chicken Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chick n Dip Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Zinger Burger & Chicken Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gold Chicken Zinger Burger Epic Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gold Veg Zinger Burger x 2",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Saucy Popcorn Classic Zinger Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gold Zinger Burger & Saucy Popcorn Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Gold Veg & Paneer Zinger Burger Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Trio Zinger Chicken Burgers Deal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Saucy Popcorn x CarryMinati & Rizz Fizz Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Bucket for Two",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "4 Pc Hot & Crispy Pepsi Bottle Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Krisper Burger Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Mingles Bucket Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Classic Roll Mojito Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Solo Feast",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Mingles Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken & French Fries Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Chicken Popcorn & French Fries Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Classic Zinger Pepsi Bottle Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "2 X Veg Krispers Burger Meal",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Heavy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "All in One Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Ultimate Savings Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Stay Home Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Big 12 - Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Big 8 - Chicken Bucket",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "HC Rice Bowlz",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoky Red Chicken Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "PC Rice Bowlz",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Veg Rice Bowlz",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Plain Rice Bowl",
+        "mood": "Sad",
+        "dayStatus": "Productive",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot & Crispy Chicken - 8 pcs",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot & Crispy Chicken -6pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot & Crispy Chicken-4pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot & Crispy Chicken -2pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot Chicken Wings - 4pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Hot & Crispy Chicken-1pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Saucy Popcorn x CarryMinati",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Popcorn - Large",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Popcorn - Medium",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Chicken Popcorn - Regular",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "5 Pc Smoky Chicken Mojito Combo",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoky Red Grilled Chicken - 5 pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoky Red Grilled Chicken - 2 pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Smoky Red Grilled Chicken - 1 pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Peri Peri chicken strips - 3 pc",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Non-Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Gold Edition Regular Fries",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "2 pc Veg Patty",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Spicy Mix French Fries - Large",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "French Fries - Large",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Spicy Mix French Fries - Medium",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "French Fries - Medium",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "Fast Food"
+    },
+    {
+        "dish": "Pack of 4 Dips -20gm each",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Pack of 2 Dips-20gm each",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Tandoori Flavour Dip - 20 gm",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "7UP RizzFizz",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Virgin Mojito Reusable Bottle",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Light",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    },
+    {
+        "dish": "Masala Pepsi Reusable Bottle",
+        "mood": "Sad",
+        "dayStatus": "Lazy",
+        "craving": "Spicy",
+        "diet": "Veg",
+        "cuisines": "North Indian"
+    }
+]
