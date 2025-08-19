@@ -130,9 +130,9 @@ body {
 /* Focus States for Accessibility */
 .tab-button:focus {
     outline: none;
-    ring: 2px;
+    /* ring: 2px;
     ring-color: #3b82f6;
-    ring-offset: 2px;
+    ring-offset: 2px; */
 }
 
 /* Loading Animation */

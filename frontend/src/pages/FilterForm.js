@@ -120,6 +120,7 @@ function FilterForm(props) {
 
 
 
+        
         <div className="form-container">
             <form onSubmit={handleSubmit} className="recommendation-form">
                 <div className="form-header">
@@ -235,19 +236,6 @@ function FilterForm(props) {
                             />
                         </div>
                     </div>
-
-                    {/* <div className="form-group">
-                        <label htmlFor="email">Email (Optional)</label>
-                        <input
-                            id="email"
-                            type="email"
-                            name="email"
-                            value={formData.email}
-                            onChange={handleChange}
-                            className="form-input"
-                            placeholder="Enter your email for personalized recommendations"
-                        />
-                    </div> */}
 
                     <button type="submit" className="submit-button">
                         <span className="button-icon">🎯</span>

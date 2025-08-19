@@ -17,7 +17,7 @@ function MainPage() {
     const [currentView, setCurrentView] = useState("form")
 
     function handleRecommend(formData) {
-        formData.email = "testuser@example.com"
+        formData.email = "testuser1@example.com"
         setFormDataCache(formData);
         setCurrentView('recommendations');
         axios.post("http://localhost:5000/api/recommend", formData)
@@ -47,13 +47,6 @@ function MainPage() {
     return (
         <div className='main'>
             <Navbar />
-
-            {/* <div className='tab-buttons'>
-                <button onClick={() => setActiveTab("recommend")} className={activeTab === 'recommend' ? 'active' : ''}>Recommendations</button>
-                <button onClick={() => setActiveTab("search")} className={activeTab === 'search' ? 'active' : ''}>Restaurants</button>
-                <button onClick={() => setActiveTab("analytics")} className={activeTab === 'analytics' ? 'active' : ''}>Analytics</button>
-                <button onClick={() => setActiveTab("history")} className={activeTab === 'history' ? 'active' : ''}>History</button>
-            </div> */}
 
             <div className="tab-container">
                 <div className="tab-buttons">

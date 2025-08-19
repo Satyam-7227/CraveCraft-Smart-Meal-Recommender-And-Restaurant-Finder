@@ -62,8 +62,7 @@ function RecommendationsList({ recommendData, formData, onBack }) {
 
 
 
-
-
+        
         <div className="meal-recommender recommendations-view">
             <div className="container-wide">
                 {/* Header with back button */}
@@ -79,68 +78,140 @@ function RecommendationsList({ recommendData, formData, onBack }) {
                 </div>
 
                 {/* Main Recommendation Card */}
-                <div className="main-recommendation-card">
-                    <div className="recommendation-content">
-                        <div className="recommendation-left">
-                            <h2 className="dish-title">{recommendData.dish}</h2>
-                            <div className="cuisine-badge-single">{formData.cuisines}</div>
-                            <p className="dish-description">Perfect for your happy mood and heavy craving</p>
 
-                            <div className="dish-stats">
-                                {/* <div className="stat-item">
+                <div className="main-recommendation-card">
+
+                    {/* Main Recommendation Card General */}
+                    <div className={`main-recommendation-card-left ${recommendData.personalDish ? '' : 'full'}`}>
+                        <div className="recommendation-content">
+                            <div className="recommendation-left">
+                                <h2 className="dish-title">{recommendData.dish}</h2>
+                                <div className="cuisine-badge-single">{formData.cuisines}</div>
+                                <p className="dish-description">Perfect for your happy mood and heavy craving</p>
+
+                                <div className="dish-stats">
+                                    {/* <div className="stat-item">
                                     <span className="stat-icon">🔥</span>
                                     <span>{mockRecommendations.calories} cal</span>
                                 </div> */}
-                                <div className="stat-item">
-                                    <span className="stat-icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="custom-clock-icon">
-                                            <circle cx="12" cy="12" r="10"></circle>
-                                            <polyline points="12 6 12 12 16 14"></polyline>
-                                        </svg>
-                                    </span>
-                                    <span>{formData.timeNeed} min</span>
+                                    <div className="stat-item">
+                                        <span className="stat-icon">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="custom-clock-icon">
+                                                <circle cx="12" cy="12" r="10"></circle>
+                                                <polyline points="12 6 12 12 16 14"></polyline>
+                                            </svg>
+                                        </span>
+                                        <span>{formData.timeNeed} min</span>
+                                    </div>
+                                </div>
+
+                                <div className="action-buttons">
+                                    <button className="like-button">
+                                        <span style={{ display: 'flex' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-up-icon">
+                                                <path d="M7 10v12"></path>
+                                                <path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2h0a3.13 3.13 0 0 1 3 3.88Z"></path>
+                                            </svg>
+                                        </span>
+                                        Like
+                                    </button>
+                                    <button className="dislike-button">
+                                        <span style={{ display: 'flex' }}>
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-down-icon">
+                                                <path d="M17 14V2"></path>
+                                                <path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22h0a3.13 3.13 0 0 1-3-3.88Z"></path>
+                                            </svg>
+                                        </span>
+                                        Dislike
+                                    </button>
                                 </div>
                             </div>
 
-                            <div className="action-buttons">
-                                <button className="like-button">
-                                    <span style={{ display: 'flex' }}>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-up-icon">
-                                            <path d="M7 10v12"></path>
-                                            <path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2h0a3.13 3.13 0 0 1 3 3.88Z"></path>
-                                        </svg>
-                                    </span>
-                                    Like
-                                </button>
-                                <button className="dislike-button">
-                                    <span style={{ display: 'flex' }}>
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-down-icon">
-                                            <path d="M17 14V2"></path>
-                                            <path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22h0a3.13 3.13 0 0 1-3-3.88Z"></path>
-                                        </svg>
-                                    </span>
-                                    Dislike
-                                </button>
+                            <div className="recommendation-right">
+                                <div className="confidence-score">{recommendData.confidence.toFixed(0)}%</div>
+                                <div className="confidence-label">Confidence</div>
                             </div>
                         </div>
 
-                        <div className="recommendation-right">
-                            <div className="confidence-score">{recommendData.confidence.toFixed(0)}%</div>
-                            <div className="confidence-label">Confidence</div>
+                        <div className="confidence-bar-section">
+                            <div className="confidence-bar-header">
+                                <span>Recommendation Confidence</span>
+                                <span>{recommendData.confidence.toFixed(2)}%</span>
+                            </div>
+                            <div className="progress-bar">
+                                <div className="progress-fill" style={{ width: `${recommendData.confidence.toFixed(2)}%` }}></div>
+                            </div>
                         </div>
+
+                        <button className="find-restaurants-button">Find Restaurants Serving This</button>
                     </div>
 
-                    <div className="confidence-bar-section">
-                        <div className="confidence-bar-header">
-                            <span>Recommendation Confidence</span>
-                            <span>{recommendData.confidence.toFixed(2)}%</span>
-                        </div>
-                        <div className="progress-bar">
-                            <div className="progress-fill" style={{ width: `${recommendData.confidence.toFixed(2)}%` }}></div>
-                        </div>
-                    </div>
+                    {/* Main Recommendation Card Personal */}
+                    {recommendData.personalDish && (
+                        <div className="main-recommendation-card-right">
+                            <div className="recommendation-content">
+                                <div className="recommendation-left">
+                                    <h2 className="dish-title">{recommendData.personalDish}</h2>
+                                    <div className="cuisine-badge-single">{formData.cuisines}</div>
+                                    <p className="dish-description">Perfect for your happy mood and heavy craving</p>
 
-                    <button className="find-restaurants-button">Find Restaurants Serving This</button>
+                                    <div className="dish-stats">
+                                        {/* <div className="stat-item">
+                                    <span className="stat-icon">🔥</span>
+                                    <span>{mockRecommendations.calories} cal</span>
+                                </div> */}
+                                        <div className="stat-item">
+                                            <span className="stat-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="custom-clock-icon">
+                                                    <circle cx="12" cy="12" r="10"></circle>
+                                                    <polyline points="12 6 12 12 16 14"></polyline>
+                                                </svg>
+                                            </span>
+                                            <span>{formData.timeNeed} min</span>
+                                        </div>
+                                    </div>
+
+                                    <div className="action-buttons">
+                                        <button className="like-button">
+                                            <span style={{ display: 'flex' }}>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-up-icon">
+                                                    <path d="M7 10v12"></path>
+                                                    <path d="M15 5.88 14 10h5.83a2 2 0 0 1 1.92 2.56l-2.33 8A2 2 0 0 1 17.5 22H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h2.76a2 2 0 0 0 1.79-1.11L12 2h0a3.13 3.13 0 0 1 3 3.88Z"></path>
+                                                </svg>
+                                            </span>
+                                            Like
+                                        </button>
+                                        <button className="dislike-button">
+                                            <span style={{ display: 'flex' }}>
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="thumbs-down-icon">
+                                                    <path d="M17 14V2"></path>
+                                                    <path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22h0a3.13 3.13 0 0 1-3-3.88Z"></path>
+                                                </svg>
+                                            </span>
+                                            Dislike
+                                        </button>
+                                    </div>
+                                </div>
+
+                                <div className="recommendation-right">
+                                    <div className="confidence-score">{recommendData.confidence.toFixed(0)}%</div>
+                                    <div className="confidence-label">Confidence</div>
+                                </div>
+                            </div>
+
+                            <div className="confidence-bar-section">
+                                <div className="confidence-bar-header">
+                                    <span>Recommendation Confidence</span>
+                                    <span>{recommendData.confidence.toFixed(2)}%</span>
+                                </div>
+                                <div className="progress-bar">
+                                    <div className="progress-fill" style={{ width: `${recommendData.confidence.toFixed(2)}%` }}></div>
+                                </div>
+                            </div>
+
+                            <button className="find-restaurants-button">Find Restaurants Serving This</button>
+                        </div>
+                    )}
                 </div>
 
                 {/* Restaurant Recommendations */}
