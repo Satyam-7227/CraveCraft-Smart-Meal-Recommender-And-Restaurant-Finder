@@ -1,6 +1,8 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 
+import { AuthProvider } from './context/AuthContext';
+import ProtectedRoute from './components/ProtectedRoute';
 import Navbar from "./components/Navbar";
 import Login from './pages/Login';
 import Register from './pages/Register';
@@ -10,14 +12,28 @@ import './styles.css';
 
 function App() {
     return (
-        <Router>
-            <Routes>
-                <Route path="/navbar" element={<Navbar />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/register" element={<Register />} />
-                <Route path="/main" element={<MainPage />} />
-            </Routes>
-        </Router>
+        <AuthProvider>
+            <Router>
+                <Routes>
+                    {/* Public routes */}
+                    <Route path="/login" element={<Login />} />
+                    <Route path="/register" element={<Register />} />
+                    
+                    {/* Protected routes */}
+                    <Route path="/main" element={
+                        <ProtectedRoute>
+                            <MainPage />
+                        </ProtectedRoute>
+                    } />
+                    
+                    {/* Redirect root to main page if authenticated, otherwise to login */}
+                    <Route path="/" element={<Navigate to="/main" replace />} />
+                    
+                    {/* Catch all route - redirect to main */}
+                    <Route path="*" element={<Navigate to="/main" replace />} />
+                </Routes>
+            </Router>
+        </AuthProvider>
     );
 }
 

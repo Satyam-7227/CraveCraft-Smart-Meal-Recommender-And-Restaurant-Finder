@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
+import { useAuth } from '../context/AuthContext';
 import Navbar from '../components/Navbar';
 import RecommendationsList from '../components/RecommendationsList';
 import FilterForm from './FilterForm';
@@ -11,13 +12,14 @@ import History from './History';
 import '../css/MainPage.css';
 
 function MainPage() {
+    const { user } = useAuth();
     const [activeTab, setActiveTab] = useState('recommend');
     const [recommendations, setRecommendation] = useState(null);
     const [formDataCache, setFormDataCache] = useState(null);
     const [currentView, setCurrentView] = useState("form")
 
     function handleRecommend(formData) {
-        formData.email = "testuser1@example.com"
+        formData.email = user?.email || "testuser1@example.com"; // Use authenticated user's email
         setFormDataCache(formData);
         setCurrentView('recommendations');
         axios.post("http://localhost:5000/api/recommend", formData)

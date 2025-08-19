@@ -1,21 +1,16 @@
 import React from "react";
+import { useAuth } from '../context/AuthContext';
 import '../css/Navbar.css';
 
 function Navbar() {
+    const { user, logout } = useAuth();
+
+    const handleLogout = () => {
+        logout();
+        // The ProtectedRoute will automatically redirect to login
+    };
+
     return (
-        // <div className="navbar">
-        //     <div className="navbar-left">
-        //         <span className="logo">Smart Meal</span>
-        //     </div>
-        //     <div className="navbar-right">
-        //         <span className="welcome-text">Hii user</span>
-        //         <button className="logout-button">Logout</button>
-        //     </div>
-        // </div>
-
-
-
-
         <div className="navbar">
             <div className="navbar-left">
                 <div className="logo">
@@ -36,10 +31,10 @@ function Navbar() {
                     </div>
                     <div className="user-info">
                         <span className="welcome-text">Welcome back</span>
-                        <span className="user-name">John Doe</span>
+                        <span className="user-name">{user?.name || 'User'}</span>
                     </div>
                 </div>
-                <button className="logout-button">
+                <button className="logout-button" onClick={handleLogout}>
                     <span className="logout-icon">
                         <svg className="logout-icon-svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M17 7L15.59 8.41L18.17 11H8V13H18.17L15.59 15.59L17 17L22 12L17 7Z" fill="currentColor"></path>
@@ -51,7 +46,6 @@ function Navbar() {
             </div>
         </div>
     );
-
 }
 
 export default Navbar;
