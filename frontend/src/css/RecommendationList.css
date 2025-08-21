@@ -581,3 +581,32 @@ body {
   stroke: currentColor;
   color: currentColor;
 }
+
+/* Add these styles for like/dislike button active states */
+
+.like-button.active {
+    background: #10b981;
+    color: white;
+    border-color: #10b981;
+}
+
+.like-button.active:hover {
+    background: #059669;
+    border-color: #059669;
+}
+
+.dislike-button.active {
+    background: #ef4444;
+    color: white;
+    border-color: #ef4444;
+}
+
+.dislike-button.active:hover {
+    background: #dc2626;
+    border-color: #dc2626;
+}
+
+.like-button.active .thumbs-up-icon,
+.dislike-button.active .thumbs-down-icon {
+    stroke: white;
+}

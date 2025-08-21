@@ -25,7 +25,7 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 # Load data
-df = pd.read_csv("new_317_general_ml_dataset.csv")
+df = pd.read_csv("general_model_train_data/combined_output_2500.csv")
 
 # Features and label
 X = df.drop("dish", axis=1)
@@ -54,9 +54,46 @@ accuracy = accuracy_score(y_test, y_pred)
 print(f"✅ Accuracy on test set: {accuracy * 100:.2f}%")
 
 # Save model and encoders
-# joblib.dump(model, "general_model/new_general_ml_model.pkl")
-# joblib.dump(le_dict, "general_model/new_label_encoders.pkl")
-# joblib.dump(dish_encoder, "general_model/new_dish_encoder.pkl")
+joblib.dump(model, "general_model/general_ml_model.pkl")
+joblib.dump(le_dict, "general_model/label_encoders.pkl")
+joblib.dump(dish_encoder, "general_model/dish_encoder.pkl")
 
 print("✅ Improved general ML model trained and saved.")
 
+
+
+# Combine all the data into one CSV file
+# import json
+# import csv
+
+# # 👇 Add your JSON file names in the desired order
+# file_order = [
+#     'general_model_train_data/dishes_1_500_data.json',
+#     'general_model_train_data/dishes_501_1000_data.json',
+#     'general_model_train_data/dishes_1001_1500_data.json',
+#     'general_model_train_data/dishes_1501_2000_data.json',
+#     'general_model_train_data/dishes_2001_2100_data.json',
+#     'general_model_train_data/dishes_2101_2500_data.json'
+# ]
+
+# combined_data = []
+
+# # Load and combine the data in order
+# for file_name in file_order:
+#     with open(file_name, 'r', encoding='utf-8') as f:
+#         data = json.load(f)
+#         combined_data.extend(data)
+
+# # Get headers from first item
+# if combined_data:
+#     headers = combined_data[0].keys()
+# else:
+#     headers = []
+
+# # Save to CSV
+# with open('general_model_train_data/combined_output_2500.csv', 'w', newline='', encoding='utf-8') as f:
+#     writer = csv.DictWriter(f, fieldnames=headers)
+#     writer.writeheader()
+#     writer.writerows(combined_data)
+
+# print("✅ Combined CSV created successfully!")

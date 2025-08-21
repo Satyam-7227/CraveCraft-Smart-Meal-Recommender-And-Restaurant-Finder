@@ -21,6 +21,9 @@ def get_history():
             "selectedRestaurant": feedback.get("selectedRestaurant", "N/A"),
             "timeNeed": feedback.get("timeNeed", "N/A"),
             "location": feedback.get("location", "N/A"),
+            "dish_feedback": feedback.get("dish_feedback", None),  # Add dish feedback
+            "feedback_type": feedback.get("feedback_type", None),  # Add feedback type
+            "timestamp": feedback.get("timestamp", None)  # Add timestamp
         })
 
     return jsonify({"history": history})

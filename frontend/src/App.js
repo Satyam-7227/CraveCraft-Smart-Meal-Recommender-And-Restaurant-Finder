@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 
 import { AuthProvider } from './context/AuthContext';
 import ProtectedRoute from './components/ProtectedRoute';
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 import Login from './pages/Login';
 import Register from './pages/Register';
 import MainPage from "./pages/MainPage";
@@ -25,6 +25,7 @@ function App() {
                             <MainPage />
                         </ProtectedRoute>
                     } />
+                    {/* RestaurantDetails is rendered within MainPage to keep layout consistent */}
                     
                     {/* Redirect root to main page if authenticated, otherwise to login */}
                     <Route path="/" element={<Navigate to="/main" replace />} />

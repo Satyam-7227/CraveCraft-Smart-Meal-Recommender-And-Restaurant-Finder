@@ -1,0 +1,2501 @@
+dish,mood,dayStatus,craving,diet,cuisines
+Margherita,Stressed,Productive,Sweet,Veg,North Indian
+Veggie Feast,Tired,Productive,Light,Non-Veg,North Indian
+Tandoori Paneer,Tired,Productive,Light,Veg,North Indian
+Country Feast,Tired,Normal,Spicy,Veg,North Indian
+Veggie Supreme,Happy,Normal,Light,Non-Veg,North Indian
+Chicken Sausage,Tired,Lazy,Sweet,Non-Veg,North Indian
+Murg Malai Chicken,Sad,Lazy,Light,Non-Veg,North Indian
+Chicken Supreme,Tired,Productive,Heavy,Non-Veg,North Indian
+Triple Chicken Feast,Stressed,Normal,Light,Non-Veg,North Indian
+Classic Onion Capsicum,Sad,Lazy,Heavy,Veg,North Indian
+Cheesy Spicy Delight,Tired,Hectic,Heavy,Veg,North Indian
+Chilli Paneer Sizzle,Tired,Productive,Light,Veg,North Indian
+Classic Chicken Pepperoni & Onion,Stressed,Productive,Heavy,Non-Veg,North Indian
+Classic Herbed Chicken & Capsicum,Tired,Productive,Light,Non-Veg,North Indian
+Chatpata Chicken Feast,Stressed,Normal,Light,Non-Veg,North Indian
+Bold BBQ Veggie Thin n Crispy,Happy,Productive,Spicy,Non-Veg,North Indian
+Spicy Schezwan Pasta Chicken,Stressed,Hectic,Light,Non-Veg,Chinese
+Spicy Red Schezwan Pasta,Stressed,Normal,Sweet,Veg,Chinese
+Veggie Supreme,Sad,Hectic,Heavy,Non-Veg,North Indian
+Veggie Supreme,Stressed,Productive,Sweet,Non-Veg,North Indian
+Kadhai Paneer,Tired,Productive,Sweet,Veg,North Indian
+Southern Fiery Paneer,Sad,Productive,Light,Veg,North Indian
+Royal Spice Paneer,Sad,Hectic,Sweet,Veg,North Indian
+Kadhai Chicken,Tired,Normal,Sweet,Non-Veg,North Indian
+Juicylicious Southern Fiery Chicken,Happy,Productive,Light,Non-Veg,North Indian
+Royal Spice Chicken,Tired,Productive,Light,Non-Veg,North Indian
+Kadhai Paneer Melts,Tired,Hectic,Sweet,Veg,North Indian
+Royal Spice Paneer Melts,Stressed,Productive,Heavy,Veg,North Indian
+Kadhai Chicken Melts,Happy,Lazy,Light,Non-Veg,North Indian
+Royal Spice Chicken Melts,Happy,Productive,Heavy,Non-Veg,North Indian
+Baked Royal Spice Chicken Wings 4pc,Tired,Productive,Light,Non-Veg,North Indian
+Baked Royal Spice Chicken Wings 6pc,Tired,Lazy,Heavy,Non-Veg,North Indian
+Baked Southern Fiery Chicken Wings 4pc,Stressed,Productive,Sweet,Non-Veg,North Indian
+Baked Southern Fiery Chicken Wings 6pc,Sad,Hectic,Light,Non-Veg,North Indian
+Kadhai Garlic Bread,Sad,Lazy,Light,Veg,North Indian
+Southern Fiery Garlic Bread,Happy,Hectic,Spicy,Veg,North Indian
+Kadhai Keema Garlic Bread,Tired,Normal,Sweet,Veg,North Indian
+Southern Fiery Keema Garlic Bread,Sad,Hectic,Light,Veg,North Indian
+Indi Garlic Bread Combo,Stressed,Lazy,Spicy,Veg,North Indian
+Indi Keema Garlic Bread Combo,Stressed,Hectic,Light,Veg,North Indian
+Schezwan Margherita,Tired,Productive,Sweet,Veg,Chinese
+Mexican Fiesta,Stressed,Normal,Spicy,Veg,North Indian
+Bold BBQ Veggies,Sad,Hectic,Heavy,Non-Veg,North Indian
+Ultimate Tandoori Veggie,Happy,Lazy,Heavy,Non-Veg,North Indian
+Mazedar Makhni Paneer,Tired,Hectic,Spicy,Veg,North Indian
+Margherita,Tired,Productive,Spicy,Veg,North Indian
+Corn & Cheese,Tired,Lazy,Heavy,Veg,North Indian
+Veggie Feast,Tired,Productive,Spicy,Non-Veg,North Indian
+Spiced Paneer,Stressed,Lazy,Sweet,Veg,North Indian
+Tandoori Paneer,Tired,Hectic,Sweet,Veg,North Indian
+Country Feast,Happy,Lazy,Heavy,Veg,North Indian
+Veggie Supreme,Happy,Lazy,Light,Non-Veg,North Indian
+Margherita Pizza,Stressed,Productive,Heavy,Veg,Fast Food
+Veggie Supreme,Sad,Normal,Light,Non-Veg,North Indian
+Veggie Supreme,Stressed,Lazy,Spicy,Non-Veg,North Indian
+Sausage & Sweet Corn.,Sad,Lazy,Spicy,Veg,North Indian
+Dhabe Da Keema,Tired,Lazy,Sweet,Veg,North Indian
+Sizzling Schezwan Chicken,Stressed,Normal,Sweet,Non-Veg,Chinese
+Nawabi Murg Makhni,Happy,Hectic,Spicy,Veg,North Indian
+Chicken Sausage,Happy,Productive,Spicy,Non-Veg,North Indian
+Murg Malai Chicken,Stressed,Lazy,Sweet,Non-Veg,North Indian
+Chicken Tikka,Sad,Normal,Heavy,Non-Veg,North Indian
+Chicken Pepperoni,Tired,Productive,Sweet,Non-Veg,North Indian
+Chicken Supreme,Happy,Hectic,Spicy,Non-Veg,North Indian
+Chicken Tikka Supreme,Tired,Productive,Light,Non-Veg,North Indian
+Triple Chicken Feast,Happy,Hectic,Heavy,Non-Veg,North Indian
+Chicken Pepperoni,Happy,Lazy,Spicy,Non-Veg,North Indian
+Create Your Flavour Fun Combo - Box Of 4 - Veg,Happy,Normal,Spicy,Veg,North Indian
+Create Your Flavour Fun Combo - Box Of 4 - Non Veg,Sad,Lazy,Spicy,Veg,North Indian
+Create Your Flavour Fun Combo - Box Of 2 - Veg Pizza,Tired,Lazy,Sweet,Veg,Fast Food
+Create Your Flavour Fun Combo - Box Of 2 - Non Veg Pizza,Happy,Lazy,Sweet,Veg,Fast Food
+Classic Corn,Happy,Lazy,Light,Veg,North Indian
+Classic Onion Capsicum,Happy,Lazy,Heavy,Veg,North Indian
+Chatpata Tomato Onion & Chilli,Stressed,Hectic,Spicy,Veg,North Indian
+"Spicy Sweet Corn, Onion, Green Chilli",Happy,Hectic,Spicy,Veg,North Indian
+Cheesy Spicy Delight,Sad,Productive,Spicy,Veg,North Indian
+Chilli Paneer Sizzle,Happy,Hectic,Light,Veg,North Indian
+Classic Chicken Pepperoni & Onion,Stressed,Productive,Light,Non-Veg,North Indian
+Classic Herbed Chicken & Capsicum,Tired,Lazy,Light,Non-Veg,North Indian
+Chatpata Chicken Feast,Stressed,Normal,Heavy,Non-Veg,North Indian
+Hut Treat Meal for 2 - Veg,Sad,Lazy,Sweet,Veg,North Indian
+Hut Treat Meal for 2 - Non Veg,Happy,Normal,Spicy,Veg,North Indian
+Hut Treat Meal for 4 - Veg,Stressed,Hectic,Spicy,Veg,North Indian
+Hut Treat Meal for 4 - Non Veg,Happy,Hectic,Heavy,Veg,North Indian
+Bold BBQ Veggie Thin n Crispy,Stressed,Hectic,Heavy,Non-Veg,North Indian
+Tandoori Paneer Thin n Crispy,Happy,Hectic,Heavy,Veg,North Indian
+Mexican Fiesta Thin n Crispy,Tired,Productive,Spicy,Veg,North Indian
+Dhabe Da Keema Thin n Crispy,Tired,Hectic,Light,Veg,North Indian
+Chicken Pepperoni Thin n Crispy,Happy,Lazy,Sweet,Non-Veg,North Indian
+Chicken Supreme Thin n Crispy,Happy,Hectic,Sweet,Non-Veg,North Indian
+Spicy Schezwan Pasta Chicken,Happy,Normal,Heavy,Non-Veg,Chinese
+Cosy Comfort White Sauce Chicken Pasta,Tired,Hectic,Spicy,Non-Veg,North Indian
+Cosy Comfort White Sauce Pasta,Sad,Lazy,Heavy,Veg,North Indian
+Classic Mushroom Pasta,Tired,Productive,Sweet,Veg,North Indian
+Tomato Twist Red Sauce Pasta,Stressed,Lazy,Spicy,Veg,North Indian
+Spicy Red Schezwan Pasta,Stressed,Lazy,Sweet,Veg,Chinese
+Tandoori Murg Pasta,Happy,Hectic,Heavy,Veg,North Indian
+Tandoori Paneer Pasta,Tired,Normal,Sweet,Veg,North Indian
+Penne McN Cheese & Chicken Pasta,Sad,Hectic,Spicy,Non-Veg,North Indian
+Penne McN Cheese Pasta,Sad,Normal,Heavy,Veg,North Indian
+Super Value Deal : 2 Medium Veg Pizzas starting at Rs 649 (Save Upto 41%).,Tired,Lazy,Light,Veg,Fast Food
+Super Value Deal : 2 Medium Non-Veg Pizzas starting at Rs 749 (Save Upto 39%).,Stressed,Productive,Light,Veg,Fast Food
+Cheese Garlic Bread,Tired,Normal,Heavy,Veg,North Indian
+Exotica Veggie Garlic Bread,Stressed,Productive,Sweet,Non-Veg,North Indian
+Classic Bread Stix,Stressed,Lazy,Spicy,Veg,North Indian
+Loaded Bread Stix,Happy,Lazy,Light,Veg,North Indian
+Garlic Bread Spicy Supreme,Sad,Lazy,Light,Veg,North Indian
+Masala Keema Garlic Bread,Tired,Lazy,Spicy,Veg,North Indian
+Create your Melts Box of 2 - Veg,Sad,Productive,Spicy,Veg,North Indian
+Cheezy Cheese Veg & Loaded BBQ Veg Combo,Sad,Normal,Light,Veg,North Indian
+Create your Melts Box of 2 Non-Veg,Tired,Lazy,Spicy,Veg,North Indian
+Cheezy Cheese Chicken & Loaded BBQ Non-Veg Combo,Happy,Hectic,Sweet,Non-Veg,North Indian
+Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Veg,Sad,Normal,Heavy,Non-Veg,North Indian
+Melts 3 Course Meal for 1 - Veg,Sad,Normal,Sweet,Veg,North Indian
+Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Non Veg,Tired,Normal,Heavy,Non-Veg,North Indian
+Melts 3 Course Meal for 1 Non-Veg,Stressed,Lazy,Sweet,Veg,North Indian
+Cheezy Sprinkled Fries,Sad,Normal,Light,Veg,Fast Food
+BBQ Baked Chicken Wings 6pc,Happy,Productive,Heavy,Non-Veg,North Indian
+BBQ Baked Chicken Wings 4pc,Tired,Productive,Spicy,Non-Veg,North Indian
+Sprinkled Fries - New,Tired,Lazy,Heavy,Veg,Fast Food
+Spicy Baked Chicken Wings 4pc,Sad,Normal,Light,Non-Veg,North Indian
+Spicy Baked Chicken Wings 6pc,Tired,Productive,Heavy,Non-Veg,North Indian
+Jalapeno Pepper Dip,Sad,Productive,Spicy,Veg,North Indian
+Veg Mayonnaise Dip,Happy,Normal,Spicy,Veg,North Indian
+Tomato Ketchup,Stressed,Normal,Sweet,Veg,North Indian
+Momo Dip,Happy,Productive,Spicy,Veg,North Indian
+Mirinda 475ml,Stressed,Hectic,Light,Veg,North Indian
+7UP,Stressed,Productive,Heavy,Veg,North Indian
+Pepsi Zero Sugar 300ml,Happy,Hectic,Light,Veg,North Indian
+Brow-wow-nie,Tired,Lazy,Spicy,Veg,North Indian
+Choco Volcano,Tired,Hectic,Light,Veg,North Indian
+Combo for 1 Veg,Tired,Lazy,Light,Veg,North Indian
+Hunan Paneer Dry - Mini,Happy,Hectic,Heavy,Veg,North Indian
+Hunan Paneer Dry - Full,Happy,Hectic,Light,Veg,North Indian
+Schezwan Paneer Dry - Mini,Happy,Lazy,Light,Veg,North Indian
+Schezwan Paneer Dry - Full,Tired,Productive,Spicy,Veg,North Indian
+Hunan Paneer Bowl,Tired,Normal,Sweet,Veg,North Indian
+Veg Chinese Fried Rice - Half (500 ml).,Stressed,Hectic,Heavy,Veg,North Indian
+Veg Chinese Hakka Noodles - Half (500 ml).,Happy,Hectic,Heavy,Veg,Chinese
+Veg Chilli Garlic Noodles - Half (500 ml).,Sad,Lazy,Sweet,Veg,Chinese
+Veg Schezwan Noodles - Half (500 ml).,Happy,Lazy,Spicy,Veg,Chinese
+Black forest Mousse Cake,Happy,Hectic,Spicy,Veg,Dessert
+Salted Caramel Choco Mousse,Happy,Hectic,Light,Veg,North Indian
+Combo for 1 Veg,Happy,Hectic,Sweet,Veg,North Indian
+Desi Chilli Potato - Mini,Tired,Hectic,Spicy,Veg,North Indian
+Desi Chilli Potato - Full,Sad,Lazy,Light,Veg,North Indian
+Hunan Paneer Dry - Mini,Stressed,Productive,Spicy,Veg,North Indian
+Hunan Paneer Dry - Full,Stressed,Productive,Light,Veg,North Indian
+Black Pepper Paneer Dry - Mini,Stressed,Lazy,Light,Veg,North Indian
+Black Pepper Paneer Dry - Full,Sad,Productive,Light,Veg,North Indian
+Kung Pao Paneer Dry - Mini,Tired,Hectic,Sweet,Veg,North Indian
+Kung Pao Paneer Dry - Full,Stressed,Lazy,Sweet,Veg,North Indian
+Schezwan Paneer Dry - Mini,Tired,Hectic,Heavy,Veg,North Indian
+Schezwan Paneer Dry - Full,Sad,Productive,Light,Veg,North Indian
+Paneer Chilli Dry - Mini,Stressed,Normal,Sweet,Veg,North Indian
+Paneer Chilli Dry - Full,Sad,Normal,Light,Veg,North Indian
+Paneer Manchurian Dry - Mini,Happy,Normal,Heavy,Veg,North Indian
+Paneer Manchurian Dry - Full,Happy,Lazy,Light,Veg,North Indian
+Veg Manchurian Dry - Mini,Sad,Normal,Light,Veg,Chinese
+Veg Manchurian Dry - Full,Stressed,Hectic,Sweet,Veg,Chinese
+Manchurian Ball In Choice Of Sauce - Full,Tired,Lazy,Light,Veg,Chinese
+Veg Spring Roll 6 Pcs - Mini,Sad,Normal,Light,Veg,North Indian
+Sweet Chilli Potato - Mini,Happy,Hectic,Sweet,Veg,North Indian
+Sweet Chilli Potato - Full,Tired,Hectic,Heavy,Veg,North Indian
+Manchurian Potato - Mini,Tired,Productive,Light,Veg,Chinese
+Manchurian Potato - Full,Happy,Normal,Sweet,Veg,Chinese
+Veg Manchow Soup with Crispy Noodles,Stressed,Lazy,Heavy,Veg,Chinese
+Veg Schezwan Noodle Soup,Stressed,Hectic,Sweet,Veg,Chinese
+Veg Kurkure Fried Momo with Momo Chutney,Tired,Lazy,Spicy,Veg,North Indian
+Veg Chinese Fried Rice - Half (500 ml),Happy,Lazy,Light,Veg,North Indian
+Veg Burnt Garlic Fried Rice - Half (500 ml),Happy,Productive,Heavy,Veg,North Indian
+Veg Chilli Garlic Fried Rice - Half (500 ml),Tired,Lazy,Sweet,Veg,North Indian
+Veg Chinese Schezwan Fried Rice - Half (500 ml),Tired,Hectic,Sweet,Veg,Chinese
+Chowmein Veg - Half (500 ml),Stressed,Lazy,Sweet,Veg,North Indian
+Veg Chinese Hakka Noodles - Half (500 ml),Happy,Lazy,Sweet,Veg,Chinese
+Veg Burnt Garlic Noodles - Half (500 ml),Tired,Lazy,Heavy,Veg,Chinese
+Veg Chilli Garlic Noodles - Half (500 ml),Sad,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Noodles - Half (500 ml),Tired,Hectic,Light,Veg,Chinese
+Veg Fried Rice - Full (1000 ml),Sad,Lazy,Sweet,Veg,North Indian
+Veg Burnt Garlic Fried Rice - Full (1000 ml),Sad,Hectic,Light,Veg,North Indian
+Veg Chilli Garlic Fried Rice - Full (1000 ml),Tired,Hectic,Light,Veg,North Indian
+Veg Schezwan Fried Rice - Full (1000 ml),Tired,Lazy,Spicy,Veg,Chinese
+Veg Triple Schezwan Rice,Tired,Normal,Heavy,Veg,Chinese
+Chowmein Veg  - Full (1000 Ml),Happy,Hectic,Sweet,Veg,North Indian
+Veg Hakka Noodles - Full (1000 ml),Happy,Hectic,Sweet,Veg,Chinese
+Veg Burnt Garlic Noodles - Full (1000 ml),Happy,Hectic,Light,Veg,Chinese
+Veg Chilli Garlic Noodles - Full (1000 ml),Sad,Normal,Sweet,Veg,Chinese
+Veg Schezwan Noodles - Full (1000 ml),Stressed,Normal,Heavy,Veg,Chinese
+Veg Manchurian Bowl,Happy,Hectic,Light,Veg,Chinese
+Hunan Paneer Bowl,Stressed,Normal,Spicy,Veg,North Indian
+Veg Manchurian Bowl with Hakka Noodle,Tired,Hectic,Sweet,Veg,Chinese
+Manchurian Paneer Bowl,Stressed,Normal,Sweet,Veg,North Indian
+Kung Pao Paneer Bowl,Sad,Hectic,Spicy,Veg,North Indian
+Schezwan Paneer Bowl,Stressed,Normal,Sweet,Veg,North Indian
+Hunan Paneer Bowl.,Happy,Lazy,Spicy,Veg,North Indian
+Manchurian Paneer Bowl.,Tired,Productive,Heavy,Veg,North Indian
+Black Pepper Paneer Bowl.,Tired,Normal,Sweet,Veg,North Indian
+Schezwan Paneer Bowl.,Happy,Normal,Spicy,Veg,North Indian
+Kung Pao Paneer Bowl.,Sad,Hectic,Spicy,Veg,North Indian
+Veg Manchurian Bowl.,Sad,Productive,Light,Veg,Chinese
+Chilli Paneer Bowl.,Happy,Productive,Light,Veg,North Indian
+Chowmein Veg  - Half (500 ml).,Tired,Hectic,Light,Veg,North Indian
+Veg Chinese Fried Rice - Half (500 ml).,Stressed,Hectic,Sweet,Veg,North Indian
+Veg Burnt Garlic Fried Rice - Half (500 ml).,Sad,Productive,Heavy,Veg,North Indian
+Veg Chilli Garlic Fried Rice - Half (500 ml).,Sad,Normal,Heavy,Veg,North Indian
+Veg Chinese Schezwan Fried Rice - Half (500 ml).,Tired,Productive,Spicy,Veg,Chinese
+Veg Chinese Hakka Noodles - Half (500 ml).,Stressed,Lazy,Spicy,Veg,Chinese
+Veg Burnt Garlic Noodles - Half (500 ml).,Stressed,Normal,Spicy,Veg,Chinese
+Veg Chilli Garlic Noodles - Half (500 ml).,Sad,Hectic,Spicy,Veg,Chinese
+Veg Schezwan Noodles - Half (500 ml).,Sad,Hectic,Sweet,Veg,Chinese
+Veg Personal Wok Bowl,Stressed,Normal,Heavy,Veg,North Indian
+Veg Medium Wok Bowl,Tired,Normal,Heavy,Veg,North Indian
+Hunan Paneer Gravy - Half,Stressed,Normal,Heavy,Veg,North Indian
+Black Pepper Paneer Gravy - Half,Stressed,Normal,Spicy,Veg,North Indian
+Veg Manchurian Gravy - Half,Sad,Lazy,Heavy,Veg,Chinese
+Kung Pao Paneer Gravy - Half,Sad,Lazy,Heavy,Veg,North Indian
+Schezwan Paneer Gravy - Half,Happy,Lazy,Light,Veg,North Indian
+Manchurian Paneer Gravy - Half,Sad,Hectic,Sweet,Veg,North Indian
+Chilli Paneer Gravy - Half,Tired,Lazy,Spicy,Veg,North Indian
+Hunan Paneer Gravy - Full,Stressed,Lazy,Heavy,Veg,North Indian
+Black Pepper Paneer Gravy - Full,Stressed,Productive,Sweet,Veg,North Indian
+Manchurian Veg - Full,Happy,Hectic,Light,Veg,Chinese
+Kung Pao Paneer - Full,Tired,Hectic,Sweet,Veg,North Indian
+Schezwan Paneer - Full,Sad,Lazy,Light,Veg,North Indian
+Manchurian Paneer - Full,Tired,Hectic,Light,Veg,North Indian
+Chilli Paneer - Full,Happy,Normal,Spicy,Veg,North Indian
+Veg Manchurian Pot Rice,Tired,Lazy,Spicy,Veg,Chinese
+Veg Fried Rice - Light Eaters,Tired,Normal,Spicy,Veg,North Indian
+Veg Hakka Noodles - Light Eaters,Tired,Lazy,Light,Veg,Chinese
+Veg Desi Chilli Value Wok,Sad,Productive,Sweet,Veg,North Indian
+Chocolate Mousse - Small,Sad,Lazy,Spicy,Veg,North Indian
+Black forest Mousse Cake,Sad,Lazy,Sweet,Veg,Dessert
+Salted Caramel Choco Mousse,Tired,Lazy,Spicy,Veg,North Indian
+Choco Lava,Stressed,Lazy,Light,Veg,North Indian
+Pepsi Pet Bottle,Sad,Hectic,Sweet,Veg,North Indian
+7 Up,Sad,Hectic,Spicy,Veg,North Indian
+Coolberg Peach,Tired,Hectic,Sweet,Veg,North Indian
+Coolberg Cranberry,Tired,Hectic,Sweet,Veg,North Indian
+Peach Ice Tea,Stressed,Lazy,Light,Veg,North Indian
+Aam Panna,Sad,Normal,Sweet,Veg,North Indian
+Masala Shikanji,Stressed,Lazy,Spicy,Veg,North Indian
+Lemon Ice Tea,Tired,Lazy,Spicy,Veg,North Indian
+Water,Tired,Hectic,Light,Veg,North Indian
+Crispy Noodles,Happy,Productive,Sweet,Veg,Chinese
+Extra Schezwan Dip,Happy,Productive,Light,Veg,Chinese
+Extra Mayo Dip,Sad,Lazy,Heavy,Veg,North Indian
+Extra Sweet Chilli Dip,Sad,Productive,Light,Veg,North Indian
+Extra Momo Chutney,Tired,Normal,Light,Veg,North Indian
+Crispy Veg Burger,Happy,Normal,Heavy,Veg,Fast Food
+Crispy Chicken Burger,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Crispy Veg Double Patty Burger,Happy,Productive,Spicy,Veg,Fast Food
+Crispy Chicken Double Patty Burger,Tired,Normal,Heavy,Non-Veg,Fast Food
+Original Whopper Veg,Sad,Productive,Light,Veg,North Indian
+Original Whopper Chicken,Tired,Hectic,Sweet,Non-Veg,North Indian
+King Fries,Sad,Lazy,Sweet,Veg,Fast Food
+Medium Fries,Happy,Normal,Light,Veg,Fast Food
+King Peri Peri Fries,Sad,Normal,Light,Veg,Fast Food
+Chocolate Thick Shake,Stressed,Normal,Spicy,Veg,North Indian
+Crispy Veg Double Patty Burger+Fries(M),Stressed,Productive,Sweet,Veg,Fast Food
+Classic Family Feast for 4 - Veg,Happy,Normal,Light,Veg,North Indian
+4 Crispy Veg + 2 Medium Fries,Happy,Productive,Heavy,Veg,Fast Food
+Crispy Veg Double Patty + Crispy Veg Double Patty,Sad,Lazy,Sweet,Veg,North Indian
+Veg Makhani Burst + Whopper Jr Veg,Sad,Normal,Heavy,Veg,North Indian
+Korean Spicy Paneer Burger,Tired,Productive,Heavy,Veg,North Indian
+Korean Spicy Paneer Burger.,Happy,Normal,Heavy,Veg,North Indian
+Korean Spicy Chicken Burger.,Stressed,Hectic,Light,Non-Veg,Fast Food
+Korean Spicy Chicken Burger,Happy,Hectic,Sweet,Non-Veg,Fast Food
+Korean Spicy Fries,Happy,Lazy,Light,Veg,Fast Food
+Korean Spicy Fries.,Happy,Lazy,Spicy,Veg,Fast Food
+2Crispy Veg Double Patty Burger+Korean Spicy Fries.,Happy,Normal,Spicy,Veg,Fast Food
+Korean Spicy Chicken (4 Pc),Stressed,Productive,Light,Non-Veg,North Indian
+Korean Spicy Chicken (4pc) + Crispy Chicken Burger.,Sad,Productive,Heavy,Non-Veg,Fast Food
+Korean Spicy Chicken (7 Pc),Stressed,Productive,Spicy,Non-Veg,North Indian
+2Crispy Veg Burger+Korean Spicy Fries+2Coke.,Sad,Lazy,Spicy,Veg,Fast Food
+2Crispy Chicken Burger+Korean Spicy Chicken(4pc)+2Coke.,Tired,Productive,Sweet,Non-Veg,Fast Food
+2Whopper Jr Chicken+Korean Spicy Chicken(7pc).,Happy,Lazy,Light,Non-Veg,North Indian
+2Whopper Jr Veg+2Korean Spicy Fries.,Tired,Normal,Heavy,Veg,Fast Food
+Korean Spicy Paneer Burger Meal.,Happy,Productive,Light,Veg,North Indian
+Korean Spicy Chicken Burger Meal.,Stressed,Lazy,Light,Non-Veg,Fast Food
+Korean Spicy Paneer+Korean Spicy Fries(M).,Sad,Productive,Light,Veg,North Indian
+Korean Spicy Chicken+Korean Spicy Fries(M).,Sad,Normal,Light,Non-Veg,Fast Food
+Crispy Veg Burger,Happy,Normal,Heavy,Veg,Fast Food
+Crispy Chicken Burger,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Veg Makhani Burst Burger,Tired,Normal,Spicy,Veg,Fast Food
+Chicken Makhani Burst Burger,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Crispy Veg Double Patty Burger,Sad,Lazy,Sweet,Veg,Fast Food
+Crispy Chicken Double Patty Burger,Sad,Hectic,Light,Non-Veg,Fast Food
+Veg Crunchy Taco,Happy,Hectic,Spicy,Veg,North Indian
+Crunchy Chicken Taco,Tired,Hectic,Spicy,Non-Veg,North Indian
+Crispy Chicken Triple Cheese Burger.,Happy,Lazy,Heavy,Non-Veg,Fast Food
+BK Veggie Burger,Happy,Productive,Sweet,Non-Veg,Fast Food
+BK Chicken Burger,Tired,Productive,Heavy,Non-Veg,Fast Food
+BK Veggie Triple Cheese Burger.,Sad,Productive,Light,Non-Veg,Fast Food
+Original Whopper Veg,Sad,Lazy,Spicy,Veg,North Indian
+Original Whopper Chicken,Sad,Lazy,Heavy,Non-Veg,North Indian
+Original Whopper Chicken.,Stressed,Lazy,Light,Non-Veg,North Indian
+Whopper Jr Veg,Sad,Lazy,Sweet,Veg,North Indian
+Chicken Whopper Jr Double Patty.,Happy,Lazy,Heavy,Non-Veg,North Indian
+Whopper Jr Veg Stacker.,Happy,Normal,Sweet,Veg,North Indian
+Whopper Jr Chicken with Cheese Slice.,Sad,Normal,Spicy,Non-Veg,North Indian
+Whopper Jr Veg with Cheese Slice.,Stressed,Productive,Sweet,Veg,North Indian
+Whopper Jr Chicken,Sad,Normal,Sweet,Non-Veg,North Indian
+Jr Whopper Stacker – Chicken,Happy,Hectic,Spicy,Non-Veg,North Indian
+Original Whopper Veg Stacker,Stressed,Lazy,Sweet,Veg,North Indian
+Original Whopper Chicken Stacker,Tired,Normal,Light,Non-Veg,North Indian
+"Paneer Royale Wrap,",Happy,Hectic,Spicy,Veg,North Indian
+Paneer Royale Wrap,Tired,Normal,Spicy,Veg,North Indian
+"Korean Spicy Paneer Burger,",Happy,Hectic,Light,Veg,North Indian
+Korean Spicy Paneer Burger!,Tired,Normal,Light,Veg,North Indian
+"Korean Spicy Chicken Burger,",Tired,Lazy,Heavy,Non-Veg,Fast Food
+Korean Spicy Chicken Burger!,Sad,Normal,Light,Non-Veg,Fast Food
+Medium Peri Peri Fries,Happy,Productive,Sweet,Veg,Fast Food
+King Fries,Tired,Productive,Light,Veg,Fast Food
+Saucy Fries,Sad,Productive,Light,Veg,Fast Food
+2 Med Fries.,Stressed,Productive,Heavy,Veg,Fast Food
+"2 King Fries,",Happy,Normal,Light,Veg,Fast Food
+Medium Fries,Stressed,Normal,Sweet,Veg,Fast Food
+King Peri Peri Fries,Tired,Hectic,Heavy,Veg,Fast Food
+Fiery Hell Dip,Tired,Productive,Sweet,Veg,North Indian
+Peri Peri Spice Mix,Stressed,Hectic,Light,Veg,North Indian
+"Korean Spicy Fries,",Happy,Normal,Light,Veg,Fast Food
+Korean Spicy Fries!,Stressed,Lazy,Sweet,Veg,Fast Food
+BK Veg Pizza Puff,Happy,Lazy,Heavy,Veg,Fast Food
+Veggie Strips(5 Pcs),Tired,Productive,Spicy,Non-Veg,North Indian
+Masala Hashbrown,Tired,Hectic,Spicy,Veg,North Indian
+(6Pc) Crunchy Chicken Nuggets + 1 Dip.,Stressed,Lazy,Light,Non-Veg,North Indian
+(6Pc) Crunchy Chicken Nuggets + 1 Dip,Stressed,Productive,Light,Non-Veg,North Indian
+"(9Pc) Crunchy Chicken Nuggets + 2 Dips,",Stressed,Lazy,Light,Non-Veg,North Indian
+Boneless Wings Regular,Stressed,Normal,Light,Veg,North Indian
+Boneless Wings Regular.,Stressed,Productive,Heavy,Veg,North Indian
+Boneless Wings Large,Sad,Lazy,Spicy,Veg,North Indian
+Korean Spicy Chicken (4 Pc)!,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Korean Spicy Chicken (7 Pc)!,Sad,Lazy,Light,Non-Veg,North Indian
+Chocolate Thick Shake,Happy,Lazy,Sweet,Veg,North Indian
+Chocolate Shake.,Happy,Productive,Heavy,Veg,North Indian
+Mango Thick Shake,Happy,Lazy,Spicy,Veg,North Indian
+Mango Shake.,Stressed,Productive,Heavy,Veg,North Indian
+Berry Blast Thick Shake,Sad,Hectic,Sweet,Veg,North Indian
+Crispy Chicken Meal.,Happy,Lazy,Heavy,Non-Veg,North Indian
+Crispy Veg Meal.,Happy,Hectic,Spicy,Veg,North Indian
+Veg Makhani Burst Meal.,Sad,Normal,Spicy,Veg,North Indian
+Crunchy Veg Taco+Veggie Strips+Coke.,Happy,Lazy,Heavy,Non-Veg,North Indian
+Veg Puff Meal.,Happy,Hectic,Sweet,Veg,North Indian
+"Whopper Jr Veg Meal,",Stressed,Productive,Spicy,Veg,North Indian
+"BK Veggie Burger+Fries(Reg)+Coca Cola,",Tired,Hectic,Light,Non-Veg,Fast Food
+"Crispy Veg Double Patty Meal,",Tired,Productive,Light,Veg,North Indian
+"Chicken Makhani Burst+Fries(Reg)+Coke,",Tired,Normal,Spicy,Non-Veg,Fast Food
+Crispy Veg Combo (M),Stressed,Hectic,Heavy,Veg,North Indian
+Original Whopper Veg Combo (M),Happy,Lazy,Spicy,Veg,North Indian
+Original Whopper Chicken Combo (M),Tired,Lazy,Light,Non-Veg,North Indian
+Whopper Jr Veg Combo (M),Sad,Normal,Light,Veg,North Indian
+Crispy Chicken Combo (M),Sad,Hectic,Spicy,Non-Veg,North Indian
+BK Veggie Burger Combo (M),Tired,Lazy,Spicy,Non-Veg,Fast Food
+Whopper Jr Chicken Combo (M),Sad,Productive,Sweet,Non-Veg,North Indian
+BK Chicken Burger Combo (M),Stressed,Lazy,Spicy,Non-Veg,Fast Food
+Whopper Jr Veg+ Crispy Veg.,Stressed,Productive,Light,Veg,North Indian
+"2 BK Veggie Burgers,",Tired,Lazy,Sweet,Non-Veg,Fast Food
+Crispy Chicken + Crunchy Chicken Taco.,Tired,Normal,Sweet,Non-Veg,North Indian
+BK Veggie Burger + Veg Taco.,Happy,Hectic,Light,Non-Veg,Fast Food
+Veg Makhani Burst Burger+ Medium Peri Peri Fries.,Stressed,Hectic,Sweet,Veg,Fast Food
+Crispy Chicken + Chicken Nuggets (4Pcs).,Stressed,Normal,Light,Non-Veg,North Indian
+BK Veggie Burger + Crispy Veg Burger.,Stressed,Hectic,Light,Non-Veg,Fast Food
+Crispy Chicken Burger+Fries(M),Stressed,Productive,Heavy,Non-Veg,Fast Food
+"2 Crunchy Veg Taco+Fries(M),",Tired,Hectic,Light,Veg,Fast Food
+Crispy Chicken + Med Fries.,Happy,Hectic,Sweet,Non-Veg,Fast Food
+Crispy Veg Double Patty Burger+Veg Crunchy Taco.,Stressed,Hectic,Sweet,Veg,Fast Food
+Veg Whopper Jr + BK Veg Pizza Puff.,Happy,Normal,Spicy,Veg,Fast Food
+Chicken Makhani Burst Burger+Fries(Reg)+Peri Peri Sachet.,Stressed,Lazy,Spicy,Non-Veg,Fast Food
+Crispy Veg Double Patty Burger+Fries(M),Tired,Lazy,Light,Veg,Fast Food
+1Crispy Veg Double Patty + 1Med Fries.,Stressed,Normal,Light,Veg,Fast Food
+Crispy Chicken Burger+Peri Peri Fries(Reg).,Sad,Lazy,Sweet,Non-Veg,Fast Food
+BK Veggie Burger+Veg Makhani Burst Burger.,Sad,Lazy,Light,Non-Veg,Fast Food
+BK Veggie Burger + BK Veg Pizza Puff.,Happy,Hectic,Heavy,Non-Veg,Fast Food
+"2 Veg Whopper Jr,",Happy,Normal,Heavy,Veg,North Indian
+2 Jr Veg Whopper,Happy,Normal,Heavy,Veg,North Indian
+"Crispy Chicken Double Patty Burger+Crunchy Chicken Taco,",Sad,Productive,Spicy,Non-Veg,Fast Food
+"3 Veg Makhani Burst Burger,",Stressed,Hectic,Light,Veg,Fast Food
+"Crispy Chicken Burger + BK Chicken Burger,",Happy,Hectic,Light,Non-Veg,Fast Food
+"2 Crunchy Chicken Taco,",Stressed,Lazy,Heavy,Non-Veg,North Indian
+"2 Veg Crunchy Tacos+Crispy Veg Burger,",Happy,Lazy,Heavy,Veg,Fast Food
+"Veg Whopper Jr + Crunchy Veg Taco,",Stressed,Hectic,Heavy,Veg,North Indian
+"Chocolate Thick Shake + Crispy Veg Burger,",Stressed,Lazy,Heavy,Veg,Fast Food
+"Crispy Chicken+Crunchy Chicken Nuggets(6Pcs),",Tired,Lazy,Spicy,Non-Veg,North Indian
+"BK Chicken+Crunchy Chicken Nuggets(4pcs),",Stressed,Hectic,Spicy,Non-Veg,North Indian
+Paneer Royale Wrap+BK Veggie Burger.,Tired,Hectic,Spicy,Non-Veg,North Indian
+Boneless Wings(7pcs)+Fiery Hell Dip.,Happy,Productive,Spicy,Veg,North Indian
+Original Whopper Chicken+Fries(M).,Tired,Normal,Sweet,Non-Veg,Fast Food
+Original Whopper Veg Meal(Reg).,Sad,Hectic,Sweet,Veg,North Indian
+Original Whopper Veg+Peri Peri Fries(M).,Tired,Normal,Heavy,Veg,Fast Food
+Original Whopper Chicken+4pcs Crunchy Chicken Nuggets.,Stressed,Normal,Heavy,Non-Veg,North Indian
+Original Whopper Veg+BK Veggie Burger.,Stressed,Productive,Light,Non-Veg,Fast Food
+Classic Family Feast for 4 - Veg,Sad,Normal,Sweet,Veg,North Indian
+Classic Family Feast for 4 - Chicken,Stressed,Productive,Sweet,Non-Veg,North Indian
+11Pc Boneless Wings,Tired,Hectic,Light,Veg,North Indian
+Choco Lava Cup,Stressed,Hectic,Sweet,Veg,North Indian
+Chocolate Mousse Cup,Tired,Hectic,Sweet,Veg,North Indian
+Coca Cola Medium,Tired,Lazy,Light,Veg,North Indian
+Fanta Medium,Sad,Hectic,Light,Veg,North Indian
+4 Crispy Veg + 2 Medium Fries,Happy,Normal,Sweet,Veg,Fast Food
+6 Crispy Veg,Stressed,Lazy,Spicy,Veg,North Indian
+6 Crispy Chicken,Happy,Normal,Spicy,Non-Veg,North Indian
+4 Crispy Chicken + 2 Medium Fries,Tired,Productive,Heavy,Non-Veg,Fast Food
+Veggie Strips(5Pcs) + 1 Dip,Sad,Lazy,Spicy,Non-Veg,North Indian
+Boneless Chicken Wings(4pcs)+1Fiery Hell Dip,Happy,Normal,Light,Non-Veg,North Indian
+Boneless Chicken Wings(7Pcs)+1Fiery Hell Dip,Happy,Productive,Light,Non-Veg,North Indian
+1 Jr Veg Whopper +1 Chocolate Thick Shake,Sad,Lazy,Spicy,Veg,North Indian
+1 Jr Chicken Whopper+1 Chocolate Thick Shake,Happy,Hectic,Spicy,Non-Veg,North Indian
+2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips,Tired,Productive,Sweet,Non-Veg,Fast Food
+2 Crispy Veg Double Patty + 1 King Fries +1Chocolate mousse cup,Happy,Hectic,Heavy,Veg,Fast Food
+Crispy Veg Double Patty + Crispy Veg Double Patty,Stressed,Hectic,Spicy,Veg,North Indian
+Veg Makhani Burst + Whopper Jr Veg,Tired,Normal,Light,Veg,North Indian
+BK Veggie Burger + BK Veggie Burger,Tired,Hectic,Sweet,Non-Veg,Fast Food
+Crispy Chicken Double Patty + Crispy Chicken Double Patty,Sad,Hectic,Sweet,Non-Veg,North Indian
+Chicken Makhani Burst + Whopper Jr Chicken,Sad,Hectic,Spicy,Non-Veg,North Indian
+BK Chicken Burger + BK Chicken Burger,Tired,Productive,Sweet,Non-Veg,Fast Food
+Whopper Jr Veg + Whopper Jr Veg,Tired,Lazy,Light,Veg,North Indian
+Original Whopper Veg + Original Whopper Veg,Tired,Lazy,Heavy,Veg,North Indian
+Original Whopper Chicken + Original Whopper Chicken,Tired,Hectic,Sweet,Non-Veg,North Indian
+Crispy Veg + Med Fries + Chocolate Thick Shake,Sad,Hectic,Heavy,Veg,Fast Food
+Crispy Chicken + Med Fries + Chocolate Thick Shake,Tired,Lazy,Sweet,Non-Veg,Fast Food
+BK Veggie + Med Fries + Chocolate Thick Shake,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+BK Chicken + Med Fries + Chocolate Thick Shake,Happy,Normal,Sweet,Non-Veg,Fast Food
+Original Whopper Veg + Med Fries + Chocolate Thick Shake,Sad,Normal,Sweet,Veg,Fast Food
+Original Whopper Chicken + Med Fries + Chocolate Thick Shake,Happy,Productive,Heavy,Non-Veg,Fast Food
+Crispy Veggie Burger.,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Crispy Veggie Burger + McVeggie Burger + Fries (M).,Sad,Normal,Light,Non-Veg,Fast Food
+Crispy Veggie Burger Meal (M).,Happy,Productive,Spicy,Non-Veg,Fast Food
+Mc Crispy Chicken Burger.,Tired,Lazy,Sweet,Non-Veg,Fast Food
+Mc Crispy Chicken Burger Meal (M).,Tired,Normal,Spicy,Non-Veg,Fast Food
+Mc Crispy Chicken Burger + McChicken Burger + Fries (M).,Sad,Lazy,Spicy,Non-Veg,Fast Food
+Korean Chicken Surprise Burger,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Korean Chicken Surprise Burger Combo (M).,Tired,Normal,Spicy,Non-Veg,Fast Food
+Korean Mc Aloo Tikki Burger,Happy,Normal,Sweet,Veg,Fast Food
+Korean Mc Aloo Tikki Burger Combo (M).,Stressed,Normal,Heavy,Veg,Fast Food
+Korean Mc Egg Burger,Stressed,Normal,Heavy,Non-Veg,Fast Food
+Korean Mc Egg Burger Combo (M).,Tired,Hectic,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Chicken Burger,Sad,Normal,Light,Non-Veg,Fast Food
+Korean Mc Spicy Chicken Burger Combo (M).,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Korean Mc Spicy Paneer Burger,Happy,Productive,Spicy,Veg,North Indian
+Korean Mc Spicy Paneer Burger Combo (M).,Sad,Hectic,Sweet,Veg,North Indian
+Korean Mc Spicy Premium Chicken Burger,Sad,Normal,Heavy,Non-Veg,Fast Food
+Korean Mc Spicy Premium Chicken Burger Combo (M).,Tired,Hectic,Heavy,Non-Veg,Fast Food
+Korean Mc Spicy Premium Paneer Burger,Stressed,Normal,Light,Veg,North Indian
+Korean Mc Spicy Premium Paneer Burger Combo (M).,Happy,Hectic,Heavy,Veg,North Indian
+Korean Yuzu-Pop Sprite,Sad,Lazy,Spicy,Veg,North Indian
+McSaver Korean Chicken Surprise Burger,Tired,Normal,Light,Non-Veg,Fast Food
+McSaver Korean Mc Aloo Tikki Burger,Sad,Hectic,Heavy,Veg,Fast Food
+McSaver Korean Mc Egg Burger,Stressed,Productive,Sweet,Non-Veg,Fast Food
+Minecraft Movie Meal - 9 Pc Chicken Nuggets.,Happy,Normal,Light,Non-Veg,North Indian
+Minecraft Movie Meal - Pizza McPuff.,Stressed,Productive,Spicy,Veg,Fast Food
+Chicken Surprise Burger with Multi-Millet Bun,Stressed,Productive,Heavy,Non-Veg,Fast Food
+McAloo Tikki Burger with Multi-Millet Bun,Happy,Productive,Light,Veg,Fast Food
+McChicken Burger with Multi-Millet Bun,Stressed,Lazy,Light,Non-Veg,Fast Food
+McSpicy Chicken Burger with Multi-Millet Bun,Tired,Normal,Heavy,Non-Veg,Fast Food
+McSpicy Paneer Burger with Multi-Millet Bun,Tired,Productive,Sweet,Veg,North Indian
+McVeggie Burger with Multi-Millet Bun,Tired,Productive,Light,Non-Veg,Fast Food
+Burger Combo for 2: McAloo Tikki,Sad,Normal,Light,Veg,Fast Food
+6 Pc Chicken Nuggets + McChicken Burger + Coke,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Chicken + McChicken,Tired,Productive,Sweet,Non-Veg,Fast Food
+Burger Combo for 2: Corn & Cheese + McVeggie,Happy,Normal,Spicy,Non-Veg,Fast Food
+Burger Combo for 2: McChicken Burger with Pizza McPuff,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Chicken Burger with Pizza McPuff,Sad,Hectic,Heavy,Non-Veg,Fast Food
+Burger Combo for 2: McVeggie Burger with Pizza McPuff,Happy,Normal,Spicy,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Pizza McPuff,Tired,Lazy,Spicy,Veg,North Indian
+Burger Combo for 2: McVeggie + McAloo Tikki with Pizza McPuff,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Burger Combo for 2: McChicken Burger,Tired,Hectic,Heavy,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Chicken Burger,Tired,Productive,Sweet,Non-Veg,Fast Food
+Burger Combo for 2: McVeggie Burger,Sad,Normal,Sweet,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Paneer + McAloo Tikki with Coke,Tired,Hectic,Sweet,Veg,North Indian
+Burger Combo for 2: McVeggie + McAloo Tikki with Coke,Happy,Productive,Light,Non-Veg,Fast Food
+Burger Combo for 2: Corn & Cheese Burger,Tired,Lazy,Sweet,Veg,Fast Food
+Burger Combo for 2: Grilled Chicken & Cheese,Happy,Productive,Heavy,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Deluxe Chicken Burger,Stressed,Productive,Light,Non-Veg,Fast Food
+Burger Combo for 2: McSpicy Deluxe Paneer Burger,Stressed,Normal,Sweet,Veg,North Indian
+Burger Combo for 2: McCheese Burger Chicken,Tired,Lazy,Light,Non-Veg,Fast Food
+Burger Combo for 2: McCheese Burger Veg,Stressed,Hectic,Spicy,Veg,Fast Food
+2 Crispy Veggie Burger  + 2 Fries (M) + Veg Pizza McPuff,Tired,Hectic,Heavy,Non-Veg,Fast Food
+2 Crispy Veggie Burger  + Fries (L) + 2 Coke,Stressed,Normal,Light,Non-Veg,Fast Food
+2 Mc Crispy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff,Stressed,Productive,Heavy,Non-Veg,Fast Food
+2 Mc Crispy Chicken Burger + Fries (L) + 2 Coke,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Crispy Veggie Burger + McVeggie Burger + Fries (M),Tired,Productive,Heavy,Non-Veg,Fast Food
+Mc Crispy Chicken Burger + McChicken Burger + Fries (M),Happy,Lazy,Spicy,Non-Veg,Fast Food
+Veg Pizza McPuff + McSpicy Chicken Burger,Tired,Productive,Light,Non-Veg,Fast Food
+2 Cappuccino,Sad,Lazy,Heavy,Veg,North Indian
+McChicken Burger + McSpicy Chicken Burger,Stressed,Normal,Light,Non-Veg,Fast Food
+2 Iced Coffee,Sad,Normal,Heavy,Veg,North Indian
+McVeggie Burger + McAloo Tikki Burger,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Strawberry Shake + Fries (M),Stressed,Normal,Spicy,Veg,Fast Food
+McChicken Burger + Fries (M),Happy,Productive,Light,Non-Veg,Fast Food
+McVeggie Burger + Fries (M),Stressed,Productive,Heavy,Non-Veg,Fast Food
+McAloo Tikki Burger + Veg Pizza McPuff + Coke,Stressed,Normal,Heavy,Veg,Fast Food
+2 Coke,Tired,Lazy,Heavy,Veg,North Indian
+McAloo Tikki + Fries (R),Sad,Lazy,Light,Veg,Fast Food
+Mexican McAloo Tikki Burger + Fries (R),Tired,Normal,Light,Veg,Fast Food
+McChicken Burger + Veg Pizza McPuff,Sad,Productive,Spicy,Non-Veg,Fast Food
+McVeggie Burger + Veg Pizza McPuff,Tired,Lazy,Heavy,Non-Veg,Fast Food
+McVeggie Burger + Fries (R),Stressed,Productive,Sweet,Non-Veg,Fast Food
+Mexican McAloo Tikki Burger + Fries (L),Sad,Productive,Sweet,Veg,Fast Food
+McChicken Burger + Fries (L),Stressed,Lazy,Spicy,Non-Veg,Fast Food
+McVeggie Burger + Fries (L),Sad,Lazy,Spicy,Non-Veg,Fast Food
+2 Fries (R),Happy,Productive,Sweet,Veg,Fast Food
+2 McVeggie Burger,Sad,Productive,Spicy,Non-Veg,Fast Food
+Grilled Chicken & Cheese Burger + Coke,Tired,Productive,Heavy,Non-Veg,Fast Food
+McAloo Tikki Burger + Veg Pizza McPuff + Fries (R),Sad,Normal,Spicy,Veg,Fast Food
+McVeggie Burger + Fries (M) + Piri Piri Mix,Sad,Productive,Heavy,Non-Veg,Fast Food
+McVeggie Burger + Veg Pizza McPuff + Fries (L),Happy,Normal,Spicy,Non-Veg,Fast Food
+6 Pc Chicken Nuggets + Fries (M) + Piri Piri Spice Mix,Sad,Normal,Heavy,Non-Veg,Fast Food
+McAloo Tikki Burger + Veg Pizza McPuff + Piri Piri Spice Mix,Sad,Hectic,Spicy,Veg,Fast Food
+Grilled Chicken & Cheese Burger + Veg Pizza McPuff,Sad,Hectic,Light,Non-Veg,Fast Food
+Corn & Cheese Burger + Veg Pizza McPuff,Tired,Productive,Spicy,Veg,Fast Food
+Corn & Cheese Burger + Fries (R),Stressed,Lazy,Heavy,Veg,Fast Food
+Corn & Cheese Burger + Coke,Happy,Lazy,Spicy,Veg,Fast Food
+Chocolate Flavoured Shake+ Fries (M),Sad,Productive,Sweet,Veg,Fast Food
+Corn & Cheese Burger + Coke + Fries (M) + Veg Pizza McPuff,Stressed,Normal,Sweet,Veg,Fast Food
+McSpicy Chicken Burger + Fries (M) + Piri Piri Spice Mix,Happy,Lazy,Heavy,Non-Veg,Fast Food
+McSpicy Paneer Burger + Fries (M) + Piri Piri Spice Mix,Happy,Productive,Light,Veg,North Indian
+McSpicy Paneer + Classic Cheese Fries,Happy,Productive,Heavy,Veg,North Indian
+New McSaver Chicken Surprise,Happy,Hectic,Heavy,Non-Veg,Fast Food
+New McSaver Chicken Nuggets (4 Pc),Stressed,Lazy,Heavy,Non-Veg,Fast Food
+New McSaver Masala McEgg,Tired,Productive,Spicy,Non-Veg,Fast Food
+New McSaver McAloo Tikki,Happy,Lazy,Spicy,Veg,Fast Food
+New McSaver Mexican McAloo Tikki,Stressed,Lazy,Heavy,Veg,Fast Food
+New McSaver Pizza McPuff,Sad,Productive,Sweet,Veg,Fast Food
+Chicken Surprise Burger + Chocolate Shake,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Chicken Surprise Burger + McChicken Burger,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Chicken Surprise Burger + Fries (M),Stressed,Lazy,Spicy,Non-Veg,Fast Food
+New McSaver McAloo Tikki NONG,Sad,Hectic,Spicy,Veg,Fast Food
+New McSaver Mexican McAloo Tikki NONG,Happy,Normal,Spicy,Veg,Fast Food
+Crispy Veggie Burger +  Classic Cheese Fries,Stressed,Productive,Heavy,Non-Veg,Fast Food
+Crispy Veggie Burger + McAloo Tikki,Sad,Hectic,Light,Non-Veg,Fast Food
+Crispy Veggie Burger + Piri Piri Fries (M),Tired,Hectic,Sweet,Non-Veg,Fast Food
+Mc Crispy Chicken Burger + Piri Piri Fries (M),Sad,Hectic,Light,Non-Veg,Fast Food
+Mc Crispy Chicken Burger + Classic Cheese Fries,Sad,Hectic,Sweet,Non-Veg,Fast Food
+Mc Crispy Chicken Burger + McAloo Tikki,Sad,Productive,Spicy,Non-Veg,Fast Food
+Chicken Surprise Burger + Cappuccino,Happy,Lazy,Light,Non-Veg,Fast Food
+Chicken Surprise Burger + Cold Coffee,Sad,Productive,Sweet,Non-Veg,Fast Food
+Chicken Surprise Burger + Iced Coffee,Stressed,Lazy,Sweet,Non-Veg,Fast Food
+McAloo Tikki Burger + Cappuccino,Sad,Productive,Light,Veg,Fast Food
+McAloo Tikki Burger + Cold Coffee,Stressed,Hectic,Spicy,Veg,Fast Food
+McAloo Tikki Burger + Iced Coffee,Sad,Lazy,Spicy,Veg,Fast Food
+Choco Crunch Cookie + McAloo Tikki Burger,Happy,Lazy,Sweet,Veg,Fast Food
+Choco Crunch Cookie + McVeggie Burger,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Lemon Ice Tea + Choco Crunch Cookie,Sad,Hectic,Sweet,Veg,Fast Food
+Veg Pizza McPuff + Choco Crunch Cookie,Tired,Hectic,Spicy,Veg,Fast Food
+2 Korean Mc Spicy Chicken Burger,Tired,Hectic,Spicy,Non-Veg,Fast Food
+2 Korean Mc Spicy Paneer Burger,Happy,Normal,Sweet,Veg,North Indian
+Korean Chicken Surprise Burger + Korean Mc Spicy Chicken Burger,Happy,Productive,Heavy,Non-Veg,Fast Food
+Korean Chicken Surprise Burger + Korean Yuzu-Pop Sprite,Stressed,Lazy,Heavy,Non-Veg,Fast Food
+Korean Mc Aloo Tikki Burger + Korean Mc Spicy Paneer Burger,Stressed,Hectic,Heavy,Veg,North Indian
+Korean Mc Aloo Tikki Burger+ Korean Yuzu-Pop Sprite,Happy,Hectic,Light,Veg,Fast Food
+Korean Mc Spicy Chicken Burger +Korean Yuzu- Pop Sprite Combo,Stressed,Hectic,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Paneer Burger +Korean Yuzu- Pop Sprite Combo,Stressed,Lazy,Spicy,Veg,North Indian
+McSaver Korean Chicken Surprise Burger.,Sad,Hectic,Spicy,Non-Veg,Fast Food
+McSaver Korean Mc Aloo Tikki Burger.,Tired,Lazy,Spicy,Veg,Fast Food
+McSaver Korean Mc Egg Burger.,Sad,Hectic,Heavy,Non-Veg,Fast Food
+Korean Chicken Surprise + Korean Shake Shake Fries (M),Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Korean Mc Aloo Tikki Burger+ Korean Shake Shake Fries (M),Tired,Normal,Sweet,Veg,Fast Food
+Korean Mc Spicy Chicken Burger  + Korean Shake Shake Fries (M),Happy,Lazy,Spicy,Non-Veg,Fast Food
+Korean Mc Spicy Paneer Burger + Korean Shake Shake Fries (M),Stressed,Normal,Heavy,Veg,North Indian
+Korean Shake Shake Chicken Nuggets 6 pc.,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Korean Shake Shake Fries (M).,Sad,Normal,Spicy,Veg,Fast Food
+McVeggie Double Patty Burger Combo,Tired,Lazy,Light,Non-Veg,Fast Food
+McChicken Double Patty Burger Combo,Tired,Hectic,Sweet,Non-Veg,Fast Food
+McSpicy Chicken Double Patty Burger combo,Happy,Normal,Sweet,Non-Veg,Fast Food
+Mexican McAloo Tikki Double Patty Burger Combo,Stressed,Lazy,Heavy,Veg,Fast Food
+McAloo Tikki Burger Happy Meal,Stressed,Hectic,Heavy,Veg,Fast Food
+McChicken Burger Happy Meal,Happy,Normal,Spicy,Non-Veg,Fast Food
+Grilled Cheese and Chicken Burger Combo,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+McVeggie Burger Happy Meal,Sad,Productive,Sweet,Non-Veg,Fast Food
+McChicken Burger Combo,Stressed,Normal,Heavy,Non-Veg,Fast Food
+Veg Maharaja Mac Burger Combo,Stressed,Hectic,Sweet,Veg,Fast Food
+McVeggie Burger Combo,Tired,Normal,Heavy,Non-Veg,Fast Food
+Filet-O-Fish Burger Combo,Stressed,Lazy,Spicy,Non-Veg,Fast Food
+McSpicy Chicken Burger Combo,Happy,Productive,Sweet,Non-Veg,Fast Food
+Big Spicy Paneer Wrap Combo,Stressed,Hectic,Heavy,Veg,North Indian
+Corn & cheese Burger Combo,Tired,Productive,Heavy,Veg,Fast Food
+Big Spicy Chicken Wrap Combo,Happy,Hectic,Sweet,Non-Veg,Fast Food
+Chicken Maharaja Mac Burger Combo,Tired,Normal,Light,Non-Veg,Fast Food
+McSpicy Paneer Burger Combo,Stressed,Normal,Spicy,Veg,North Indian
+9 Pc Chicken Nuggets Combo,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Masala McEgg Burger Combo,Stressed,Productive,Sweet,Non-Veg,Fast Food
+McEgg Burger Happy Meal,Sad,Normal,Light,Non-Veg,Fast Food
+McSpicy Premium Burger Veg Combo,Tired,Lazy,Spicy,Veg,Fast Food
+McCheese Burger Chicken Combo,Sad,Hectic,Spicy,Non-Veg,Fast Food
+McCheese Burger Veg Combo,Stressed,Hectic,Heavy,Veg,Fast Food
+McSpicy Premium Burger Chicken Combo,Happy,Productive,Light,Non-Veg,Fast Food
+2 Pc Chicken Nuggets Happy Meal,Happy,Productive,Light,Non-Veg,Fast Food
+4 Pc Chicken Nuggets Happy Meal,Tired,Hectic,Light,Non-Veg,Fast Food
+McSpicy Deluxe Chicken Burger Combo,Sad,Lazy,Heavy,Non-Veg,Fast Food
+McSpicy Deluxe Paneer Burger Combo,Sad,Productive,Sweet,Veg,North Indian
+McAloo Tikki Burger Combo,Happy,Lazy,Light,Veg,Fast Food
+McAloo Tikki Double Patty Burger Combo,Tired,Lazy,Heavy,Veg,Fast Food
+McSpicy Deluxe Chicken Double Patty Burger Combo,Tired,Lazy,Light,Non-Veg,Fast Food
+Mexican McAloo Tikki Burger Combo,Happy,Lazy,Spicy,Veg,Fast Food
+Chicken McNuggets 6 Pcs Combo,Sad,Hectic,Sweet,Non-Veg,Fast Food
+Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke,Tired,Hectic,Sweet,Non-Veg,Fast Food
+McAloo Tikki NONG Burger Combo ( M),Tired,Productive,Spicy,Veg,Fast Food
+Mexican McAloo Tikki NONG Burger Combo ( M),Sad,Productive,Light,Veg,Fast Food
+Chicken Surprise Burger Combo,Tired,Productive,Heavy,Non-Veg,Fast Food
+Crispy Veggie Burger Meal (M),Tired,Lazy,Spicy,Non-Veg,Fast Food
+Mc Crispy Chicken Burger Meal (M),Tired,Lazy,Light,Non-Veg,Fast Food
+McAloo Tikki Burger with Cheese Combo ( M),Sad,Productive,Sweet,Veg,Fast Food
+Mexican McAloo Tikki Burger with Cheese Combo ( M),Tired,Productive,Spicy,Veg,Fast Food
+Choco Crunch Cookie + McAloo Tikki Burger + Lemon Ice Tea,Stressed,Productive,Light,Veg,Fast Food
+Veg Pizza McPuff + Choco Crunch Cookie + Americano,Happy,Hectic,Light,Veg,Fast Food
+Korean Chicken Surprise Burger Combo (M),Stressed,Normal,Light,Non-Veg,Fast Food
+Korean Mc Aloo Tikki Burger Combo (M),Tired,Productive,Spicy,Veg,Fast Food
+Korean Mc Egg Burger Combo (M),Tired,Normal,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Chicken Burger Combo (M),Happy,Hectic,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Paneer Burger Combo (M),Tired,Hectic,Light,Veg,North Indian
+Korean Mc Spicy Premium Chicken Burger Combo (M),Stressed,Productive,Spicy,Non-Veg,Fast Food
+Korean Mc Spicy Premium Paneer Burger Combo (M),Tired,Normal,Spicy,Veg,North Indian
+Minecraft Movie Meal - 9 Pc Chicken Nuggets,Tired,Lazy,Light,Non-Veg,Fast Food
+Minecraft Movie Meal - Pizza McPuff,Happy,Lazy,Sweet,Veg,Fast Food
+Minecraft Movie Meal - Chicken Surprise,Happy,Lazy,Sweet,Non-Veg,Fast Food
+Minecraft Movie Meal - McAloo Tikki,Sad,Normal,Spicy,Veg,Fast Food
+McSpicy Chicken Double Patty Burger,Happy,Hectic,Heavy,Non-Veg,Fast Food
+McChicken Double Patty Burger,Tired,Normal,Light,Non-Veg,Fast Food
+McVeggie Double Patty Burger,Tired,Normal,Sweet,Non-Veg,Fast Food
+Mexican McAloo Tikki Double Patty Burger,Stressed,Productive,Sweet,Veg,Fast Food
+McAloo Tikki Double Patty Burger,Tired,Normal,Heavy,Veg,Fast Food
+Chicken Maharaja Mac Burger,Tired,Lazy,Spicy,Non-Veg,Fast Food
+Veg Maharaja Mac Burger,Happy,Normal,Heavy,Veg,Fast Food
+McSpicy Paneer Burger,Stressed,Normal,Heavy,Veg,North Indian
+Big Spicy Chicken Wrap,Stressed,Productive,Light,Non-Veg,Fast Food
+Mexican McAloo Tikki Burger,Sad,Normal,Heavy,Veg,Fast Food
+McSpicy Chicken Burger,Happy,Productive,Heavy,Non-Veg,Fast Food
+McChicken Burger,Happy,Productive,Heavy,Non-Veg,Fast Food
+Corn & Cheese Burger,Happy,Normal,Spicy,Veg,Fast Food
+Big Spicy Paneer Wrap,Tired,Normal,Heavy,Veg,North Indian
+McVeggie Burger,Stressed,Hectic,Light,Non-Veg,Fast Food
+Grilled Chicken & Cheese Burger,Tired,Hectic,Light,Non-Veg,Fast Food
+McAloo Tikki Burger,Stressed,Normal,Light,Veg,Fast Food
+Masala McEgg Burger,Happy,Lazy,Spicy,Non-Veg,Fast Food
+McCheese Burger Chicken,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+McCheese Burger Veg,Tired,Normal,Spicy,Veg,Fast Food
+McSpicy Premium Chicken Burger,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+McSpicy Premium Veg Burger,Tired,Hectic,Light,Veg,Fast Food
+Filet-O-Fish Burger,Tired,Normal,Spicy,Non-Veg,Fast Food
+McSpicy Deluxe Chicken Burger,Stressed,Lazy,Heavy,Non-Veg,Fast Food
+McSpicy Deluxe Paneer Burger,Stressed,Normal,Sweet,Veg,North Indian
+McSpicy Deluxe Chicken Double Patty Burger,Happy,Normal,Light,Non-Veg,Fast Food
+Chicken Surprise Burger,Stressed,Productive,Light,Non-Veg,Fast Food
+McAloo Tikki Burger NONG,Sad,Productive,Heavy,Veg,Fast Food
+Mexican McAloo Tikki Burger NONG,Sad,Lazy,Sweet,Veg,Fast Food
+Crispy Veggie Burger,Stressed,Lazy,Spicy,Non-Veg,Fast Food
+Mc Crispy Chicken Burger,Tired,Hectic,Light,Non-Veg,Fast Food
+McAloo Tikki Burger with Cheese,Tired,Hectic,Sweet,Veg,Fast Food
+Mexican McAloo Tikki with Cheese,Happy,Hectic,Spicy,Veg,Fast Food
+Korean Chicken Surprise Burger.,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Korean Mc Aloo Tikki Burger.,Happy,Hectic,Light,Veg,Fast Food
+Korean Mc Egg Burger.,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Korean Mc Spicy Chicken Burger.,Stressed,Productive,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Paneer Burger.,Happy,Hectic,Light,Veg,North Indian
+Korean Mc Spicy Premium Chicken Burger.,Stressed,Productive,Sweet,Non-Veg,Fast Food
+Korean Mc Spicy Premium Paneer Burger.,Tired,Productive,Light,Veg,North Indian
+Piri Piri Spice Mix,Stressed,Productive,Spicy,Veg,Fast Food
+Fries (Regular),Happy,Normal,Light,Veg,Fast Food
+Fries (Medium),Tired,Normal,Spicy,Veg,Fast Food
+Fries (Large),Stressed,Normal,Heavy,Veg,Fast Food
+Tomato Ketchup Sachet,Tired,Lazy,Spicy,Veg,Fast Food
+9 Pc Chicken Nuggets,Stressed,Normal,Light,Non-Veg,Fast Food
+6 Pc Chicken Nuggets,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Chilli Sauce Sachet,Happy,Lazy,Sweet,Veg,Fast Food
+Veg Pizza McPuff,Tired,Normal,Spicy,Veg,Fast Food
+Classic Corn Cup,Tired,Lazy,Heavy,Veg,Fast Food
+Fries (M) + Piri Piri Mix,Tired,Hectic,Heavy,Veg,Fast Food
+Classic Cheese Fries,Tired,Productive,Sweet,Veg,Fast Food
+20 Pc Chicken Nuggets,Happy,Normal,Heavy,Non-Veg,Fast Food
+Barbeque Sauce,Tired,Hectic,Light,Veg,Fast Food
+4 Pcs Chicken Nuggets,Sad,Normal,Sweet,Non-Veg,Fast Food
+Mustard Sauce,Happy,Productive,Sweet,Veg,Fast Food
+Nether Flame Sauce,Happy,Lazy,Sweet,Veg,Fast Food
+Korean Shake Shake Chicken Nuggets 6 pc,Happy,Productive,Heavy,Non-Veg,Fast Food
+Korean Shake Shake Fries (M),Sad,Productive,Light,Veg,Fast Food
+Korean Spice Mix,Tired,Normal,Sweet,Veg,Fast Food
+Mango Smoothie,Stressed,Lazy,Heavy,Veg,Fast Food
+Ice Americano Coffee,Tired,Lazy,Heavy,Veg,Fast Food
+Chocolate Frappe,Stressed,Productive,Spicy,Veg,Fast Food
+McCafe-Ice Coffee,Stressed,Hectic,Light,Veg,Fast Food
+Mixed Berry Smoothie,Stressed,Productive,Heavy,Veg,Fast Food
+American Mud Pie Shake,Stressed,Hectic,Spicy,Veg,Fast Food
+Hot Chocolate (S),Sad,Hectic,Light,Veg,Fast Food
+Mocha Coffee (R),Tired,Hectic,Light,Veg,Fast Food
+Mocha Coffee (S),Stressed,Normal,Spicy,Veg,Fast Food
+Coke,Tired,Lazy,Light,Veg,Fast Food
+Hot Chocolate (R),Tired,Hectic,Sweet,Veg,Fast Food
+Coke zero can,Happy,Hectic,Sweet,Veg,Fast Food
+Schweppes Water bottle,Stressed,Hectic,Light,Veg,Fast Food
+Fanta,Sad,Normal,Light,Veg,Fast Food
+Mixed Fruit Beverage,Tired,Lazy,Sweet,Veg,Fast Food
+Sprite,Sad,Productive,Sweet,Veg,Fast Food
+Latte Coffee (S),Happy,Normal,Heavy,Veg,Fast Food
+Flat White Coffee,Happy,Productive,Spicy,Veg,Fast Food
+Latte Coffee (R),Sad,Lazy,Sweet,Veg,Fast Food
+Americano Coffee (R),Happy,Normal,Sweet,Veg,Fast Food
+Americano Coffee (S),Tired,Hectic,Heavy,Veg,Fast Food
+Moroccan Mint Green Tea (R ),Happy,Productive,Sweet,Veg,Fast Food
+English Breakfast Tea,Sad,Lazy,Spicy,Veg,Fast Food
+Strawberry Green Tea (S),Happy,Productive,Heavy,Veg,Fast Food
+Cappuccino Coffee (R),Happy,Lazy,Sweet,Veg,Fast Food
+Cappuccino Coffee (S),Happy,Normal,Sweet,Veg,Fast Food
+Berry Lemonade Regular,Sad,Productive,Spicy,Veg,Fast Food
+Chocolate Flavoured Shake,Stressed,Lazy,Sweet,Veg,Fast Food
+McCafe-Classic Coffee,Stressed,Productive,Spicy,Veg,Fast Food
+Mocha Frappe,Happy,Hectic,Sweet,Veg,Fast Food
+Espresso Shot,Tired,Normal,Sweet,Veg,Fast Food
+Cappuccino Small with Hazelnut,Happy,Hectic,Sweet,Veg,Fast Food
+Ice Tea - Green Apple flavour,Sad,Productive,Sweet,Veg,Fast Food
+Ice Tea - lemon flavour,Stressed,Lazy,Light,Veg,Fast Food
+Ice Tea- strawberry flavour,Happy,Hectic,Sweet,Veg,Fast Food
+Strawberry Shake,Tired,Normal,Sweet,Veg,Fast Food
+Cappuccino Small with French Vanilla,Happy,Hectic,Spicy,Veg,Fast Food
+Classic Coffee Regular with French Vanilla,Stressed,Productive,Heavy,Veg,Fast Food
+Classic Coffee Regular with Hazelnut,Tired,Hectic,Heavy,Veg,Fast Food
+Iced Coffee with French Vanilla,Sad,Productive,Spicy,Veg,Fast Food
+Iced Coffee with Hazelnut,Tired,Hectic,Light,Veg,Fast Food
+Korean Yuzu-Pop Sprite.,Sad,Lazy,Heavy,Veg,Fast Food
+Chocochip Muffin,Sad,Productive,Light,Veg,Fast Food
+Choco Crunch Cookie,Sad,Normal,Heavy,Veg,Fast Food
+Cinnamon Raisin Cookie,Stressed,Hectic,Spicy,Veg,Fast Food
+Cold Coffee  Combo,Happy,Hectic,Light,Veg,Fast Food
+Indulge Choco Jar Dessert,Happy,Lazy,Heavy,Veg,Fast Food
+Hot  Coffee Combo,Tired,Productive,Spicy,Veg,Fast Food
+Indulge Combo,Tired,Hectic,Light,Veg,Fast Food
+Take a break Combo,Tired,Hectic,Light,Veg,Fast Food
+Treat Combo,Happy,Lazy,Light,Veg,Fast Food
+Chimichurri Chicken Strips Burger Wrap .,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Chimichurri Chicken Burger Wrap .,Happy,Normal,Light,Non-Veg,Fast Food
+Chimichurri Chicken Salad Burger Wrap .,Sad,Normal,Heavy,Non-Veg,Fast Food
+Chimichurri Paneer Burger Wrap .,Sad,Hectic,Sweet,Veg,North Indian
+Chimichurri Paneer Salad Burger Wrap .,Stressed,Hectic,Heavy,Veg,North Indian
+Chimichurri Chicken Strips Salad Burger Wrap .,Tired,Productive,Sweet,Non-Veg,Fast Food
+Cheese Jalapeno Chicken Salad Burger Wrap,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Jalapeno Cheese Paneer Salad Burger Wrap.,Tired,Lazy,Sweet,Veg,North Indian
+Chicken Strips Chilli Wrap,Sad,Normal,Heavy,Non-Veg,Fast Food
+Chicken Strips Chipotle Wrap,Sad,Lazy,Spicy,Non-Veg,Fast Food
+Cheesy Jalapeno Chicken Strips Salad Burger Wrap,Happy,Productive,Sweet,Non-Veg,Fast Food
+Spiced Chicken Strips Salad Burger Wrap,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Buldak Fried Paneer Korean Wrap (Spicy).,Happy,Hectic,Light,Veg,North Indian
+Buldak Chicken Popcorn Korean Wrap (Spicy).,Tired,Hectic,Heavy,Non-Veg,Fast Food
+Buldak Chicken Strips Korean Wrap (Spicy).,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Pizza Puff.,Stressed,Lazy,Sweet,Veg,Fast Food
+Chimichurri Chicken Burger Wrap,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Chimichurri Chicken Salad Burger Wrap,Tired,Productive,Sweet,Non-Veg,Fast Food
+Chimichurri Paneer Burger Wrap,Sad,Normal,Sweet,Veg,North Indian
+Chimichurri Paneer Salad Burger Wrap,Sad,Hectic,Sweet,Veg,North Indian
+Chimichurri Chicken Strips Burger Wrap .,Tired,Hectic,Sweet,Non-Veg,Fast Food
+Chimichurri Chicken Burger Wrap .,Sad,Normal,Light,Non-Veg,Fast Food
+Chimichurri Chicken Salad Burger Wrap .,Stressed,Lazy,Spicy,Non-Veg,Fast Food
+Chimichurri Paneer Burger Wrap .,Happy,Productive,Sweet,Veg,North Indian
+Chimichurri Paneer Salad Burger Wrap .,Happy,Lazy,Spicy,Veg,North Indian
+Chimichurri Chicken Strips Salad Burger Wrap .,Sad,Normal,Light,Non-Veg,Fast Food
+Cheese Jalapeno Chicken Salad Burger Wrap,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Jalapeno Cheese Paneer Salad Burger Wrap.,Happy,Hectic,Heavy,Veg,North Indian
+Chicken Strips Chilli Wrap,Stressed,Normal,Sweet,Non-Veg,Fast Food
+Chicken Strips Chipotle Wrap,Tired,Lazy,Sweet,Non-Veg,Fast Food
+Cheesy Jalapeno Chicken Strips Salad Burger Wrap,Happy,Lazy,Light,Non-Veg,Fast Food
+Spiced Chicken Strips Salad Burger Wrap,Sad,Hectic,Light,Non-Veg,Fast Food
+Buldak Fried Paneer Korean Wrap (Spicy).,Happy,Normal,Light,Veg,North Indian
+Buldak Chicken Popcorn Korean Wrap (Spicy).,Tired,Productive,Light,Non-Veg,Fast Food
+Buldak Chicken Strips Korean Wrap (Spicy).,Happy,Productive,Sweet,Non-Veg,Fast Food
+Pizza Puff.,Happy,Hectic,Heavy,Veg,Fast Food
+Chimichurri Chicken Burger Wrap,Stressed,Normal,Heavy,Non-Veg,Fast Food
+Chimichurri Chicken Salad Burger Wrap,Sad,Lazy,Spicy,Non-Veg,Fast Food
+Chimichurri Paneer Burger Wrap,Sad,Lazy,Sweet,Veg,North Indian
+Chimichurri Paneer Salad Burger Wrap,Tired,Lazy,Spicy,Veg,North Indian
+Chipotle Chicken Patty Wrap.,Sad,Hectic,Light,Non-Veg,Fast Food
+Chimichurri Chicken Strips Salad Burger Wrap.,Tired,Hectic,Sweet,Non-Veg,Fast Food
+Chimichurri Chicken Strips Burger Wrap.,Stressed,Lazy,Sweet,Non-Veg,Fast Food
+Spicy Chicken Salad Burger Wrap.,Sad,Normal,Sweet,Non-Veg,Fast Food
+Chipotle Aloo Patty Burger Wrap,Stressed,Normal,Heavy,Veg,Fast Food
+Chipotle Crispy Chicken Wrap .,Happy,Productive,Sweet,Non-Veg,Fast Food
+Chipotle Chicken Strips Wrap.,Happy,Lazy,Heavy,Non-Veg,Fast Food
+Chilli Chicken Strips Wrap.,Stressed,Productive,Light,Non-Veg,Fast Food
+Chipotle Veg Fingers Burger Wrap,Tired,Normal,Sweet,Veg,Fast Food
+Jalapeno Cheese Paneer Salad Burger Wrap,Tired,Lazy,Sweet,Veg,North Indian
+Jalapeno Cheese Chicken Salad Burger Wrap.,Sad,Normal,Heavy,Non-Veg,Fast Food
+Spicy Chicken Strips Salad Burger Wrap.,Sad,Hectic,Light,Non-Veg,Fast Food
+Jalapeno Cheese Chicken Strips Salad Burger Wrap.,Tired,Productive,Heavy,Non-Veg,Fast Food
+Chilli Crispy Chicken Wrap .,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Veg Burger Wrap and Side Meal,Sad,Lazy,Heavy,Veg,Fast Food
+Veg Burger Wrap with Side and Beverage Meal,Happy,Lazy,Heavy,Veg,Fast Food
+Non-Veg Burger Wrap and Side Meal,Sad,Productive,Sweet,Veg,Fast Food
+Non-Veg Burger Wrap with Side and Beverage Meal,Happy,Normal,Sweet,Veg,Fast Food
+2 Burger Wraps at 120 each,Tired,Normal,Heavy,Veg,Fast Food
+Chipotle Chicken Popcorn Burger Wrap & Chilli Chicken Strips Burger Wrap,Happy,Lazy,Sweet,Non-Veg,Fast Food
+2 Chipotle Chicken Patty Wrap.,Stressed,Lazy,Light,Non-Veg,Fast Food
+2 Classic Veg Rolls at 160 each,Stressed,Lazy,Spicy,Veg,Snacks
+1 Cheesy Paneer Wrap + 1 Masala Paneer Tikka Wrap,Stressed,Hectic,Sweet,Veg,North Indian
+2 Classic Non-Veg Rolls at 165 each,Happy,Hectic,Light,Veg,Snacks
+2 Non-Veg Shawarmas at 195 each .,Tired,Hectic,Sweet,Veg,Fast Food
+1 Non-Veg Classic Wrap + 1 Non-Veg Rice Bowl,Happy,Hectic,Sweet,Veg,Fast Food
+1 Chicken Bhuna Wrap + 1 Masala Chicken Tikka Wrap,Happy,Hectic,Spicy,Non-Veg,Fast Food
+1 Veg Classic Wrap + 1 Veg Rice Bowl,Tired,Productive,Heavy,Veg,Fast Food
+2 Signature Veg Wraps at 195 each,Tired,Normal,Heavy,Veg,Fast Food
+2 Signature Non-Veg Wraps at 220 each,Sad,Hectic,Light,Veg,Fast Food
+2 Burger Wrap at 120 each,Stressed,Normal,Spicy,Veg,Fast Food
+2 Chipotle Chicken Patty Wrap,Happy,Hectic,Light,Non-Veg,Fast Food
+3 Veg Classic Wraps at 106 each,Stressed,Lazy,Light,Veg,Fast Food
+4 Classic Veg Wraps at 409,Happy,Lazy,Light,Veg,Fast Food
+2 Classic Rolls (1 Veg + 1 Non-Veg) starting at 115 each,Stressed,Productive,Light,Veg,Snacks
+3 Non-Veg Classic Wraps at 103 each,Sad,Lazy,Spicy,Veg,Fast Food
+4 Classic Non-Veg Wraps at 429,Happy,Productive,Light,Veg,Fast Food
+2 Veg Shawarmas at 185 each,Happy,Normal,Sweet,Veg,Fast Food
+2 Classic Veg Rolls at 160 each.,Sad,Productive,Sweet,Veg,Snacks
+Aloo Patty Chipotle Burger Wrap,Happy,Lazy,Light,Veg,Fast Food
+Pindi Chole Roll,Stressed,Normal,Heavy,Veg,Snacks
+Spicy Indie Chatpata Aloo Wrap,Tired,Hectic,Light,Veg,Fast Food
+Veg Fingers Chipotle Burger Wrap,Tired,Lazy,Sweet,Veg,Fast Food
+2 Classic Non-Veg Rolls at 165 each .,Happy,Lazy,Spicy,Veg,Snacks
+Chatpata Double Egg Roll,Happy,Lazy,Light,Non-Veg,Snacks
+Cheese Melt Double Egg Roll,Sad,Lazy,Light,Non-Veg,Snacks
+2 Burger Wraps at 105 each.,Sad,Hectic,Sweet,Veg,Fast Food
+Chipotle Crispy Chicken Patty Wrap,Tired,Productive,Spicy,Non-Veg,Fast Food
+Cheesy Egg Chicken Sausage Wrap,Stressed,Productive,Sweet,Non-Veg,Fast Food
+Chipotle Aloo Patty Burger Wrap.,Tired,Lazy,Spicy,Veg,Fast Food
+Masala Paneer Tikka Wrap,Stressed,Normal,Heavy,Veg,North Indian
+Chipotle Veg Fingers Burger Wrap.,Happy,Productive,Sweet,Veg,Fast Food
+Cheese Melt Paneer Wrap,Happy,Lazy,Heavy,Veg,North Indian
+Cheesy Corn Salsa Wrap,Happy,Productive,Light,Veg,Fast Food
+Masala Mushroom Wrap,Happy,Lazy,Light,Veg,Fast Food
+Veg Falafel Wrap,Tired,Normal,Light,Veg,Fast Food
+Indie Chatpate Aloo Wrap,Tired,Productive,Sweet,Veg,Fast Food
+Pindi Chole Wrap,Tired,Productive,Sweet,Veg,Fast Food
+Cheesynator Melt Paneer Wrap,Happy,Lazy,Light,Veg,North Indian
+Chipotle Crispy Chicken Wrap,Tired,Normal,Light,Non-Veg,Fast Food
+Masala Chicken Tikka Wrap,Tired,Lazy,Spicy,Non-Veg,Fast Food
+Chilli Crispy Chicken Wrap,Tired,Normal,Heavy,Non-Veg,Fast Food
+Chipotle Chicken Strips Wrap,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Chicken Bhuna Wrap,Tired,Normal,Light,Non-Veg,Fast Food
+Chipotle Chicken Patty Wrap,Stressed,Productive,Heavy,Non-Veg,Fast Food
+Malai Chicken Kebab Wrap,Happy,Hectic,Sweet,Non-Veg,Fast Food
+Egg Cheese Chicken Sausage Wrap,Stressed,Lazy,Light,Non-Veg,Fast Food
+Malai Chicken Cheese Melt Wrap,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Cheese Melt Chicken Bhuna Wrap,Happy,Productive,Light,Non-Veg,Fast Food
+Cheese Melt Chicken Tikka Wrap,Stressed,Productive,Sweet,Non-Veg,Fast Food
+Chatpata Roll With Double Egg,Happy,Productive,Spicy,Non-Veg,Snacks
+Chilli Chicken Strips Wrap,Tired,Normal,Sweet,Non-Veg,Fast Food
+Buldak Fried Paneer Korean Wrap (Spicy),Sad,Productive,Heavy,Veg,North Indian
+Lebanese Falafel Veggie Wrap,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Cheese Paneer Jalapeno Salad Burger Wrap,Stressed,Normal,Heavy,Veg,North Indian
+Smoky Diced Paneer Salad Wrap.,Happy,Lazy,Heavy,Veg,North Indian
+Cheese Garlic Manchurian Wrap,Sad,Normal,Spicy,Veg,Fast Food
+Chimichurri Paneer Burger Wrap.,Stressed,Productive,Light,Veg,North Indian
+Chimichurri Paneer Salad Burger Wrap.,Tired,Normal,Sweet,Veg,North Indian
+Chilli Manchurian Garlic Wrap.,Sad,Hectic,Sweet,Veg,Fast Food
+Buldak Chicken Popcorn Korean Wrap (Spicy),Tired,Normal,Heavy,Non-Veg,Fast Food
+Buldak Chicken Strips Korean Wrap,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Spicy Chicken Salad Burger Wrap,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Extravaganza Wrap,Sad,Normal,Heavy,Non-Veg,Fast Food
+Jalapeno Cheese Chicken Salad Burger Wrap,Tired,Normal,Spicy,Non-Veg,Fast Food
+Spicy Chicken Strips Salad Burger Wrap,Tired,Lazy,Spicy,Non-Veg,Fast Food
+Jalapeno Cheese Chicken Strips Salad Burger Wrap,Tired,Hectic,Light,Non-Veg,Fast Food
+Smoked Butter Chicken Wrap,Sad,Productive,Sweet,Non-Veg,Fast Food
+Lebanese Chicken Meatball Wrap,Stressed,Lazy,Sweet,Non-Veg,Fast Food
+Zaikedar Mutton Bhuna Wrap,Stressed,Normal,Spicy,Non-Veg,Fast Food
+Chimichurri Chicken Strips Burger Wrap,Tired,Normal,Heavy,Non-Veg,Fast Food
+Chimichurri Chicken Strips Salad Burger Wrap,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Chimichurri Chicken Burger Wrap.,Stressed,Productive,Heavy,Non-Veg,Fast Food
+Chimichurri Chicken Salad Burger Wrap.,Tired,Productive,Heavy,Non-Veg,Fast Food
+Classic Smoky Chicken Shawarma.,Sad,Hectic,Sweet,Non-Veg,Fast Food
+Classic Peppy Chicken Shawarma.,Sad,Lazy,Light,Non-Veg,Fast Food
+Paneer Tikka Shawarma.,Sad,Normal,Light,Veg,North Indian
+Special Smoky Chicken Shawarma,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Special Peppy Chicken Shawarma,Sad,Productive,Light,Non-Veg,Fast Food
+Non-Veg Shawarma with Side & Beverage Meal,Happy,Lazy,Light,Veg,Fast Food
+Non-Veg Shawarma & Side Meal,Sad,Normal,Sweet,Veg,Fast Food
+Sizzled Falafel Shawarma,Sad,Lazy,Sweet,Veg,Fast Food
+Veg Shawarma & Side Meal,Tired,Lazy,Light,Veg,Fast Food
+Veg Shawarma with Side & Beverage Meal,Sad,Normal,Light,Veg,Fast Food
+Masala Paneer Tikka Wholewheat Wrap,Sad,Hectic,Heavy,Veg,North Indian
+Pindi Chole Wholewheat Wrap,Happy,Productive,Light,Veg,Fast Food
+Smoky Diced Paneer Salad Wholewheat Wrap,Sad,Hectic,Spicy,Veg,North Indian
+Falafel Veggie Lebanese Wholewheat Wrap,Sad,Normal,Light,Non-Veg,Fast Food
+Indie Chatpata Aloo Wholewheat Wrap,Stressed,Hectic,Light,Veg,Fast Food
+Cheesy Corn Salsa Wholewheat Wrap,Happy,Hectic,Spicy,Veg,Fast Food
+Masala Mushroom Wholewheat Wrap,Sad,Lazy,Heavy,Veg,Fast Food
+Masala Chicken Tikka Wholewheat Wrap,Happy,Productive,Heavy,Non-Veg,Fast Food
+Chicken Bhuna Wholewheat Wrap,Stressed,Normal,Light,Non-Veg,Fast Food
+Malai Chicken Kebab Wholewheat Wrap,Happy,Lazy,Heavy,Non-Veg,Fast Food
+Lebanese Chicken Meatball Wholewheat Wrap,Happy,Productive,Spicy,Non-Veg,Fast Food
+Egg Cheese Chicken Sausage Wholewheat Wrap,Tired,Productive,Heavy,Non-Veg,Fast Food
+Cheese Melt Double Egg Wholewheat Wrap,Tired,Normal,Sweet,Non-Veg,Fast Food
+Double Egg Chatpata Wholewheat Roll,Happy,Hectic,Light,Non-Veg,Snacks
+Veg Classic Wrap with Side and Beverage Meal,Sad,Normal,Light,Veg,Fast Food
+Veg Classic Wrap with Side Mini Meal,Sad,Productive,Spicy,Veg,Fast Food
+Non-Veg Classic Wrap with Side and Beverage Meal,Stressed,Lazy,Light,Veg,Fast Food
+Non-Veg Classic Wrap with Side Mini Meal,Tired,Hectic,Heavy,Veg,Fast Food
+Veg Signature Meal,Tired,Hectic,Spicy,Veg,Fast Food
+Veg Classic Meal,Happy,Hectic,Heavy,Veg,Fast Food
+Masala Paneer Tikka Wrap & Wedges Mini Meal,Tired,Hectic,Heavy,Veg,North Indian
+Veg Classic Wrap & Wedges Meal at 189,Sad,Productive,Sweet,Veg,Fast Food
+Veg Shawarma and Side Meal .,Stressed,Lazy,Spicy,Veg,Fast Food
+Non-Veg Shawarma with Side and Beverage Meal .,Sad,Productive,Light,Veg,Fast Food
+Non-Veg Shawarma and Side Meal .,Stressed,Hectic,Light,Veg,Fast Food
+Veg Classic Wrap and Beverage Meal at 139,Happy,Lazy,Heavy,Veg,Fast Food
+Veg Classic Wrap & Fries Meal at 209,Tired,Hectic,Light,Veg,Fast Food
+Non-Veg Signature Meal,Sad,Lazy,Spicy,Veg,Fast Food
+Non-Veg Classic Meal,Sad,Hectic,Heavy,Veg,Fast Food
+Chicken Bhuna Wrap & Wedges Mini Meal,Sad,Hectic,Heavy,Non-Veg,Fast Food
+Non-Veg Classic Wrap & Wedges Meal at 189,Happy,Hectic,Light,Veg,Fast Food
+Non-Veg Classic Wrap and Beverage Meal at 139,Happy,Hectic,Spicy,Veg,Fast Food
+2 Masala Paneer Tikka Wrap with Fries & Coke Meal,Happy,Hectic,Heavy,Veg,North Indian
+2 Chicken Bhuna Wrap with Fries & Coke Meal,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Veg Classic Wrap & Coke Mini Meal,Tired,Lazy,Spicy,Veg,Fast Food
+"Veg Classic Wrap, Side & Coke Meal",Tired,Normal,Light,Veg,Fast Food
+Veg Signature Wrap & Coke Mini Meal,Tired,Lazy,Heavy,Veg,Fast Food
+"Veg Signature Wrap, Side & Coke Meal",Happy,Hectic,Sweet,Veg,Fast Food
+Non Veg Classic Wrap & Coke Mini Meal,Happy,Hectic,Sweet,Veg,Fast Food
+"Non-Veg Classic Wrap, Side & Coke Meal",Happy,Productive,Light,Veg,Fast Food
+Non-Veg Signature Wrap & Coke Mini Meal,Sad,Lazy,Heavy,Veg,Fast Food
+"Non-Veg Signature Wrap, Side & Coke Meal",Sad,Normal,Spicy,Veg,Fast Food
+Chicken Bhuna Rice Feast (Regular),Stressed,Normal,Light,Non-Veg,Fast Food
+Egg Rice Bowl (Regular),Stressed,Productive,Heavy,Non-Veg,Fast Food
+Dal Makhani Rice Bowl (Regular),Happy,Lazy,Sweet,Veg,North Indian
+Dal Makhani Rice Bowl (Jumbo),Tired,Hectic,Heavy,Veg,North Indian
+Rajma Masala Rice Bowl (Regular),Tired,Productive,Light,Veg,Fast Food
+Rajma Masala Rice Bowl (Jumbo),Sad,Lazy,Light,Veg,Fast Food
+Paneer Signature Rice Bowl (Regular),Sad,Hectic,Heavy,Veg,North Indian
+Smoked Butter Chicken Rice Bowl (Regular),Sad,Hectic,Spicy,Non-Veg,Fast Food
+Pindi Chole Signature Rice Bowl (Regular),Happy,Normal,Spicy,Veg,Fast Food
+Paneer Signature Rice Bowl (Jumbo),Tired,Normal,Light,Veg,North Indian
+Mutton Bhuna Rice Bowl (Regular),Stressed,Lazy,Spicy,Non-Veg,Fast Food
+Chicken Signature Rice Bowl (Regular),Tired,Hectic,Spicy,Non-Veg,Fast Food
+Royal Chicken Rice Bowl (Jumbo),Happy,Productive,Light,Non-Veg,Fast Food
+Smoked Butter Chicken Rice Bowl (Jumbo),Tired,Normal,Spicy,Non-Veg,Fast Food
+Chicken Signature Rice Bowl (Jumbo),Sad,Normal,Heavy,Non-Veg,Fast Food
+Pindi Chole Signature Rice Bowl (Jumbo),Sad,Productive,Sweet,Veg,Fast Food
+Chicken Keema Rice Feast (Regular).,Happy,Normal,Light,Non-Veg,Fast Food
+Pizza Puff,Happy,Lazy,Heavy,Veg,Fast Food
+French Fries,Sad,Lazy,Light,Veg,Fast Food
+Potato Wedges,Sad,Normal,Heavy,Veg,Fast Food
+Teekha Chaska French Fries,Stressed,Productive,Sweet,Veg,Fast Food
+Potato Chilli Shots with Mayo Dip,Tired,Normal,Heavy,Veg,Fast Food
+Falafel Shots (6 pieces),Stressed,Normal,Sweet,Veg,Fast Food
+Cheesy Chicken Meatballs,Sad,Hectic,Spicy,Non-Veg,Fast Food
+Teekha Chaska (Pack of 20),Sad,Productive,Heavy,Veg,Fast Food
+Teekha Chaska Sausages,Tired,Normal,Heavy,Veg,Fast Food
+Lemon Ice Tea (250 mL),Tired,Normal,Heavy,Veg,Fast Food
+Coke (250 mL),Stressed,Productive,Sweet,Veg,Fast Food
+Lemon Soda (250 mL),Stressed,Normal,Sweet,Veg,Fast Food
+Thums Up Can (330 mL),Tired,Productive,Spicy,Veg,Fast Food
+Masala Lemonade (200 mL),Sad,Hectic,Spicy,Veg,Fast Food
+Skimmed Mint Buttermilk,Tired,Lazy,Light,Veg,Fast Food
+Coca Cola Bottle (475 mL),Happy,Lazy,Spicy,Veg,Fast Food
+Coke Zero 330 ml Can,Happy,Productive,Light,Veg,Fast Food
+Badam Kesar Thandai,Happy,Productive,Spicy,Veg,Fast Food
+Jeera Masala Soda (350 mL),Happy,Hectic,Light,Veg,Fast Food
+Walnut Brownie,Happy,Normal,Sweet,Veg,Dessert
+Choco Chip Brownie,Tired,Lazy,Heavy,Veg,Dessert
+Choco Lava Cake,Sad,Lazy,Sweet,Veg,Dessert
+Mango Cheesecake,Tired,Normal,Light,Veg,Dessert
+Blueberry Cheesecake,Sad,Normal,Sweet,Veg,Dessert
+Biscoff Cheesecake Slice,Happy,Hectic,Heavy,Veg,Dessert
+Rich Red Velvet Pastry,Tired,Normal,Spicy,Veg,Fast Food
+Moong Dal Halwa (80 gm),Tired,Normal,Heavy,Veg,North Indian
+DIY Paneer Classic Wrap and Beverage Breakfast Meal,Happy,Normal,Heavy,Veg,North Indian
+DIY Paneer Classic Wrap and Wedges Breakfast Meal,Tired,Normal,Sweet,Veg,North Indian
+Double Omelette & Wedges with Masala Bread,Sad,Productive,Spicy,Veg,Fast Food
+Paneer Cheese Melt Wrap,Happy,Normal,Sweet,Veg,North Indian
+DIY Egg Classic Wrap and Beverage Breakfast Meal,Stressed,Normal,Light,Non-Veg,Fast Food
+DIY Egg Classic Wrap and Wedges Breakfast Meal,Sad,Normal,Sweet,Non-Veg,Fast Food
+Egg Chicken Sausage Cheese Wrap,Tired,Lazy,Sweet,Non-Veg,Fast Food
+Double Egg Chatpata Roll,Happy,Productive,Heavy,Non-Veg,Snacks
+Pindi Chana Roll,Tired,Productive,Light,Veg,Snacks
+Double Egg Cheese Melt Roll,Stressed,Lazy,Heavy,Non-Veg,Snacks
+2 Wrap Breakfast Combo,Happy,Normal,Spicy,Veg,Fast Food
+Meatballs Cheesy Omelette with Masala Bread,Happy,Productive,Spicy,Veg,Fast Food
+Sausage Cheesy Omelette with Masala Bread,Stressed,Hectic,Light,Veg,Fast Food
+Masala Lemonade - Morning Special (200 mL),Happy,Lazy,Heavy,Veg,Fast Food
+Masala Paneer Tikka Wrap + Lemon Soda,Sad,Productive,Heavy,Veg,North Indian
+Masala Chicken Tikka Wrap + Lemon Soda,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chipotle Aloo Patty Wrap + Pizza Puff (Pack of 2),Tired,Productive,Light,Veg,Fast Food
+Chipotle Veg Fingers Wrap + Pizza Puff (Pack of 2),Tired,Lazy,Heavy,Veg,Fast Food
+Chipotle Chicken Patty Wrap + Pizza Puff (Pack of 2),Stressed,Normal,Spicy,Non-Veg,Fast Food
+Chatpata Aloo Wrap + Wedges + Lemon Soda,Stressed,Hectic,Light,Veg,Fast Food
+Double Egg Chatpata Roll + Wedges + Lemon Soda,Sad,Productive,Sweet,Non-Veg,Snacks
+Rajma Chawal Bowl,Stressed,Lazy,Light,Veg,Fast Food
+Mini Rajma Chawal Bowl,Tired,Lazy,Heavy,Veg,Fast Food
+Chicken Biryani Bowl + Thums Up Combo,Stressed,Hectic,Spicy,Non-Veg,Fast Food
+Mini Bowl Meal Combo,Tired,Lazy,Heavy,Veg,Fast Food
+Pesto Mac & Cheese with Roast Veggies Bowl,Tired,Normal,Sweet,Non-Veg,Fast Food
+Pesto Mac & Cheese with Chicken Sausage Bowl,Tired,Productive,Spicy,Non-Veg,Fast Food
+Hot Garlic Mac & Cheese with Paneer Tikka Bowl,Stressed,Lazy,Sweet,Veg,North Indian
+Hot Garlic Mac & Cheese with Chicken Sausage Bowl,Sad,Productive,Sweet,Non-Veg,Fast Food
+Korean Mac and Cheese With Crispy Paneer,Stressed,Productive,Light,Veg,North Indian
+Korean Mac and Cheese With Chicken Popcorn,Stressed,Lazy,Light,Non-Veg,Fast Food
+Mughlai Grilled Chicken Rice Bowl with Omelette,Tired,Productive,Sweet,Non-Veg,Fast Food
+Paneer Tikka Rice Bowl,Sad,Lazy,Light,Veg,North Indian
+Chicken Kheema Rice Bowl,Sad,Lazy,Sweet,Non-Veg,Fast Food
+Chicken Kofta Rice Bowl with Omelette,Sad,Hectic,Light,Non-Veg,Fast Food
+Barbeque Chicken Rice Bowl,Happy,Lazy,Light,Non-Veg,Fast Food
+Mushroom Masala Rice Bowl,Sad,Lazy,Heavy,Veg,Fast Food
+Creamy Chicken Tikka Rice Bowl,Tired,Productive,Sweet,Non-Veg,Fast Food
+Classic Chicken Shawarma Bowl,Happy,Hectic,Sweet,Non-Veg,Fast Food
+Mutton Bhuna Rice Bowl,Happy,Productive,Sweet,Non-Veg,Fast Food
+Bhuna Chicken Rice Bowl,Tired,Productive,Sweet,Non-Veg,Fast Food
+Mughlai Grilled Chicken Rice Bowl with Omelette,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Paneer Tikka Rice Bowl,Happy,Lazy,Heavy,Veg,North Indian
+Chicken Kheema Rice Bowl,Tired,Lazy,Spicy,Non-Veg,North Indian
+Chicken Kofta Rice Bowl with Omelette,Happy,Hectic,Heavy,Non-Veg,North Indian
+Barbeque Chicken Rice Bowl,Sad,Lazy,Light,Non-Veg,Snacks
+Mushroom Masala Rice Bowl,Happy,Normal,Heavy,Veg,Snacks
+Creamy Chicken Tikka Rice Bowl,Sad,Productive,Light,Non-Veg,North Indian
+Classic Chicken Shawarma Bowl,Stressed,Hectic,Heavy,Non-Veg,Snacks
+Mutton Bhuna Rice Bowl,Sad,Hectic,Heavy,Non-Veg,South Indian
+Bhuna Chicken Rice Bowl,Stressed,Lazy,Light,Non-Veg,Fast Food
+Roast Vegetables Rice Bowl,Happy,Lazy,Spicy,Veg,Snacks
+Mughlai Falafel Rice Bowl,Stressed,Normal,Sweet,Jain,Dessert
+Mughlai Egg Curry Rice Bowl,Tired,Normal,Sweet,Non-Veg,Snacks
+Classic Rajma Rice Bowl,Sad,Hectic,Light,Veg,North Indian
+Dal Makhani Rice Bowl,Tired,Hectic,Light,Non-Veg,North Indian
+Pindi Chole Rice Bowl,Happy,Hectic,Heavy,Veg,Chinese
+Chicken Lababdar Rice Bowl,Sad,Productive,Heavy,Non-Veg,Chinese
+Corn Masala Rice Bowl,Stressed,Lazy,Spicy,Veg,Snacks
+Paneer Lababdar Rice Bowl,Sad,Lazy,Spicy,Veg,North Indian
+Paneer Tikka Masala Rice Bowl,Sad,Lazy,Light,Veg,North Indian
+Good'ol Butter Chicken Rice Bowl,Stressed,Normal,Sweet,Non-Veg,Chinese
+Chicken Tikka Masala Rice Bowl,Sad,Hectic,Heavy,Non-Veg,North Indian
+Dal Makhani Mini Rice Bowl,Sad,Hectic,Heavy,Jain,North Indian
+Classic Rajma Mini Rice Bowl,Happy,Lazy,Sweet,Non-Veg,North Indian
+Roast Vegetables Mini Rice Bowl,Sad,Normal,Light,Non-Veg,Fast Food
+Corn Masala Mini Rice Bowl,Tired,Lazy,Light,Veg,North Indian
+Barbeque Chicken Mini Rice Bowl,Tired,Normal,Spicy,Non-Veg,North Indian
+Chicken Tikka Masala Mini Rice Bowl,Sad,Lazy,Light,Non-Veg,North Indian
+Paneer Lababdar Mini Rice Bowl,Happy,Productive,Heavy,Veg,North Indian
+Good'ol Butter Chicken Mini Rice Bowl,Tired,Productive,Spicy,Non-Veg,North Indian
+Pindi Chole Mini Rice Bowl,Sad,Normal,Heavy,Jain,Snacks
+Paneer Tikka Masala Mini Rice Bowl,Tired,Productive,Spicy,Veg,North Indian
+Creamy Chicken Tikka Mini Rice Bowl,Sad,Normal,Spicy,Non-Veg,North Indian
+Chicken Kheema Mini Rice Bowl,Sad,Normal,Light,Non-Veg,Fast Food
+Chicken Lababdar Mini Rice Bowl,Stressed,Productive,Sweet,Non-Veg,Snacks
+Hot Garlic Mac N Cheese Pasta Bowl With Sausages,Tired,Hectic,Sweet,Jain,South Indian
+Chicken Tikka Mac & Cheese Pasta Bowl,Stressed,Normal,Spicy,Non-Veg,North Indian
+Mac & Cheese Paneer Tikka Pasta Bowl,Happy,Lazy,Light,Veg,North Indian
+Hot Garlic Mac N Cheese Pasta Bowl With Paneer Tikka,Happy,Hectic,Heavy,Veg,North Indian
+Pesto Mac N Cheese Pasta Bowl With Sausages,Sad,Lazy,Light,Veg,South Indian
+Korean Mac & Cheese With Crispy Paneer,Happy,Lazy,Sweet,Veg,North Indian
+Pesto Mac N Cheese Pasta Bowl With Roasted Veggies,Stressed,Lazy,Light,Non-Veg,Chinese
+Mac & Cheese Falafel Pasta Bowl,Happy,Productive,Spicy,Jain,Fast Food
+Chicken Kheema Mac & Cheese Pasta Bowl,Sad,Productive,Light,Non-Veg,Chinese
+Korean Mac & Cheese With Chicken Popcorn,Happy,Lazy,Sweet,Non-Veg,Dessert
+Butter Chicken Mac & Cheese Bowl,Happy,Normal,Spicy,Non-Veg,Chinese
+Egg Biryani Bowl,Happy,Lazy,Light,Non-Veg,Snacks
+Chicken Biryani Bowl (Boneless),Tired,Hectic,Light,Non-Veg,Snacks
+Paneer Biryani Bowl,Happy,Productive,Sweet,Veg,North Indian
+Veg Biryani Bowl,Tired,Hectic,Light,Jain,North Indian
+Gulab Jamun Box (Pack of 10),Sad,Lazy,Heavy,Veg,Dessert
+Moong Dal Halwa (80 gm),Tired,Lazy,Sweet,Veg,North Indian
+Mango Cheesecake,Tired,Hectic,Heavy,Jain,Dessert
+Death by Chocolate Cake Jar,Tired,Productive,Spicy,Non-Veg,Dessert
+Chocolate Cheesecake Slice,Tired,Lazy,Sweet,Non-Veg,Dessert
+Blueberry Cheesecake,Sad,Lazy,Heavy,Non-Veg,Dessert
+Gulab Jamun (Pack of 5),Tired,Lazy,Light,Non-Veg,Dessert
+Rich Red Velvet Pastry,Stressed,Hectic,Heavy,Non-Veg,Dessert
+Walnut Brownie,Happy,Productive,Sweet,Jain,Dessert
+Gulab Jamun (Pack Of 2),Tired,Normal,Light,Jain,Dessert
+Choco Chip Pastry,Happy,Hectic,Sweet,Jain,Dessert
+Choco Chip Brownie,Stressed,Lazy,Light,Non-Veg,Dessert
+Choco Lava Cake,Tired,Hectic,Sweet,Veg,Dessert
+Gulab Jamun - Pack of 1,Stressed,Hectic,Heavy,Jain,Dessert
+Mutton Haleem,Stressed,Lazy,Heavy,Non-Veg,Chinese
+Chicken Haleem,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Potato Wedges (Medium),Stressed,Hectic,Light,Veg,Snacks
+Chicken Meatball Kebab (5 Pcs),Happy,Productive,Spicy,Non-Veg,Chinese
+Chicken Tikki (5 pcs),Tired,Normal,Light,Non-Veg,North Indian
+Potato Chilli Shots with Mayo Dip,Tired,Lazy,Spicy,Non-Veg,South Indian
+Falafel Nuggets with Mayo Dip,Sad,Productive,Spicy,Veg,South Indian
+Pizza Puff (Pack of 2),Happy,Normal,Heavy,Jain,Fast Food
+Pizza Puff (Pack of 4),Stressed,Hectic,Light,Jain,Fast Food
+Badam Kesar Thandai (Pack of 4),Happy,Hectic,Light,Jain,Chinese
+Skimmed Mint Buttermilk,Happy,Normal,Sweet,Non-Veg,North Indian
+Badam Kesar Thandai,Happy,Hectic,Sweet,Jain,South Indian
+Coca Cola Bottle (475 mL),Happy,Lazy,Spicy,Veg,South Indian
+Thums Up Can (330 mL),Sad,Lazy,Sweet,Non-Veg,South Indian
+Jeera Masala Soda (350 mL),Happy,Productive,Spicy,Jain,Dessert
+Coke Zero 330 ml Can,Happy,Hectic,Heavy,Jain,Snacks
+Lemon Soda (250 mL),Sad,Hectic,Sweet,Jain,Dessert
+Coke (250 mL),Tired,Productive,Sweet,Non-Veg,Fast Food
+Masala Lemonade (200 mL),Stressed,Hectic,Sweet,Non-Veg,North Indian
+Lemon Ice Tea (250 mL),Stressed,Productive,Heavy,Veg,Dessert
+Chicken Lababdar Rice Bowl (Protein-34g),Happy,Normal,Sweet,Non-Veg,North Indian
+Paneer Lababdar Rice Bowl (Protein-21g),Happy,Hectic,Light,Veg,North Indian
+Dal Makhni Rice Bowl with Dahi Kebab (Protein-25g),Sad,Productive,Sweet,Non-Veg,North Indian
+Good'ol Butter Chicken Rice Bowl (Protein-29g),Tired,Lazy,Heavy,Non-Veg,North Indian
+Mughlai Grilled Chicken Rice Bowl with Omelette (Protein-25g),Tired,Lazy,Sweet,Non-Veg,North Indian
+Mughlai Chicken Kofta Rice Bowl with Omelette (Protein-29g),Happy,Lazy,Light,Non-Veg,North Indian
+Chicken Tikka Masala Rice Bowl (Protein-35g),Tired,Lazy,Light,Non-Veg,North Indian
+Chicken Biryani Bowl + Thums Up Combo,Happy,Lazy,Spicy,Non-Veg,Dessert
+Mini Bowl Meal Combo,Sad,Lazy,Light,Non-Veg,North Indian
+Paneer Tikka Baked Cheese Rice Bowl,Stressed,Hectic,Heavy,Veg,North Indian
+Mexican Cheesy Baked Cheese Rice Bowl,Happy,Normal,Sweet,Jain,Chinese
+Butter Chicken Baked Cheese Rice Bowl,Stressed,Hectic,Spicy,Non-Veg,Dessert
+Chicken Tikka Baked Cheese Rice Bowl,Sad,Hectic,Sweet,Non-Veg,North Indian
+Rajma Chawal Bowl,Stressed,Hectic,Sweet,Veg,North Indian
+Mini Rajma Chawal Bowl,Happy,Lazy,Sweet,Veg,North Indian
+Pesto Mac & Cheese with Roast Veggies Bowl,Stressed,Normal,Spicy,Non-Veg,Dessert
+Pesto Mac & Cheese with Chicken Sausage Bowl,Stressed,Productive,Heavy,Non-Veg,Snacks
+Hot Garlic Mac & Cheese with Paneer Tikka Bowl,Sad,Normal,Sweet,Veg,North Indian
+Hot Garlic Mac & Cheese with Chicken Sausage Bowl,Tired,Normal,Light,Non-Veg,South Indian
+Korean Mac and Cheese With Crispy Paneer,Happy,Hectic,Light,Veg,North Indian
+Korean Mac and Cheese With Chicken Popcorn,Sad,Hectic,Spicy,Non-Veg,Dessert
+Veg Hakka Noodles Bowl.,Sad,Productive,Sweet,Jain,Chinese
+Veg Chilli Garlic Noodles Bowl.,Sad,Productive,Sweet,Veg,Chinese
+Veg Hakka Noodles Bowl,Sad,Productive,Spicy,Veg,Chinese
+Veg Chilli Garlic Noodles Bowl,Sad,Productive,Spicy,Veg,Chinese
+Veg Manchurian Bowl,Sad,Lazy,Heavy,Jain,Chinese
+Hunan Paneer Bowl,Happy,Hectic,Heavy,Veg,North Indian
+Chilli Paneer Bowl,Stressed,Normal,Heavy,Veg,North Indian
+Dal Khichadi Bowl,Tired,Normal,Spicy,Jain,North Indian
+Rajma Chawal Bowl,Stressed,Normal,Heavy,Veg,North Indian
+Dal Makhani Rice Bowl,Happy,Productive,Light,Veg,North Indian
+Hunan Paneer Dry - Mini,Stressed,Lazy,Spicy,Veg,North Indian
+Hunan Paneer Dry - Full,Happy,Normal,Heavy,Veg,North Indian
+Black Pepper Paneer Dry - Full,Happy,Productive,Light,Veg,North Indian
+Schezwan Paneer Dry - Mini,Happy,Hectic,Heavy,Veg,Chinese
+Schezwan Paneer Dry - Full,Happy,Hectic,Spicy,Veg,Chinese
+Paneer Manchurian Dry - Mini,Sad,Normal,Sweet,Veg,Chinese
+Paneer Manchurian Dry - Full,Happy,Productive,Spicy,Veg,Chinese
+Manchurian Paneer - Bowl,Sad,Lazy,Spicy,Veg,Chinese
+Hunan Paneer - Bowl,Sad,Normal,Heavy,Veg,North Indian
+Black Pepper Paneer - Bowl,Happy,Hectic,Sweet,Veg,North Indian
+Kung Pao Paneer - Bowl,Happy,Lazy,Light,Veg,North Indian
+Schezwan Paneer - Bowl,Tired,Productive,Sweet,Veg,Chinese
+Veg Manchurian - Bowl,Sad,Productive,Heavy,Non-Veg,Chinese
+Chilli Paneer - Bowl,Tired,Lazy,Spicy,Veg,North Indian
+Chowmein Veg.,Sad,Normal,Heavy,Jain,North Indian
+Veg Fried Rice Bowl.,Tired,Lazy,Light,Jain,Fast Food
+Veg Burnt Garlic Fried Rice Bowl.,Tired,Normal,Light,Jain,Snacks
+Veg Chilli Garlic Fried Rice Bowl.,Happy,Productive,Sweet,Non-Veg,South Indian
+Veg Schezwan Fried Rice Bowl.,Tired,Normal,Light,Non-Veg,Chinese
+Veg Hakka Noodles Bowl.,Happy,Normal,Spicy,Veg,Chinese
+Veg Chilli Garlic Noodles Bowl.,Tired,Lazy,Light,Non-Veg,Chinese
+Veg Burnt Garlic Noodles Bowl.,Stressed,Hectic,Spicy,Jain,Chinese
+Veg Schezwan Noodles Bowl.,Tired,Hectic,Spicy,Non-Veg,Chinese
+Dal Khichadi Bowl.,Stressed,Productive,Sweet,Jain,North Indian
+Rajma Chawal Bowl.,Tired,Lazy,Spicy,Non-Veg,North Indian
+Veg Indian Bowls with Dessert & Drinks,Stressed,Normal,Heavy,Jain,Snacks
+Veg Chinese Bowls with Dessert,Stressed,Normal,Light,Non-Veg,Chinese
+Veg Chinese Bowls with Drinks,Tired,Lazy,Sweet,Non-Veg,Chinese
+Veg Chinese Bowls with Dessert & Drinks,Stressed,Normal,Light,Jain,Chinese
+Veg Fried Rice Bowl,Happy,Productive,Spicy,Jain,Snacks
+Chowmein Veg,Happy,Hectic,Sweet,Non-Veg,Snacks
+Veg Burnt Garlic Fried Rice Bowl,Stressed,Hectic,Heavy,Jain,Fast Food
+Veg Chilli Garlic Fried Rice Bowl,Sad,Productive,Spicy,Veg,North Indian
+Veg Schezwan Fried Rice Bowl,Sad,Hectic,Sweet,Veg,Chinese
+Veg Hakka Noodles Bowl,Happy,Lazy,Light,Jain,Chinese
+Veg Burnt Garlic Noodles Bowl,Sad,Productive,Spicy,Jain,Chinese
+Veg Chilli Garlic Noodles Bowl,Sad,Lazy,Heavy,Non-Veg,Chinese
+Veg Schezwan Noodles Bowl,Sad,Hectic,Sweet,Veg,Chinese
+Veg Manchurian Bowl with Hakka Noodle,Tired,Lazy,Spicy,Veg,Chinese
+Veg Manchurian Bowl,Tired,Productive,Spicy,Jain,Chinese
+Manchurian Paneer Bowl,Stressed,Hectic,Light,Veg,Chinese
+Hunan Paneer Bowl,Stressed,Hectic,Heavy,Veg,North Indian
+Black Pepper Paneer Bowl,Stressed,Hectic,Spicy,Veg,North Indian
+Schezwan Paneer Bowl,Stressed,Productive,Sweet,Veg,Chinese
+Chilli Paneer Bowl,Stressed,Productive,Heavy,Veg,North Indian
+Kung Pao Paneer Bowl,Tired,Normal,Light,Veg,North Indian
+Dal Khichadi Bowl,Sad,Hectic,Light,Jain,North Indian
+Rajma Chawal Bowl,Tired,Hectic,Heavy,Non-Veg,North Indian
+Dal Makhani Rice Bowl,Tired,Normal,Heavy,Jain,North Indian
+Desi Chilli Potato - Mini,Stressed,Hectic,Sweet,Non-Veg,North Indian
+Desi Chilli Potato - Full,Sad,Hectic,Heavy,Non-Veg,Snacks
+Hunan Paneer Dry - Mini,Tired,Productive,Spicy,Veg,North Indian
+Hunan Paneer Dry - Full,Tired,Hectic,Light,Veg,North Indian
+Black Pepper Paneer Dry - Mini,Stressed,Lazy,Spicy,Veg,North Indian
+Black Pepper Paneer Dry - Full,Sad,Normal,Sweet,Veg,North Indian
+Schezwan Paneer Dry - Mini,Tired,Lazy,Heavy,Veg,Chinese
+Schezwan Paneer Dry - Full,Happy,Normal,Spicy,Veg,Chinese
+Kung Pao Paneer Dry - Mini,Happy,Hectic,Spicy,Veg,North Indian
+Kung Pao Paneer Dry - Full,Stressed,Productive,Light,Veg,North Indian
+Paneer Chilli Dry - Mini,Tired,Lazy,Light,Veg,North Indian
+Paneer Chilli Dry - Full,Sad,Hectic,Spicy,Veg,North Indian
+Veg Manchurian Dry - Mini,Happy,Hectic,Sweet,Veg,Chinese
+Veg Manchurian Dry - Full,Sad,Normal,Light,Veg,Chinese
+Veg Manchurian Balls in Choice of Sauce - Full,Happy,Lazy,Light,Non-Veg,Chinese
+Paneer Manchurian Dry - Mini,Tired,Hectic,Sweet,Veg,Chinese
+Paneer Manchurian Dry - Full,Stressed,Normal,Light,Veg,Chinese
+Veg Spring Roll 6pcs - Mini,Stressed,Hectic,Light,Non-Veg,Fast Food
+Sweet Chilli Potato - Mini,Stressed,Lazy,Spicy,Veg,Fast Food
+Sweet Chilli Potato - Full,Tired,Normal,Sweet,Veg,Snacks
+Manchurian Potato - Mini,Stressed,Normal,Sweet,Jain,Chinese
+Manchurian Potato - Full,Tired,Hectic,Heavy,Non-Veg,Chinese
+Veg Manchow Soup with Crispy Noodles,Stressed,Normal,Spicy,Non-Veg,Chinese
+Veg Kurkure Fried Momo with Momo Chutney,Happy,Hectic,Spicy,Non-Veg,Chinese
+Chocolate Mousse - Small,Tired,Hectic,Spicy,Non-Veg,Snacks
+Black Forest Mousse Cake,Stressed,Productive,Spicy,Veg,Dessert
+Salted Caramel Choco Mousse,Sad,Hectic,Sweet,Non-Veg,Snacks
+Choco Lava,Happy,Productive,Sweet,Non-Veg,Fast Food
+Pepsi Pet Bottle,Happy,Normal,Light,Non-Veg,North Indian
+7 Up,Sad,Hectic,Sweet,Veg,Dessert
+Coolberg Peach,Happy,Hectic,Spicy,Jain,Chinese
+Coolberg Cranberry,Tired,Lazy,Spicy,Veg,South Indian
+Peach Ice Tea,Happy,Lazy,Spicy,Non-Veg,South Indian
+Aam Panna,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Masala Shikanji,Happy,Lazy,Sweet,Jain,Fast Food
+Lemon Ice Tea,Sad,Normal,Heavy,Jain,Chinese
+Water,Sad,Productive,Light,Non-Veg,Chinese
+Extra Crispy Noodles,Stressed,Productive,Spicy,Non-Veg,Chinese
+Momo Chutney,Tired,Normal,Sweet,Non-Veg,Dessert
+Schezwan Dip,Tired,Hectic,Spicy,Non-Veg,Chinese
+Mayo Dip,Sad,Normal,Sweet,Veg,Fast Food
+Sweet Chilli Dip,Sad,Productive,Spicy,Non-Veg,Chinese
+Farm Aloo Tikki,Sad,Productive,Heavy,Jain,Fast Food
+Go Green,Tired,Productive,Light,Jain,South Indian
+Crispy Masala,Sad,Lazy,Light,Non-Veg,Fast Food
+Popeye,Sad,Hectic,Light,Jain,Dessert
+Farm Spicy Paneer,Sad,Lazy,Heavy,Veg,North Indian
+Pepper Jack Cheese,Tired,Productive,Sweet,Veg,Chinese
+4 Farm Aloo Tikki,Happy,Normal,Sweet,Veg,Chinese
+2 Farm Spicy Paneer,Stressed,Lazy,Heavy,Veg,North Indian
+2 Crispy Masala,Happy,Normal,Heavy,Veg,Chinese
+2 Go Green,Sad,Normal,Sweet,Veg,Dessert
+Choco Lava Cake,Sad,Normal,Spicy,Jain,Dessert
+Farm Cheese Burst Meal,Happy,Hectic,Heavy,Non-Veg,Dessert
+Crispy Paneer Italia Meal,Sad,Normal,Sweet,Veg,North Indian
+Crispy Paneer Italia,Stressed,Lazy,Heavy,Veg,North Indian
+Regular Crinkle Fries,Tired,Productive,Spicy,Veg,Fast Food
+Peri Peri Crinkle Fries,Sad,Hectic,Sweet,Non-Veg,Fast Food
+Medium Crinkle Fries,Tired,Productive,Spicy,Jain,Fast Food
+Farm Aloo Tikki Meal,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Crispy Masala Meal,Sad,Productive,Sweet,Veg,Fast Food
+Go Green Meal,Stressed,Hectic,Heavy,Jain,Snacks
+Farm Aloo Tikki Meal,Sad,Normal,Spicy,Jain,Dessert
+Cheese Masala Burger Meal,Sad,Lazy,Sweet,Veg,Fast Food
+Crispy Masala Meal,Sad,Productive,Sweet,Non-Veg,North Indian
+Go Green Meal,Stressed,Lazy,Sweet,Jain,Dessert
+Farm Spicy Paneer Meal,Stressed,Lazy,Spicy,Veg,North Indian
+Pepper Jack Cheese Meal,Happy,Productive,Heavy,Jain,Dessert
+Popeye Meal,Stressed,Lazy,Spicy,Veg,Snacks
+Super Freak Burger Meal,Happy,Lazy,Sweet,Jain,Fast Food
+Farm Spicy Paneer Supreme Meal,Happy,Productive,Heavy,Veg,North Indian
+Farm Aloo Tikki,Happy,Lazy,Sweet,Veg,Snacks
+Cheese Masala Burger,Stressed,Productive,Heavy,Jain,Fast Food
+Go Green,Sad,Lazy,Spicy,Non-Veg,Chinese
+Crispy Masala,Happy,Hectic,Light,Jain,Snacks
+Popeye,Tired,Lazy,Spicy,Non-Veg,North Indian
+Super Freak Burger,Tired,Productive,Sweet,Veg,Fast Food
+Farm Spicy Paneer,Tired,Normal,Spicy,Veg,North Indian
+Pepper Jack Cheese,Tired,Hectic,Spicy,Veg,Fast Food
+Farm Spicy Paneer Supreme,Tired,Lazy,Spicy,Veg,North Indian
+Regular Crinkle Fries,Sad,Productive,Light,Veg,Fast Food
+Peri Peri Crinkle Fries,Stressed,Productive,Light,Non-Veg,Fast Food
+Cheesy Peri Peri Crinkle fries,Happy,Lazy,Heavy,Veg,Fast Food
+Medium Crinkle Fries,Happy,Hectic,Sweet,Veg,Fast Food
+Peri Peri Regular Crinkle Fries,Happy,Normal,Heavy,Veg,Fast Food
+V Cut Cheesy Peri Peri,Sad,Productive,Light,Non-Veg,Snacks
+Onion Rings,Stressed,Hectic,Heavy,Jain,Chinese
+Cheddar Cheese Doughnuts,Tired,Normal,Spicy,Jain,North Indian
+V Cut peri peri,Sad,Lazy,Sweet,Veg,Snacks
+V Cut Med Fries,Sad,Productive,Sweet,Jain,Fast Food
+Farm Cheese Burst Meal,Tired,Normal,Spicy,Veg,South Indian
+Farm Cheese Burst,Happy,Hectic,Sweet,Veg,South Indian
+Crispy Paneer Italia Meal,Sad,Hectic,Heavy,Veg,North Indian
+Crispy Paneer Italia,Happy,Lazy,Light,Veg,North Indian
+Farm Aloo Tikki Wrap,Tired,Lazy,Spicy,Non-Veg,Fast Food
+Cheesy Masala Wrap,Sad,Productive,Heavy,Non-Veg,North Indian
+Farm Spicy Paneer Wrap,Stressed,Normal,Light,Veg,North Indian
+4 Farm Aloo Tikki,Sad,Normal,Spicy,Jain,Dessert
+2 Farm Spicy Paneer,Sad,Lazy,Spicy,Veg,North Indian
+2 Crispy Masala,Tired,Productive,Sweet,Non-Veg,Chinese
+2 Go Green,Happy,Lazy,Heavy,Non-Veg,Snacks
+Farm Aloo Tikki Wrap Meal,Stressed,Hectic,Light,Veg,Fast Food
+Farm Spicy Paneer Wrap Meal,Tired,Hectic,Sweet,Veg,North Indian
+Cheesy Masala Wrap Meal,Happy,Hectic,Light,Jain,North Indian
+Oreo Shake,Sad,Hectic,Spicy,Veg,South Indian
+Strawberry Shake,Stressed,Hectic,Light,Veg,North Indian
+Gulkand Paan Shake,Sad,Hectic,Heavy,Veg,Chinese
+MANGO SHAKE,Stressed,Hectic,Spicy,Non-Veg,Dessert
+Masala Coke,Happy,Hectic,Light,Jain,North Indian
+Masala Lemonade,Stressed,Hectic,Spicy,Jain,Chinese
+Virgin Mojito,Sad,Hectic,Sweet,Jain,South Indian
+AAM PANNA,Sad,Hectic,Heavy,Jain,South Indian
+CLASSIC FRAPPE,Stressed,Hectic,Sweet,Jain,Snacks
+Moccha Frappe,Tired,Lazy,Sweet,Jain,North Indian
+Choco Lava Cake,Stressed,Hectic,Heavy,Jain,Dessert
+Chole Bhature Combo,Sad,Productive,Spicy,Veg,Dessert
+Rajma Chawal Combo,Happy,Lazy,Spicy,Veg,North Indian
+Paneer Tikka,Stressed,Productive,Heavy,Veg,North Indian
+Chicken 65,Happy,Lazy,Heavy,Non-Veg,Snacks
+Chicken Malai Tikka,Happy,Normal,Sweet,Non-Veg,North Indian
+Chicken Tikka,Sad,Lazy,Sweet,Non-Veg,North Indian
+Punjabi Desi Chicken [500ml],Tired,Hectic,Spicy,Non-Veg,South Indian
+Egg Bhurji (2 Egg),Sad,Lazy,Sweet,Non-Veg,Chinese
+Punjabi Egg Curry (2 Boiled Egg),Tired,Productive,Spicy,Non-Veg,Dessert
+Dal Makhani [500ml],Tired,Hectic,Spicy,Veg,North Indian
+Veg Pulao,Tired,Lazy,Light,Non-Veg,Dessert
+Veg Fried Rice,Tired,Hectic,Sweet,Veg,South Indian
+Veg Biryani,Tired,Lazy,Sweet,Veg,South Indian
+Chicken Biryani,Stressed,Hectic,Heavy,Non-Veg,North Indian
+Boondi Raita [100ml],Stressed,Productive,Heavy,Jain,Fast Food
+Fried Papad,Sad,Productive,Spicy,Veg,Fast Food
+Roasted Papad,Sad,Normal,Heavy,Non-Veg,Snacks
+Egg Bhurji (2 Egg),Stressed,Normal,Heavy,Non-Veg,Snacks
+Punjabi Egg Curry (2 Boiled Egg),Happy,Productive,Spicy,Non-Veg,South Indian
+Surati Egg Keema (2 Egg),Stressed,Productive,Light,Non-Veg,Fast Food
+Punjabi Omelette (2 Egg),Tired,Hectic,Sweet,Non-Veg,North Indian
+Egg Masala Half Fry [2 Egg],Stressed,Lazy,Spicy,Non-Veg,South Indian
+Plain Omelette (2 Egg),Happy,Normal,Heavy,Non-Veg,Dessert
+Boiled Egg [3 Egg],Tired,Productive,Heavy,Non-Veg,Chinese
+Fried Boiled Egg [3 Egg],Sad,Productive,Spicy,Non-Veg,Snacks
+Plain Egg Half Fry [2 Egg],Stressed,Normal,Sweet,Non-Veg,Snacks
+Masala Omelette (2 Egg),Sad,Hectic,Spicy,Non-Veg,Dessert
+Punjabi Egg Gotalo (3 Egg),Stressed,Normal,Sweet,Non-Veg,Snacks
+Extra Bread [3 Pcs],Tired,Normal,Heavy,Non-Veg,Chinese
+Veg Jaipuri Di Sabzi [500ml],Tired,Normal,Light,Veg,Snacks
+Palak Paneer Di Sabzi (500ml),Sad,Hectic,Heavy,Veg,North Indian
+Mix Veg Di Sabzi [500ml],Happy,Normal,Spicy,Veg,Fast Food
+Aloo Matar Di Sabzi [500ml],Happy,Normal,Spicy,Veg,South Indian
+Jeera Aloo Di Sabzi [500ml],Tired,Normal,Spicy,Non-Veg,Snacks
+Aloo Methi Di Sabzi [500ml],Sad,Hectic,Spicy,Veg,Fast Food
+Rasila Aloo Di Sabzi [500ml],Sad,Productive,Sweet,Veg,Snacks
+Aloo Patta Gobhi Di Sabzi [500ml],Sad,Normal,Spicy,Jain,Dessert
+Aloo Patta Gobhi Matar Di Sabzi [500ml],Stressed,Productive,Spicy,Veg,North Indian
+Aloo Phool Gobhi Di Sabzi [500ml],Tired,Normal,Light,Jain,Dessert
+Aloo Phool Gobhi Matar Di Sabzi [500ml],Happy,Normal,Sweet,Jain,Snacks
+Sev Tamatar Di Sabzi [500ml],Tired,Normal,Light,Veg,Chinese
+Rajma Masaledar Di Sabzi [500ml],Sad,Hectic,Heavy,Non-Veg,North Indian
+Pindi Chole Di Sabzi [500ml],Tired,Lazy,Light,Veg,Fast Food
+Cheese Butter Masala Di Sabzi [500ml],Tired,Hectic,Spicy,Non-Veg,Dessert
+Lucknowi Tawa Paneer Di Sabzi [500ml],Sad,Hectic,Heavy,Veg,North Indian
+Veg Makhanwala Di Sabzi (500ml),Tired,Hectic,Sweet,Veg,North Indian
+Paneer Angara Di Sabzi (500ml),Happy,Hectic,Light,Veg,North Indian
+Paneer Lababdar Di Sabzi (500ml),Tired,Hectic,Spicy,Veg,North Indian
+Paneer Do Pyaza Di Sabzi (500ml),Stressed,Productive,Spicy,Veg,North Indian
+Paneer Toofani Di Sabzi(500ml),Stressed,Lazy,Heavy,Veg,North Indian
+Paneer Bhurji Di Sabzi (500ml),Tired,Productive,Light,Veg,North Indian
+Matar Paneer Di Sabzi (500ml),Stressed,Hectic,Light,Veg,North Indian
+Paneer Patiala Di Sabzi (500ml),Happy,Productive,Sweet,Veg,North Indian
+Paneer Tikka Masala Di Sabzi (500ml),Happy,Hectic,Light,Veg,North Indian
+Paneer Butter Masala Di Sabzi (500ml),Tired,Productive,Light,Veg,North Indian
+Paneer Kadai Di Sabzi [500gm],Sad,Normal,Heavy,Veg,North Indian
+Paneer Handi Di Sabzi (500ml),Stressed,Hectic,Spicy,Veg,North Indian
+Paneer Hyderabadi Di Sabzi [500ml],Sad,Hectic,Light,Veg,North Indian
+Sarson Da Saag (500ml),Stressed,Normal,Sweet,Non-Veg,Dessert
+Punjabi Desi Chicken [500ml],Stressed,Productive,Light,Non-Veg,South Indian
+Chicken Butter Masala [500ml],Stressed,Normal,Heavy,Non-Veg,Dessert
+Butter Chicken [500ml],Stressed,Productive,Spicy,Non-Veg,Snacks
+Chicken Masala [500ml],Sad,Lazy,Sweet,Non-Veg,North Indian
+Chicken Kadai [500ml],Sad,Normal,Light,Non-Veg,South Indian
+Chicken Handi [500ml],Happy,Productive,Spicy,Non-Veg,Snacks
+Chicken Keema Masala [500ml],Stressed,Normal,Spicy,Non-Veg,North Indian
+Chicken Ra Ra [500ml],Sad,Normal,Light,Non-Veg,South Indian
+Shahi Chicken [500ml],Sad,Productive,Sweet,Non-Veg,North Indian
+Chicken Lababdar [500ml],Tired,Normal,Sweet,Non-Veg,Fast Food
+Chicken Mughlai [500ml],Happy,Productive,Heavy,Non-Veg,North Indian
+Chicken Bhuna Masala [500ml],Sad,Productive,Light,Non-Veg,Chinese
+Chicken Afghani Gravy [500ml],Stressed,Lazy,Light,Non-Veg,North Indian
+Chicken Tangdi Masala,Sad,Lazy,Heavy,Non-Veg,South Indian
+Prawns Masala [500ml],Sad,Normal,Heavy,Jain,Snacks
+Punjabi Special Prawns Curry [500ml],Happy,Normal,Spicy,Veg,Snacks
+Dal Fry [500ml],Happy,Hectic,Heavy,Veg,North Indian
+Dal Handi [500ml],Stressed,Productive,Light,Non-Veg,North Indian
+Dal Tadka [500ml],Stressed,Hectic,Sweet,Jain,North Indian
+Dal Double Tadka [500ml],Tired,Hectic,Heavy,Jain,North Indian
+Dal Palak [500ml],Stressed,Lazy,Sweet,Jain,North Indian
+Dal Makhani [500ml],Sad,Lazy,Heavy,Veg,North Indian
+Kadhi [500ml],Sad,Hectic,Light,Non-Veg,Dessert
+Chicken Dum Biryani,Tired,Normal,Heavy,Non-Veg,North Indian
+Egg Biryani,Happy,Lazy,Sweet,Non-Veg,Chinese
+Veg Biryani,Sad,Productive,Heavy,Jain,Snacks
+Prawns Biryani,Happy,Productive,Light,Jain,North Indian
+Chicken Biryani,Happy,Normal,Light,Non-Veg,Fast Food
+Masala Khichdi [500ml],Tired,Productive,Spicy,Non-Veg,Chinese
+Dal Tadka Khichdi [500ml],Happy,Normal,Heavy,Jain,North Indian
+Cheese Butter Masala Khichdi [500ml],Happy,Productive,Heavy,Jain,Snacks
+Plain Dal Khichdi [500ml],Sad,Lazy,Light,Non-Veg,North Indian
+Vegetable Khichdi [500ml],Happy,Lazy,Spicy,Veg,Chinese
+Dahi Khichdi [500ml],Tired,Lazy,Spicy,Veg,Dessert
+Plain Green Moong Dal Khichdi [500ml],Sad,Productive,Heavy,Veg,North Indian
+Green Moong Dal Masala Khichdi [500ml],Tired,Hectic,Heavy,Jain,North Indian
+Palak Paneer Khichdi [500ml],Happy,Hectic,Light,Veg,North Indian
+Special Punjabi Khichdi [500ml],Tired,Productive,Heavy,Non-Veg,North Indian
+Egg Fried Rice,Happy,Normal,Spicy,Non-Veg,Dessert
+Veg Pulao,Tired,Hectic,Sweet,Jain,Snacks
+Veg Fried Rice,Happy,Hectic,Sweet,Veg,South Indian
+Egg + Chicken Fried Rice,Tired,Lazy,Heavy,Non-Veg,South Indian
+Prawns Fried Rice,Sad,Hectic,Spicy,Jain,Dessert
+Saade Chawal,Tired,Hectic,Heavy,Veg,South Indian
+Jeera Wale Chawal,Stressed,Normal,Light,Veg,Chinese
+Non Veg Punjabi Prawns Thali,Tired,Hectic,Heavy,Veg,Fast Food
+Non Veg Punjabi Thali,Happy,Productive,Spicy,Veg,South Indian
+Non Veg Punjabi Chicken Thali,Tired,Lazy,Light,Non-Veg,North Indian
+Non Veg Punjabi Prawns Thali,Sad,Productive,Heavy,Veg,Fast Food
+Veg Punjabi Large Thali,Happy,Hectic,Sweet,Jain,Snacks
+Veg Executive Thali,Stressed,Productive,Light,Veg,Fast Food
+Veg Executive Thali,Stressed,Hectic,Light,Non-Veg,North Indian
+Veg Punjabi Large Thali,Sad,Normal,Light,Non-Veg,Chinese
+Chicken 65,Sad,Productive,Sweet,Non-Veg,Snacks
+Chicken Malai Tikka,Stressed,Productive,Light,Non-Veg,North Indian
+Chicken Tikka,Sad,Lazy,Spicy,Non-Veg,North Indian
+Chicken Tikka Banjara,Stressed,Normal,Sweet,Non-Veg,North Indian
+Chicken Tikka Peri Peri,Stressed,Normal,Light,Non-Veg,North Indian
+Chicken Afghani,Stressed,Lazy,Spicy,Non-Veg,Chinese
+Paneer Tikka,Tired,Productive,Spicy,Veg,North Indian
+Malai Paneer Tikka,Sad,Productive,Heavy,Veg,North Indian
+Sadi Tawa Rotti,Happy,Lazy,Heavy,Veg,Dessert
+Jowar Di Rotti [3 Pcs]1,Stressed,Lazy,Spicy,Jain,Chinese
+Makki Di Rotti [3 Pcs],Happy,Productive,Sweet,Non-Veg,South Indian
+Bhakhri [3 Pcs]1,Tired,Hectic,Heavy,Non-Veg,North Indian
+Deep Fried Poori [5 Pcs],Sad,Productive,Sweet,Non-Veg,Chinese
+Fulka Rotti,Happy,Normal,Sweet,Jain,South Indian
+Sada Paratha,Sad,Lazy,Heavy,Jain,North Indian
+Punjabi Thepla [3 Pcs],Sad,Hectic,Sweet,Veg,Chinese
+Gujarati Methi Thepla [3 Pcs],Stressed,Productive,Sweet,Jain,Chinese
+Masala Thepla [3 Pcs],Happy,Lazy,Heavy,Jain,South Indian
+Masaledar Lachha Parathe [3 Pcs],Sad,Normal,Heavy,Jain,South Indian
+Bajra Di Rotti [3 Pcs],Sad,Normal,Spicy,Veg,Dessert
+Lachedar Parathe [3 Pcs],Tired,Hectic,Heavy,Non-Veg,Fast Food
+Egg Masala Pasta,Stressed,Normal,Light,Non-Veg,South Indian
+Classic Masala Pasta,Stressed,Hectic,Spicy,Non-Veg,North Indian
+Vegetable Masala Pasta,Tired,Lazy,Spicy,Veg,Chinese
+Egg Masala Maggi,Happy,Productive,Spicy,Non-Veg,South Indian
+Classic Masala Maggi,Tired,Normal,Sweet,Veg,Chinese
+Vegetable Masala Maggi,Stressed,Productive,Spicy,Veg,Fast Food
+Vegetable Frankie,Sad,Normal,Light,Jain,Fast Food
+Egg Frankie,Sad,Lazy,Heavy,Non-Veg,Dessert
+Chicken Frankie,Stressed,Productive,Heavy,Non-Veg,Fast Food
+Aloo Lasan Cheese De Parathe,Tired,Hectic,Heavy,Veg,Dessert
+Special Punjabi De Parathe,Happy,Hectic,Light,Veg,Snacks
+All In One De Parathe,Stressed,Lazy,Light,Non-Veg,Fast Food
+Amritsari De Parathe,Sad,Productive,Heavy,Non-Veg,North Indian
+Plain Cheese De Parathe,Stressed,Productive,Spicy,Veg,South Indian
+Sweet Corn Cheese De Parathe,Happy,Normal,Heavy,Non-Veg,Chinese
+Muli De Parathe,Tired,Hectic,Spicy,Veg,South Indian
+Aloo De Parathe,Happy,Productive,Light,Veg,Fast Food
+Aloo Pudina De Parathe,Stressed,Lazy,Heavy,Veg,South Indian
+Aloo Paneer De Parathe,Sad,Lazy,Sweet,Veg,North Indian
+Aloo Cheese De Parathe,Happy,Productive,Spicy,Non-Veg,Dessert
+Aloo Paneer Cheese De Parathe,Sad,Hectic,Sweet,Veg,North Indian
+Aloo Lasan De Parathe,Tired,Hectic,Light,Veg,Fast Food
+Aloo Lasan Paneer De Parathe,Happy,Hectic,Sweet,Veg,North Indian
+Aloo Lasan Paneer Cheese De Parathe,Stressed,Productive,Light,Veg,North Indian
+Aloo Pyaz De Parathe,Stressed,Productive,Spicy,Veg,Dessert
+Aloo Pyaz Paneer De Parathe,Stressed,Productive,Light,Veg,North Indian
+Aloo Pyaz Cheese De Parathe,Happy,Hectic,Heavy,Jain,South Indian
+Aloo Pyaz Paneer Cheese De Parathe,Sad,Productive,Heavy,Veg,North Indian
+Aloo Methi De Parathe,Tired,Productive,Spicy,Veg,Fast Food
+Aloo Methi Paneer De Parathe,Stressed,Lazy,Sweet,Veg,North Indian
+Aloo Methi Cheese De Parathe,Tired,Hectic,Heavy,Non-Veg,Chinese
+Aloo Methi Paneer Lasan De Parathe,Sad,Hectic,Spicy,Veg,North Indian
+Aloo Methi Cheese Lasan De Parathe,Stressed,Hectic,Light,Jain,Fast Food
+Aloo Methi Paneer Lasan Cheese De Parathe,Sad,Normal,Sweet,Veg,North Indian
+Paneer De Parathe,Tired,Hectic,Light,Veg,North Indian
+Paneer Shimla Mirch De Parathe,Sad,Hectic,Heavy,Veg,North Indian
+Paneer Cheese De Parathe,Stressed,Hectic,Heavy,Veg,North Indian
+Pyaz De Parathe,Tired,Lazy,Sweet,Non-Veg,North Indian
+Pyaz Lasan De Parathe,Sad,Hectic,Light,Veg,Fast Food
+Pyaz Paneer De Parathe,Sad,Productive,Light,Veg,North Indian
+Pyaz Cheese De Parathe,Stressed,Normal,Light,Non-Veg,South Indian
+Pyaz Paneer Cheese De Parathe,Sad,Productive,Heavy,Veg,North Indian
+Pyaz Lasan Paneer Cheese De Parathe,Tired,Hectic,Heavy,Veg,North Indian
+Gobhi De Parathe,Stressed,Productive,Light,Veg,Fast Food
+Gobhi Lasan De Parathe,Stressed,Hectic,Heavy,Veg,North Indian
+Gobhi Paneer De Parathe,Sad,Lazy,Heavy,Veg,North Indian
+Gobhi Cheese De Parathe,Stressed,Lazy,Sweet,Veg,South Indian
+Gobhi Lasan Cheese De Parathe,Tired,Hectic,Spicy,Non-Veg,South Indian
+Gobhi Paneer Cheese De Parathe,Stressed,Productive,Spicy,Veg,North Indian
+Gobhi Lasan Paneer Cheese De Parathe,Happy,Lazy,Light,Veg,North Indian
+Pizza Cheese De Parathe,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Pizza Paneer Cheese De Parathe,Tired,Normal,Heavy,Veg,North Indian
+Anda De Parathe,Stressed,Normal,Light,Non-Veg,North Indian
+Chicken De Parathe,Tired,Lazy,Heavy,Non-Veg,Dessert
+Chole Bhature Combo,Happy,Hectic,Sweet,Non-Veg,Dessert
+Aloo Ki Sabji Puri Combo,Tired,Normal,Heavy,Jain,Fast Food
+Special Punjabi De Parathe Combo,Sad,Lazy,Spicy,Non-Veg,South Indian
+Amritsari Parathe Combo,Stressed,Hectic,Heavy,Jain,Dessert
+Patiala De Parathe Combo,Stressed,Productive,Sweet,Non-Veg,North Indian
+Makki Di Rotti Te Sarson Da Saag Combo,Stressed,Lazy,Spicy,Jain,Dessert
+Punjabi Kadhi Chawal Combo,Tired,Productive,Light,Non-Veg,North Indian
+Rajma Chawal Combo,Sad,Lazy,Sweet,Veg,North Indian
+Punjabi Thepla Combo,Sad,Lazy,Spicy,Veg,Snacks
+Gujarati Methi Thepla Combo,Sad,Normal,Heavy,Jain,South Indian
+Masala Thepla Combo,Sad,Productive,Heavy,Veg,Chinese
+Veg Poha Combo,Tired,Lazy,Spicy,Veg,Chinese
+Bread Omelet Combo,Happy,Productive,Light,Non-Veg,South Indian
+Punjabi Plain Lassi [300ml],Sad,Normal,Sweet,Jain,North Indian
+Punjabi Gulab Lassi [300ml],Happy,Normal,Sweet,Veg,Dessert
+Punjabi Kesar Lassi [300ml],Sad,Hectic,Light,Jain,Chinese
+Punjabi Khus Lassi [300ml],Stressed,Lazy,Light,Veg,Chinese
+Punjabi Mango Lassi [300ml],Happy,Normal,Sweet,Jain,North Indian
+Punjabi Dry Furuit Lassi [300ml],Happy,Normal,Heavy,Jain,Dessert
+Kheer [100ml],Stressed,Hectic,Sweet,Veg,Fast Food
+Gulab Jambu [3 Pcs],Tired,Hectic,Sweet,Non-Veg,Dessert
+Rasgulla [3 Pcs],Stressed,Normal,Sweet,Veg,South Indian
+Suji Da Halwa [100ml],Tired,Productive,Sweet,Non-Veg,Snacks
+Plain Makhan Wali Lassi [500ml],Stressed,Hectic,Heavy,Veg,Chinese
+Gulab Makhan Wali Lassi [500ml],Sad,Normal,Sweet,Non-Veg,Dessert
+Kesar Makhan Wali Lassi [500ml],Tired,Normal,Spicy,Veg,Snacks
+Khus Makhan Wali Lassi [500ml],Tired,Lazy,Heavy,Jain,North Indian
+Mango Makhan Wali Lassi [500ml],Stressed,Lazy,Light,Non-Veg,South Indian
+Dry Fruit Makhan Wali Lassi [500ml],Happy,Normal,Heavy,Non-Veg,Snacks
+Egg Soup [2 Egg] [300ml],Happy,Productive,Sweet,Non-Veg,Fast Food
+Chicken Clear Soup [300ml],Sad,Hectic,Light,Non-Veg,Chinese
+Chicken Hot 'n' Sour Soup [300ml],Stressed,Hectic,Heavy,Non-Veg,Chinese
+Chicken Sweet Corn Soup [300ml],Sad,Hectic,Spicy,Non-Veg,Dessert
+Veg Clear Soup [300ml],Stressed,Productive,Heavy,Non-Veg,Fast Food
+Veg Hot 'n' Sour Soup [300ml],Sad,Normal,Light,Veg,Dessert
+Veg Sweet Corn Soup [300ml],Stressed,Hectic,Light,Veg,South Indian
+Veg Tomato Soup [300ml],Stressed,Productive,Light,Veg,North Indian
+Veg Manchow Soup [300ml],Sad,Hectic,Light,Veg,North Indian
+Boondi Raita [100ml],Stressed,Lazy,Heavy,Veg,North Indian
+Fried Papad,Happy,Productive,Heavy,Veg,North Indian
+Fresh Dahi [100ml],Stressed,Hectic,Heavy,Veg,North Indian
+Plain Salted Chhash [300ml],Tired,Productive,Heavy,Veg,North Indian
+Masala Chhash [300ml],Tired,Lazy,Spicy,Veg,North Indian
+Plain Raita [100ml],Sad,Hectic,Heavy,Veg,North Indian
+Mix Veg Raita [100ml],Stressed,Normal,Heavy,Veg,North Indian
+Roasted Papad,Sad,Normal,Heavy,Veg,North Indian
+Masala Chai [3 Cup],Sad,Lazy,Spicy,Veg,North Indian
+Pudina Chai [3 Cup],Stressed,Hectic,Heavy,Veg,North Indian
+Adrak Chai [3 Cup],Stressed,Lazy,Heavy,Veg,North Indian
+Adrak Elaichi Long Chai [3 Cup],Happy,Lazy,Heavy,Veg,North Indian
+Elaichi Chai [3 Cup],Tired,Productive,Heavy,Veg,North Indian
+Elaichi Long Chai [3 Cup],Tired,Productive,Heavy,Veg,North Indian
+Hot Coffee [3 Cup],Sad,Productive,Heavy,Veg,North Indian
+Hot Bournvita [3 Cup],Tired,Normal,Heavy,Veg,North Indian
+Chana Chaat,Happy,Productive,Heavy,Veg,Snacks
+Butter Chicken [500ml],Stressed,Productive,Heavy,Non-Veg,North Indian
+"Kesar Mohini [1 Scoop, 110 Ml]",Happy,Normal,Heavy,Veg,North Indian
+"Rajbhog Ice Cream [1 Scoop, 110 Ml]",Stressed,Lazy,Sweet,Veg,Dessert
+"Paan [1 Scoop, 110 Ml]",Sad,Normal,Heavy,Veg,North Indian
+"American Nuts [1 Scoop, 110 Ml]",Happy,Productive,Heavy,Veg,North Indian
+"Vanilla [1 Scoop, 110 Ml]",Happy,Normal,Heavy,Veg,North Indian
+"Tutti Frutti [1 Scoop, 110 Ml]",Happy,Lazy,Heavy,Veg,North Indian
+"Rich Chocolate [1 Scoop, 110 Ml]",Sad,Productive,Heavy,Veg,North Indian
+"Kaju Draksh [1 Scoop, 110 Ml]",Stressed,Normal,Heavy,Veg,North Indian
+"Chocolate Chips [1 Scoop, 110 Ml]",Stressed,Hectic,Heavy,Veg,North Indian
+"Butterscotch [1 Scoop, 110 Ml]",Stressed,Productive,Heavy,Veg,North Indian
+"Blackcurrant [1 Scoop, 110 Ml]",Sad,Hectic,Heavy,Veg,North Indian
+"Badam Carnival [1 Scoop, 110 Ml]",Sad,Productive,Heavy,Veg,North Indian
+"Fruit Bonanza [1 Scoop, 110 Ml]",Sad,Lazy,Heavy,Veg,North Indian
+"Cookies And Cream [1 Scoop, 110 Ml]",Happy,Productive,Heavy,Veg,North Indian
+Vanilla No Sugar Cup (100 Ml),Stressed,Lazy,Heavy,Veg,North Indian
+Shahi Anjeer No Sugar Cup (100 Ml),Stressed,Normal,Heavy,Veg,North Indian
+Tuti Fruity Pp (700ml+700ml),Tired,Normal,Heavy,Veg,North Indian
+Butterscotch Pp (700ml+700ml),Tired,Normal,Heavy,Veg,North Indian
+Vanilla Ice Cream Pp (700ml+700ml),Sad,Hectic,Sweet,Veg,Dessert
+Cookies And Cream Pp (700ml+700ml),Sad,Productive,Heavy,Veg,North Indian
+Red Velvet Ice Cream Cake (500 ML),Sad,Hectic,Sweet,Veg,Dessert
+Chocolate Chips Ice Cream Cake (500 ML),Stressed,Productive,Sweet,Veg,Dessert
+"Kesar Mohini [1 Scoop, 110 Ml]",Tired,Normal,Heavy,Veg,North Indian
+"Real Kesar Pista [1 Scoop, 110 Ml]",Tired,Hectic,Heavy,Veg,North Indian
+"Rajbhog Ice Cream [1 Scoop, 110 Ml]",Tired,Productive,Sweet,Veg,Dessert
+"Paan [1 Scoop, 110 Ml]",Tired,Lazy,Heavy,Veg,North Indian
+"American Nuts [1 Scoop, 110 Ml]",Happy,Normal,Heavy,Veg,North Indian
+"Vanilla [1 Scoop, 110 Ml]",Tired,Lazy,Heavy,Veg,North Indian
+"Real Mango [1 Scoop, 110 Ml]",Stressed,Productive,Heavy,Veg,North Indian
+"Tutti Frutti [1 Scoop, 110 Ml]",Sad,Lazy,Heavy,Veg,North Indian
+"Rich Chocolate [1 Scoop, 110 Ml]",Happy,Productive,Heavy,Veg,North Indian
+"Kaju Draksh [1 Scoop, 110 Ml]",Tired,Hectic,Heavy,Veg,North Indian
+"Chocolate Chips [1 Scoop, 110 Ml]",Sad,Productive,Heavy,Veg,North Indian
+"Butterscotch [1 Scoop, 110 Ml]",Happy,Hectic,Heavy,Veg,North Indian
+"Blackcurrant [1 Scoop, 110 Ml]",Stressed,Productive,Heavy,Veg,North Indian
+"Badam Carnival [1 Scoop, 110 Ml]",Sad,Hectic,Heavy,Veg,North Indian
+"Fruit Bonanza [1 Scoop, 110 Ml]",Sad,Normal,Heavy,Veg,North Indian
+"Cookies And Cream [1 Scoop, 110 Ml]",Sad,Normal,Heavy,Veg,North Indian
+Vanilla No Sugar Cup (100 Ml),Happy,Normal,Heavy,Veg,North Indian
+Shahi Anjeer No Sugar Cup (100 Ml),Sad,Lazy,Heavy,Veg,North Indian
+Roasted Almond No Sugar Cup (100 Ml),Sad,Productive,Heavy,Veg,North Indian
+Tuti Fruity Pp (700ml+700ml),Stressed,Lazy,Heavy,Veg,North Indian
+Blackcurrant Pp (700ml+700ml),Tired,Hectic,Heavy,Veg,North Indian
+Butterscotch Pp (700ml+700ml),Tired,Lazy,Heavy,Veg,North Indian
+Vanilla Ice Cream Pp (700ml+700ml),Tired,Lazy,Sweet,Veg,Dessert
+Cookies And Cream Pp (700ml+700ml),Happy,Hectic,Heavy,Veg,North Indian
+Chocolate Chips Pp (700ml+700ml),Tired,Productive,Heavy,Veg,North Indian
+Kaju Draksh Pp (700ml+700ml),Tired,Lazy,Heavy,Veg,North Indian
+Strawberry Pp (700ml+700ml),Stressed,Normal,Heavy,Veg,North Indian
+Fruit Bonanza Pp (700ml+700ml),Stressed,Normal,Heavy,Veg,North Indian
+Alphanso Mango Pp (700ml+700ml),Sad,Hectic,Heavy,Veg,North Indian
+Choco Brownie Pp (700ml+700ml),Sad,Productive,Heavy,Veg,North Indian
+American Nuts  Pp (700ml+700ml),Sad,Lazy,Heavy,Veg,North Indian
+Rajbhog Pp (700ml+700ml),Sad,Normal,Heavy,Veg,North Indian
+American Nuts Flingo Cone,Tired,Normal,Heavy,Veg,North Indian
+Silk Chocolate Cup Ice Cream [120 Ml],Happy,Productive,Sweet,Veg,Dessert
+"Crunchy Butterscotch Ice Cream [1 Tub, 1 Litre]",Tired,Hectic,Sweet,Veg,Dessert
+Choco Brownie Dip Cup Ice Cream [120ml],Happy,Hectic,Sweet,Veg,Dessert
+"Classic Malai Gourmet Natural Ice Cream [1 Tub, 1 Litre]",Happy,Lazy,Sweet,Veg,Dessert
+Pistachio Almond Fudge Cup Ice Cream [120 Ml],Stressed,Normal,Sweet,Veg,Dessert
+Dry Fruit Khazana Ice Cream Cup [120ml],Happy,Hectic,Sweet,Veg,Dessert
+Kesar Mohini Cup Ice Cream [120 Ml],Tired,Normal,Sweet,Veg,Dessert
+"American Nuts Ice Cream [1 Tub, 1 Litre]",Happy,Productive,Sweet,Veg,Dessert
+"Belgian Chocolate Ice Cream [1 Tub, 1 Litre]",Stressed,Normal,Sweet,Veg,Dessert
+Golden Fantasy Ice Cream Cake [500 Ml],Tired,Productive,Sweet,Veg,Dessert
+Red Velvet Ice Cream Cake [500 Ml],Stressed,Productive,Sweet,Veg,Dessert
+Chocolate Chips Ice Cream Cake [500 Ml],Happy,Lazy,Sweet,Veg,Dessert
+Cassata Ice Cream Cake [500 Ml],Tired,Normal,Sweet,Veg,Dessert
+American Nuts Cake [500 Ml],Stressed,Normal,Sweet,Veg,Dessert
+Red Velvet - 80ml,Tired,Productive,Heavy,Veg,North Indian
+Dark Truffle - 90ml,Tired,Lazy,Heavy,Veg,North Indian
+Cookies N Cream - 80ml,Stressed,Hectic,Heavy,Veg,North Indian
+Mango - 80ml,Stressed,Hectic,Heavy,Veg,North Indian
+Almond crunch,Stressed,Productive,Heavy,Veg,North Indian
+Chocolate Disc Cone [110 Ml],Happy,Hectic,Heavy,Veg,North Indian
+Nutty Butter Scotch Cone (110 Ml),Stressed,Hectic,Heavy,Veg,North Indian
+Choco brownie flingo cone,Sad,Productive,Heavy,Veg,North Indian
+Belgian Chocolate Flingo Cone,Sad,Normal,Heavy,Veg,North Indian
+Cookie Disk,Tired,Normal,Heavy,Veg,North Indian
+Prime Kesar Pista Flingo,Happy,Hectic,Heavy,Veg,North Indian
+Strawberry Swirl Cake Flingo Cone,Sad,Hectic,Sweet,Veg,Dessert
+Aam Chaska Falala,Tired,Hectic,Heavy,Veg,North Indian
+Sandwich I/c,Happy,Hectic,Heavy,Veg,Fast Food
+Kesar Matka Kulfi,Happy,Lazy,Heavy,Veg,North Indian
+Slice Cassatta Ice Cream,Stressed,Lazy,Sweet,Veg,Dessert
+Chowpatty Kulfi,Stressed,Hectic,Heavy,Veg,North Indian
+Gourmet Natural Rajwadi Kulfi,Stressed,Hectic,Heavy,Veg,North Indian
+Gourmet Bpk Natural Kulfi,Stressed,Hectic,Heavy,Veg,North Indian
+Fun - Ta- Stik,Tired,Normal,Heavy,Veg,North Indian
+Natural Kesar Pista 750 Ml Tub,Stressed,Lazy,Heavy,Veg,North Indian
+Gourmet Vanilla Brownie Fudge 750 Ml,Sad,Normal,Heavy,Veg,North Indian
+Natural Gulab Jamun 750 Ml Tub,Tired,Lazy,Sweet,Veg,Dessert
+Gourmet Premium Vanilla 750 Ml,Sad,Normal,Heavy,Veg,North Indian
+Natural Falooda 750 Ml Tub,Sad,Productive,Heavy,Veg,North Indian
+Choco Chip Pastry Slice.,Sad,Hectic,Heavy,Veg,North Indian
+Chocolate Cheesecake Slice.,Tired,Hectic,Sweet,Veg,Dessert
+Father's Day Special Hazelnut Chocolate Cake (500gm),Tired,Normal,Sweet,Veg,Dessert
+Father's Day Special Chocolate Chip Cake (500gm),Stressed,Hectic,Sweet,Veg,Dessert
+Father's Day Special Butterscotch Cake (500gm),Tired,Normal,Sweet,Veg,Dessert
+Father's Day Special Red Velvet Cake (500gm),Stressed,Productive,Sweet,Veg,Dessert
+Father's Day Special Black Forest Cake (500gm),Tired,Productive,Sweet,Veg,Dessert
+Father's Day Special Biscoff Cheesecake (Half Kg),Tired,Productive,Sweet,Veg,Dessert
+Mango Cheesecake Slice,Stressed,Lazy,Sweet,Veg,Dessert
+Chocolate Chip Cake (500 gm),Sad,Hectic,Sweet,Veg,Dessert
+Hazelnut Chocolate Cake (500 gm),Tired,Productive,Sweet,Veg,Dessert
+Black Forest Cake (Half Kg) (Eggless),Happy,Hectic,Sweet,Non-Veg,Dessert
+Butterscotch Cake (500 gm),Sad,Hectic,Sweet,Veg,Dessert
+Red Velvet Cake (500 gm) (Eggless),Stressed,Lazy,Sweet,Non-Veg,Dessert
+Biscoff Cheesecake (500 gm),Happy,Hectic,Sweet,Veg,Dessert
+Mango Cheesecake,Stressed,Lazy,Sweet,Veg,Dessert
+Blueberry Cheesecake,Sad,Productive,Sweet,Veg,Dessert
+Biscoff Cheesecake Slice,Happy,Normal,Sweet,Veg,Dessert
+Chocolate Cheesecake.,Stressed,Productive,Sweet,Veg,Dessert
+Biscoff Cheesecake Combo (Box of 2),Stressed,Lazy,Sweet,Veg,Dessert
+Choco Chip Pastry Slice.,Tired,Hectic,Heavy,Veg,North Indian
+Chocolate Cheesecake Slice.,Tired,Hectic,Sweet,Veg,Dessert
+Father's Day Special Hazelnut Chocolate Cake (500gm),Sad,Normal,Sweet,Veg,Dessert
+Father's Day Special Chocolate Chip Cake (500gm),Happy,Hectic,Sweet,Veg,Dessert
+Father's Day Special Butterscotch Cake (500gm),Sad,Hectic,Sweet,Veg,Dessert
+Father's Day Special Red Velvet Cake (500gm),Stressed,Normal,Sweet,Veg,Dessert
+Father's Day Special Black Forest Cake (500gm),Happy,Hectic,Sweet,Veg,Dessert
+Father's Day Special Biscoff Cheesecake (Half Kg),Sad,Lazy,Sweet,Veg,Dessert
+Mango Cheesecake Slice,Tired,Productive,Sweet,Veg,Dessert
+Chocolate Chip Cake (500 gm),Sad,Lazy,Sweet,Veg,Dessert
+Hazelnut Chocolate Cake (500 gm),Stressed,Lazy,Sweet,Veg,Dessert
+Black Forest Cake (Half Kg) (Eggless),Tired,Normal,Sweet,Non-Veg,Dessert
+Butterscotch Cake (500 gm),Tired,Normal,Sweet,Veg,Dessert
+Red Velvet Cake (500 gm) (Eggless),Sad,Productive,Sweet,Non-Veg,Dessert
+Biscoff Cheesecake (500 gm),Tired,Normal,Sweet,Veg,Dessert
+Mango Cheesecake,Sad,Hectic,Sweet,Veg,Dessert
+Blueberry Cheesecake,Stressed,Lazy,Sweet,Veg,Dessert
+Biscoff Cheesecake Slice,Tired,Productive,Sweet,Veg,Dessert
+Chocolate Cheesecake.,Happy,Lazy,Sweet,Veg,Dessert
+Biscoff Cheesecake Combo (Box of 2),Tired,Lazy,Sweet,Veg,Dessert
+Mango Cheesecake (Box of 2),Sad,Hectic,Sweet,Veg,Dessert
+Blueberry Cheesecake (Box of 2),Happy,Normal,Sweet,Veg,Dessert
+Mango Cheesecake & Blueberry Cheesecake (Box of 2),Happy,Lazy,Sweet,Veg,Dessert
+Choco Mud Jar,Tired,Lazy,Heavy,Veg,North Indian
+Death by Chocolate Cake Jar,Sad,Lazy,Sweet,Veg,Dessert
+Triple Chocolate Mousse Jar,Tired,Productive,Heavy,Veg,North Indian
+Blueberry Cheesecake Jar,Happy,Hectic,Sweet,Veg,Dessert
+Hazelnut Cheesecake Jar,Stressed,Normal,Sweet,Veg,Dessert
+Hazelnut Cheesecake Jar Combo (Pack of 2),Happy,Productive,Sweet,Veg,Dessert
+Choco Mud Jar (Pack of 2),Tired,Normal,Heavy,Veg,North Indian
+Blueberry Cheesecake Jar (Pack of 2),Stressed,Productive,Sweet,Veg,Dessert
+Death by Chocolate Cake Jar (Pack of 2),Stressed,Productive,Sweet,Veg,Dessert
+Triple Chocolate Mousse Jar (Pack of 2),Stressed,Normal,Heavy,Veg,North Indian
+Choco Chip Pastry,Happy,Productive,Heavy,Veg,North Indian
+Chocolate Truffle Pastry,Tired,Productive,Heavy,Veg,North Indian
+Rich Red Velvet Pastry,Happy,Hectic,Heavy,Veg,North Indian
+Chocolate Truffle Pastry Combo (Box of 2),Stressed,Hectic,Heavy,Veg,North Indian
+Choco Chip Pastry (Box of 2),Happy,Lazy,Heavy,Veg,North Indian
+Red Velvet Pastry (Box of 2),Stressed,Hectic,Heavy,Veg,North Indian
+Newly Launched Choco Mud Jar + Choco Lava Cake Combo,Happy,Normal,Sweet,Veg,Dessert
+Choco Chip Pastry + Choco Lava Cake Combo,Stressed,Hectic,Sweet,Veg,Dessert
+Choco Chip Pastry + Choco Chip Brownie Combo,Stressed,Productive,Heavy,Veg,North Indian
+Death by Chocolate Jar & Choco Lava Cake,Stressed,Productive,Sweet,Veg,Dessert
+Walnut Brownie (Box of 2) + Choco Chip Brownie (Box of 2),Tired,Lazy,Heavy,Veg,North Indian
+Chocolate Truffle Pastry (Box of 2) + Choco Lava Cake (Box of 2),Happy,Normal,Sweet,Veg,Dessert
+Chocolate Truffle Pastry + Choco Lava Cake,Sad,Productive,Sweet,Veg,Dessert
+Walnut Brownie (Box of 2) + Choco Lava Cake (Box of 2),Stressed,Normal,Sweet,Veg,Dessert
+Choco Chip Brownie (Box of 2) + Choco Lava Cake (Box of 2),Stressed,Normal,Sweet,Veg,Dessert
+Walnut Brownie + Choco Lava Cake,Tired,Lazy,Sweet,Veg,Dessert
+Choco Chip Brownie + Choco Lava Cake,Happy,Normal,Sweet,Veg,Dessert
+Assorted Classic Pastries Hamper (Box of 4),Happy,Lazy,Heavy,Veg,North Indian
+Choco Chip Brownie,Tired,Hectic,Heavy,Veg,North Indian
+Walnut Brownie,Happy,Productive,Heavy,Veg,North Indian
+Choco Lava Cake,Tired,Normal,Sweet,Veg,Dessert
+Choco Chip Brownie (Box of 2),Tired,Normal,Heavy,Veg,North Indian
+Walnut Brownie (Box of 2),Happy,Normal,Heavy,Veg,North Indian
+Walnut Brownie + Choco Chip Brownie (Box of 2),Sad,Normal,Heavy,Veg,North Indian
+Choco Lava Cake (Box Of 2),Happy,Productive,Sweet,Veg,Dessert
+Lemon Ice Tea (250 mL),Sad,Normal,Heavy,Veg,North Indian
+Coke (250 mL),Sad,Hectic,Heavy,Veg,North Indian
+Lemon Soda (250 mL),Sad,Hectic,Heavy,Veg,North Indian
+Thums Up Can (330 mL),Stressed,Lazy,Heavy,Veg,North Indian
+Coca Cola Bottle (475 mL),Stressed,Hectic,Heavy,Veg,North Indian
+Coke Zero 330 ml Can,Stressed,Hectic,Heavy,Veg,North Indian
+Jeera Masala Soda (350 mL),Happy,Normal,Spicy,Veg,North Indian
+Masala Lemonade (200 mL),Tired,Normal,Spicy,Veg,North Indian
+Badam Kesar Thandai.,Happy,Normal,Heavy,Veg,North Indian
+Badam Kesar Thandai (Pack of 4),Happy,Lazy,Heavy,Veg,North Indian
+Pizza Puff (Pack of 2),Sad,Hectic,Heavy,Veg,Fast Food
+Potato Wedges (Small),Tired,Normal,Heavy,Veg,North Indian
+Falafel Shots (6 pieces),Stressed,Lazy,Heavy,Veg,North Indian
+Potato Chilli Shots with Mayo Dip,Sad,Lazy,Heavy,Veg,North Indian
+French Fries (Medium),Happy,Productive,Heavy,Veg,Fast Food
+Moong Dal Halwa (80 gm),Tired,Hectic,Heavy,Veg,North Indian
+Moong Dal Halwa (300gm),Sad,Productive,Heavy,Veg,North Indian
+Gulab Jamun (Pack of 5),Sad,Hectic,Sweet,Veg,Dessert
+Gulab Jamun Box (Pack of 10),Sad,Productive,Sweet,Veg,Dessert
+Aam Panna Boba,Tired,Normal,Heavy,Veg,North Indian
+Spicy Jamun Boba,Tired,Lazy,Spicy,Veg,North Indian
+Cold Coffee (S),Tired,Normal,Heavy,Veg,North Indian
+Cappuccino (S),Stressed,Normal,Heavy,Veg,North Indian
+Latte (S),Stressed,Normal,Heavy,Veg,North Indian
+Iced Americano (S),Sad,Productive,Heavy,Veg,North Indian
+Vanilla Cold Brew (S),Happy,Productive,Heavy,Veg,North Indian
+Hot Chocolate (S),Tired,Normal,Heavy,Veg,North Indian
+Lemon Iced Tea (S),Happy,Lazy,Heavy,Veg,North Indian
+Peach Iced Tea (S),Tired,Productive,Heavy,Veg,North Indian
+Chilli Cheese toast.,Sad,Productive,Heavy,Veg,North Indian
+Chicken Keema melt.,Happy,Productive,Heavy,Non-Veg,North Indian
+Passionfruit Yuzu Cooler,Stressed,Lazy,Heavy,Veg,North Indian
+Mango & Ginger Cooler,Sad,Normal,Heavy,Veg,North Indian
+Strawberry & Grapefruit Cooler,Tired,Productive,Heavy,Veg,North Indian
+Iced Americano,Tired,Normal,Heavy,Veg,North Indian
+Iced Latte,Stressed,Hectic,Heavy,Veg,North Indian
+Cold Coffee,Tired,Lazy,Heavy,Veg,North Indian
+Iced Double Double Latte,Happy,Productive,Heavy,Veg,North Indian
+Iced Caramel Macchiato,Sad,Lazy,Heavy,Veg,North Indian
+Frozen French Vanilla (On the sweeter side),Happy,Normal,Sweet,Veg,North Indian
+Frozen French Vanilla with Espresso,Stressed,Lazy,Heavy,Veg,North Indian
+Java Chip Iced Capp (Served without whipped cream),Stressed,Normal,Heavy,Veg,North Indian
+Original Iced Capp (Served without whipped cream),Sad,Hectic,Heavy,Veg,North Indian
+Caramel Iced Capp (Served without whipped cream),Tired,Lazy,Heavy,Veg,North Indian
+Vanilla Iced Capp (Served without whipped cream),Happy,Productive,Heavy,Veg,North Indian
+Mango Tims Shake,Sad,Productive,Heavy,Veg,North Indian
+Chocolate Tims Shake (Served without whipped cream),Tired,Productive,Heavy,Veg,North Indian
+Strawberry Tims Shake (Served without whipped cream),Sad,Normal,Heavy,Veg,North Indian
+Classic Cold Brew,Stressed,Hectic,Heavy,Veg,North Indian
+Vanilla Cold Brew,Happy,Productive,Heavy,Veg,North Indian
+Lemon Iced Tea,Happy,Normal,Heavy,Veg,North Indian
+Peach Iced Tea,Sad,Hectic,Heavy,Veg,North Indian
+Spicy Cottage Cheese Melt Sandwich,Happy,Normal,Spicy,Veg,Fast Food
+"Mushroom & Cheese Melt Sandwich,",Tired,Productive,Heavy,Veg,Fast Food
+Spicy Chicken & Cheese Melt,Sad,Hectic,Spicy,Non-Veg,North Indian
+Chicken Keema Melt,Stressed,Hectic,Heavy,Non-Veg,North Indian
+Chicken & Cheese Melt Sandwich,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Chicken Tikka Croissant Sandwich,Tired,Lazy,Heavy,Non-Veg,Fast Food
+"Egg, Cheese & Tomato Croissant Sandwich",Tired,Productive,Heavy,Non-Veg,Fast Food
+Paneer Tikka Croissant.,Sad,Productive,Heavy,Veg,North Indian
+Peruvian Avocado Toast,Happy,Lazy,Heavy,Veg,North Indian
+Chicken Puff,Sad,Normal,Heavy,Non-Veg,North Indian
+Paneer Puff,Tired,Hectic,Heavy,Veg,North Indian
+Bagel with Cream Cheese,Stressed,Lazy,Heavy,Veg,North Indian
+Bagel with Egg & Gauc',Tired,Productive,Heavy,Non-Veg,North Indian
+Chicken & Gauc' Salad.,Sad,Productive,Light,Non-Veg,North Indian
+Americano,Tired,Hectic,Heavy,Veg,North Indian
+Cappuccino,Sad,Normal,Heavy,Veg,North Indian
+Latte,Tired,Normal,Heavy,Veg,North Indian
+Flat White,Happy,Hectic,Heavy,Veg,North Indian
+Café Mocha..,Stressed,Lazy,Heavy,Veg,North Indian
+Caramel Macchiato,Stressed,Hectic,Heavy,Veg,North Indian
+Doppio,Happy,Productive,Heavy,Veg,North Indian
+Double Double Latte,Tired,Normal,Heavy,Veg,North Indian
+French Vanilla (on the sweeter side),Tired,Lazy,Sweet,Veg,North Indian
+French Vanilla with Espresso,Happy,Productive,Heavy,Veg,North Indian
+Hot Chocolate,Sad,Productive,Heavy,Veg,North Indian
+Kadak Chai,Tired,Hectic,Heavy,Veg,North Indian
+Ginger Chai,Happy,Normal,Heavy,Veg,North Indian
+Green Tea,Sad,Hectic,Heavy,Veg,North Indian
+English Breakfast Tea,Happy,Hectic,Heavy,Veg,North Indian
+Oatmeal & Raisin Cookie,Happy,Normal,Heavy,Veg,North Indian
+Double Chocolate Chip Cookie,Sad,Productive,Heavy,Veg,North Indian
+Blueberry Muffin,Tired,Productive,Heavy,Veg,North Indian
+Double Chocolate Chip Muffin,Sad,Hectic,Heavy,Veg,North Indian
+Butter Croissant,Tired,Hectic,Heavy,Veg,North Indian
+Almond Croissant,Tired,Productive,Heavy,Veg,North Indian
+Chocolate Croissant,Tired,Productive,Heavy,Veg,North Indian
+Chocolate Truffle Cake Slice,Stressed,Hectic,Sweet,Veg,Dessert
+Chocolate Brownie,Tired,Lazy,Heavy,Veg,North Indian
+Strawberry Cake,Stressed,Normal,Sweet,Veg,Dessert
+Brownie Pop Timbit,Stressed,Productive,Heavy,Veg,North Indian
+Salted Caramel Crumble Timbit,Tired,Normal,Heavy,Veg,North Indian
+Blueberry Filled Timbit,Stressed,Hectic,Heavy,Veg,North Indian
+Chocolate Filled Timbit,Sad,Hectic,Heavy,Veg,North Indian
+Timbits Box of 4,Stressed,Hectic,Heavy,Veg,North Indian
+Timbits Box of 10,Sad,Productive,Heavy,Veg,North Indian
+Timbits Box of 20,Sad,Normal,Heavy,Veg,North Indian
+Classic Cheesecake Slice,Happy,Normal,Sweet,Veg,Dessert
+Lotus Biscoff Cheesecake,Tired,Normal,Sweet,Veg,Dessert
+Choice of Hot Coffee (M) + Bagel with Cream Cheese,Sad,Lazy,Heavy,Veg,North Indian
+Choice of Hot Coffee (M) + Chilli Cheese Toast,Stressed,Productive,Heavy,Veg,North Indian
+Choice of Hot Coffee (M) + Butter Croissant,Sad,Hectic,Heavy,Veg,North Indian
+Choice of Hot Coffee (M) + Choice of Cheese Melt Sandwich,Sad,Normal,Heavy,Veg,Fast Food
+Choice of Hot Coffee (M) + Choice of Croissant Sandwich,Tired,Normal,Heavy,Veg,Fast Food
+Choice of Hot Coffee (M) + Choice of Wrap,Sad,Hectic,Heavy,Veg,Fast Food
+Cold Coffee (M) + Choice of Cheese Melt Sandwich,Stressed,Productive,Heavy,Veg,Fast Food
+Cold Coffee (M) + Choice of Croissant Sandwich,Tired,Normal,Heavy,Veg,Fast Food
+Coffee Beans,Stressed,Productive,Heavy,Veg,North Indian
+Ground Coffee (125 Grams),Stressed,Hectic,Heavy,Veg,North Indian
+Ground Coffee (250 Grams),Tired,Hectic,Heavy,Veg,North Indian
+Deluxe Veggie Pizza,Stressed,Lazy,Heavy,Non-Veg,Fast Food
+Queen Margherita Pizza,Stressed,Productive,Heavy,Veg,Fast Food
+Mexican Wave Pizza,Stressed,Normal,Heavy,Veg,Fast Food
+Creamy Spinach Popeye Pizza,Happy,Normal,Heavy,Veg,Fast Food
+Ultimate Spinach Pizza,Happy,Lazy,Heavy,Veg,Fast Food
+Paneer Red-Hot Pizza,Happy,Hectic,Heavy,Veg,Fast Food
+Farmhouse Pizza,Tired,Productive,Heavy,Veg,Fast Food
+Five Pepper Pizza,Stressed,Normal,Heavy,Veg,Fast Food
+Smoked Hawaiian Pizza,Happy,Lazy,Heavy,Veg,Fast Food
+Veggie Volcano Pizza,Stressed,Normal,Heavy,Non-Veg,Fast Food
+Farmer's Pick Pizza,Happy,Normal,Heavy,Veg,Fast Food
+Greek Goddess Pizza,Sad,Normal,Heavy,Veg,Fast Food
+Four Seasons Pizza,Sad,Lazy,Heavy,Veg,Fast Food
+Veg Overload Pizza,Stressed,Hectic,Heavy,Veg,Fast Food
+Mediterranean Pizza,Happy,Hectic,Heavy,Veg,Fast Food
+Cheesy Mania Corn Pizza Box,Sad,Hectic,Heavy,Veg,Fast Food
+Cheesy Mania Peri Peri Paneer Pizza Box,Stressed,Productive,Heavy,Veg,Fast Food
+Chessy Mania Margherita Pizza Box,Tired,Normal,Heavy,Veg,Fast Food
+Deluxe Veggie Pizza [Multigrain],Stressed,Productive,Heavy,Non-Veg,Fast Food
+Paneer Red Hot Pizza [Multigrain],Sad,Productive,Heavy,Veg,Fast Food
+Deluxe Veggie Pizza,Happy,Productive,Heavy,Non-Veg,Fast Food
+Queen Margherita Pizza,Tired,Hectic,Heavy,Veg,Fast Food
+Mexican Wave Pizza,Sad,Lazy,Heavy,Veg,Fast Food
+Creamy Spinach Popeye Pizza,Sad,Lazy,Heavy,Veg,Fast Food
+Ultimate Spinach Pizza,Sad,Productive,Heavy,Veg,Fast Food
+Paneer Red-Hot Pizza,Tired,Productive,Heavy,Veg,Fast Food
+Farmhouse Pizza,Stressed,Productive,Heavy,Veg,Fast Food
+Five Pepper Pizza,Stressed,Normal,Heavy,Veg,Fast Food
+Smoked Hawaiian Pizza,Tired,Hectic,Heavy,Veg,Fast Food
+Veggie Volcano Pizza,Happy,Lazy,Heavy,Non-Veg,Fast Food
+Farmer's Pick Pizza,Tired,Hectic,Heavy,Veg,Fast Food
+Greek Goddess Pizza,Stressed,Normal,Heavy,Veg,Fast Food
+Four Seasons Pizza,Happy,Normal,Heavy,Veg,Fast Food
+Veg Overload Pizza,Stressed,Productive,Heavy,Veg,Fast Food
+Mediterranean Pizza,Happy,Hectic,Heavy,Veg,Fast Food
+Father's Day Special Cupcakes - Pack of 6,Happy,Normal,Sweet,Veg,Dessert
+Cheesy Mania Corn Pizza Box,Stressed,Lazy,Heavy,Veg,Fast Food
+Cheesy Mania Peri Peri Paneer Pizza Box,Tired,Hectic,Heavy,Veg,Fast Food
+Chessy Mania Margherita Pizza Box,Happy,Lazy,Heavy,Veg,Fast Food
+Deluxe Veggie Pizza [Multigrain],Sad,Productive,Heavy,Non-Veg,Fast Food
+Paneer Red Hot Pizza [Multigrain],Happy,Productive,Heavy,Veg,Fast Food
+Farmhouse Pizza [Multigrain],Happy,Normal,Heavy,Veg,Fast Food
+Italian Cheese Garlic Bread,Tired,Lazy,Heavy,Veg,North Indian
+Popeye's Spinach Garlic Bread,Sad,Productive,Heavy,Veg,North Indian
+Hawaiian Pineapple Garlic Bread,Happy,Hectic,Heavy,Veg,North Indian
+Creamy Spinach & Mushroom Garlic Bread,Stressed,Hectic,Heavy,Veg,North Indian
+Signature Garlic Knots with Cheesy Dip,Happy,Productive,Heavy,Veg,North Indian
+Peri-Peri Garlic Knots with Cheesy Dip,Stressed,Lazy,Heavy,Veg,North Indian
+Garlic Knots  Infinity Bucket (35 units),Tired,Normal,Heavy,Veg,North Indian
+The Royal Garlic Knots with Cheesy Dip,Sad,Productive,Heavy,Veg,North Indian
+Thums Up,Happy,Normal,Heavy,Veg,North Indian
+Coke,Sad,Lazy,Heavy,Veg,North Indian
+Diet Coke,Happy,Productive,Heavy,Veg,North Indian
+Half &Half Medium Pizza,Stressed,Lazy,Heavy,Veg,Fast Food
+Half &Half Large Pizza,Sad,Hectic,Heavy,Veg,Fast Food
+Corn and Onion Pizza + Knots Combo,Tired,Normal,Heavy,Veg,Fast Food
+Deluxe Veggie Pizza + Knots Combo,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Royal 4in1 Veg Pizza,Happy,Normal,Heavy,Veg,Fast Food
+Royal 4in1 Gourmet Veg Pizza,Happy,Lazy,Heavy,Veg,Fast Food
+Cheesy Paneer Tikka,Happy,Productive,Heavy,Veg,North Indian
+Cheesy Mexican,Stressed,Lazy,Heavy,Veg,North Indian
+Potato Chilli Cheese,Tired,Normal,Heavy,Veg,North Indian
+Chicken Keema Melt,Happy,Normal,Heavy,Non-Veg,North Indian
+Cheesy Chicken Tikka,Stressed,Normal,Heavy,Non-Veg,North Indian
+Cheesy American BBQ,Tired,Lazy,Heavy,Veg,North Indian
+Cheesy Lamb Pepperoni,Happy,Productive,Heavy,Veg,North Indian
+Egg'n Chicken Melt,Sad,Hectic,Heavy,Non-Veg,North Indian
+Double Egg n' Cheese Omelette Sandwich,Happy,Hectic,Heavy,Non-Veg,Fast Food
+Veggie Delite Sandwich,Happy,Productive,Heavy,Non-Veg,Fast Food
+Aloo Patty Sandwich,Happy,Productive,Heavy,Veg,Fast Food
+Paneer Tikka Sandwich,Tired,Hectic,Heavy,Veg,Fast Food
+Veg Shammi Sandwich,Tired,Normal,Heavy,Veg,Fast Food
+Chilli Bean Patty Sandwich,Stressed,Hectic,Heavy,Veg,Fast Food
+Corn & Peas Sandwich,Stressed,Hectic,Heavy,Veg,Fast Food
+Roasted Chicken Strip Sandwich,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+B.M.T Sandwich,Happy,Normal,Heavy,Veg,Fast Food
+Tandoori Chicken Tikka Sandwich,Tired,Hectic,Heavy,Non-Veg,Fast Food
+Peri Peri Chicken Sandwich,Sad,Normal,Heavy,Non-Veg,Fast Food
+Chicken Teriyaki Sandwich,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Veggie Delite Sandwich,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Aloo Patty Sandwich,Stressed,Productive,Heavy,Veg,Fast Food
+Paneer Tikka Sandwich,Sad,Lazy,Heavy,Veg,Fast Food
+Veg Shammi Sandwich,Happy,Hectic,Heavy,Veg,Fast Food
+Chilli Bean Patty Sandwich,Stressed,Lazy,Heavy,Veg,Fast Food
+Corn & Peas Sandwich,Tired,Productive,Heavy,Veg,Fast Food
+Roasted Chicken Strip Sandwich,Tired,Lazy,Heavy,Non-Veg,Fast Food
+B.M.T Sandwich,Stressed,Productive,Heavy,Veg,Fast Food
+Tandoori Chicken Tikka Sandwich,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Peri Peri Chicken Sandwich,Happy,Normal,Heavy,Non-Veg,Fast Food
+Chicken Teriyaki Sandwich,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Italian B.M.T (Lamb),Stressed,Productive,Heavy,Veg,North Indian
+Tuna Sandwich,Happy,Normal,Heavy,Veg,Fast Food
+Chicken Meatball Sandwich,Stressed,Normal,Heavy,Non-Veg,Fast Food
+Spicy Chicken Keema Sandwich,Happy,Hectic,Spicy,Non-Veg,Fast Food
+Chicken Slice Sandwich,Tired,Productive,Heavy,Non-Veg,Fast Food
+Lamb Pepperoni,Tired,Hectic,Heavy,Veg,North Indian
+Double Egg n' Cheese Omelette Sandwich,Sad,Normal,Heavy,Non-Veg,Fast Food
+Tuna Salad,Tired,Hectic,Light,Veg,North Indian
+Tandoori Chicken Tikka Salad,Stressed,Normal,Light,Non-Veg,North Indian
+Chicken Teriyaki Salad,Happy,Normal,Light,Non-Veg,North Indian
+Chicken Meatball Salad,Happy,Productive,Light,Non-Veg,North Indian
+Smoked Chicken Strips Salad,Sad,Hectic,Light,Non-Veg,North Indian
+Spicy Chicken Keema Salad,Stressed,Productive,Spicy,Non-Veg,North Indian
+Chicken Slice Salad,Sad,Hectic,Light,Non-Veg,North Indian
+B.M.T. Salad,Tired,Productive,Light,Veg,North Indian
+Peri Peri Chicken Salad,Happy,Hectic,Light,Non-Veg,North Indian
+Italian B.M.T (Lamb) Salad,Sad,Productive,Light,Veg,North Indian
+Lamb Pepperoni Salad,Tired,Hectic,Light,Veg,North Indian
+Paneer Tikka Salad,Stressed,Normal,Light,Veg,North Indian
+Chilli Bean Patty Salad,Stressed,Productive,Light,Veg,North Indian
+Veggie Delite Salad,Sad,Productive,Light,Non-Veg,North Indian
+Veg Shammi Salad,Tired,Lazy,Light,Veg,North Indian
+Aloo Patty Salad,Stressed,Normal,Light,Veg,North Indian
+Corn & Peas Salad,Tired,Lazy,Light,Veg,North Indian
+Smoked Chicken Strips Signature Wrap,Stressed,Hectic,Heavy,Non-Veg,Fast Food
+Italian B.M.T (Lamb) Sig. Wrap,Tired,Hectic,Heavy,Veg,Fast Food
+Lamb Pepperoni Sig. Wrap,Happy,Normal,Heavy,Veg,Fast Food
+Spicy Chicken Keema Signature Wrap,Happy,Normal,Spicy,Non-Veg,Fast Food
+Peri Peri Chicken Signature Wrap,Happy,Normal,Heavy,Non-Veg,Fast Food
+Chicken Teriyaki Signature Wrap,Stressed,Lazy,Heavy,Non-Veg,Fast Food
+Tandoori Chicken Tikka Signature Wrap,Tired,Normal,Heavy,Non-Veg,Fast Food
+Chicken Meatball Sig. Wrap,Tired,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Slice Signature Wrap,Stressed,Lazy,Heavy,Non-Veg,Fast Food
+B.M.T. Signature Wrap,Happy,Productive,Heavy,Veg,Fast Food
+Tuna Signature Wrap,Happy,Lazy,Heavy,Veg,Fast Food
+Paneer Tikka Signature Wrap,Happy,Hectic,Heavy,Veg,Fast Food
+Chilli Bean Signature Wrap,Stressed,Normal,Heavy,Veg,Fast Food
+Veg Shammi Kebab Signature Wrap,Happy,Normal,Heavy,Veg,Fast Food
+Aloo Patty Signature Wrap,Stressed,Normal,Heavy,Veg,Fast Food
+Veggie Delite Signature Wrap,Sad,Normal,Heavy,Non-Veg,Fast Food
+Corn & Peas Signature Wrap,Stressed,Lazy,Heavy,Veg,Fast Food
+Cheesy Paneer Tikka,Stressed,Normal,Heavy,Veg,North Indian
+Cheesy Mexican,Stressed,Productive,Heavy,Veg,North Indian
+Potato Chilli Cheese,Sad,Normal,Heavy,Veg,North Indian
+Chicken Keema Melt,Happy,Normal,Heavy,Non-Veg,North Indian
+Cheesy Chicken Tikka,Happy,Normal,Heavy,Non-Veg,North Indian
+Cheesy American BBQ,Sad,Hectic,Heavy,Veg,North Indian
+Cheesy Lamb Pepperoni,Tired,Normal,Heavy,Veg,North Indian
+Egg'n Chicken Melt,Happy,Productive,Heavy,Non-Veg,North Indian
+Coke Zero 330ml Can,Sad,Normal,Heavy,Veg,North Indian
+Thums Up 330ml Can,Happy,Normal,Heavy,Veg,North Indian
+Coke 330ml Can,Sad,Lazy,Heavy,Veg,North Indian
+Maaza 300ml Can,Sad,Productive,Heavy,Veg,North Indian
+Minute Maid Pulpy orange 300ml Can,Stressed,Hectic,Heavy,Veg,North Indian
+Fanta 330ml Can,Happy,Productive,Heavy,Veg,North Indian
+Sprite 330ml Can,Stressed,Productive,Heavy,Veg,North Indian
+Schweppes Water 500ml Pet,Happy,Lazy,Heavy,Veg,North Indian
+Raw Choco Mint Protein Shake 195ml,Sad,Hectic,Heavy,Veg,North Indian
+Iced Green Tea - Peach 245ml,Happy,Lazy,Heavy,Veg,North Indian
+Raw Coconut Water 200ml,Sad,Productive,Heavy,Veg,North Indian
+Iced Green Tea- Mint Mojito 245ml,Sad,Hectic,Heavy,Veg,North Indian
+Chicken Meatballs-5Pcs,Tired,Productive,Heavy,Non-Veg,North Indian
+Veg Kebab-5Pcs,Stressed,Productive,Heavy,Veg,North Indian
+Sizzling Jalapeno Cornitos,Happy,Hectic,Heavy,Veg,North Indian
+Cheese & Herbs Cornitos,Stressed,Productive,Heavy,Veg,North Indian
+Dark Chunk Chocolate Cookie (eggless),Stressed,Productive,Heavy,Non-Veg,North Indian
+Oatmeal Raisin Cookie (eggless),Sad,Lazy,Heavy,Non-Veg,North Indian
+Double Chicken Roll Meal for 2,Stressed,Lazy,Heavy,Non-Veg,North Indian
+Classic Chicken Roll Meal for 2,Tired,Hectic,Heavy,Non-Veg,North Indian
+Double Chicken Roll Meal for 1,Happy,Normal,Heavy,Non-Veg,North Indian
+Classic Chicken Roll Meal for 1,Tired,Hectic,Heavy,Non-Veg,North Indian
+2 Double Chicken Rolls,Stressed,Normal,Heavy,Non-Veg,North Indian
+2 Classic Chicken Rolls,Sad,Lazy,Heavy,Non-Veg,North Indian
+Double Chicken Roll & Pepsi Combo,Happy,Normal,Heavy,Non-Veg,North Indian
+Classic Chicken Roll & Pepsi Combo,Stressed,Hectic,Heavy,Non-Veg,North Indian
+Double Chicken Roll,Sad,Hectic,Heavy,Non-Veg,North Indian
+Classic Chicken Roll,Happy,Lazy,Heavy,Non-Veg,North Indian
+Double Down Burger & Pepsi,Tired,Lazy,Heavy,Veg,Fast Food
+2 Double Down Burgers & Fries Meal,Stressed,Productive,Heavy,Veg,Fast Food
+Double Down Burger,Happy,Productive,Heavy,Veg,Fast Food
+Gold Edition Chicken Zinger Burger & Fries,Sad,Productive,Heavy,Non-Veg,Fast Food
+Spicy Zinger Burger,Stressed,Normal,Spicy,Veg,Fast Food
+Spicy Zinger Burger and Popcorn Meal,Stressed,Normal,Spicy,Veg,Fast Food
+Mexican Zinger Pro Pepsi Bottle Combo,Tired,Normal,Heavy,Veg,North Indian
+Paneer Zinger Burger,Happy,Productive,Heavy,Veg,Fast Food
+Zinger Pro Burger & Popcorn Meal,Happy,Lazy,Heavy,Veg,Fast Food
+Zinger Pro Burger & Chicken Meal,Happy,Productive,Heavy,Non-Veg,Fast Food
+Double Chicken Roll Meal for 2,Sad,Hectic,Heavy,Non-Veg,North Indian
+Classic Chicken Roll Meal for 2,Happy,Lazy,Heavy,Non-Veg,North Indian
+Double Chicken Roll Meal for 1,Tired,Hectic,Heavy,Non-Veg,North Indian
+Classic Chicken Roll Meal for 1,Tired,Hectic,Heavy,Non-Veg,North Indian
+2 Double Chicken Rolls,Tired,Hectic,Heavy,Non-Veg,North Indian
+2 Classic Chicken Rolls,Stressed,Lazy,Heavy,Non-Veg,North Indian
+Double Chicken Roll & Pepsi Combo,Happy,Lazy,Heavy,Non-Veg,North Indian
+Classic Chicken Roll & Pepsi Combo,Happy,Lazy,Heavy,Non-Veg,North Indian
+Double Chicken Roll,Sad,Hectic,Heavy,Non-Veg,North Indian
+Classic Chicken Roll,Tired,Normal,Heavy,Non-Veg,North Indian
+Double Down Burger & Pepsi,Sad,Productive,Heavy,Veg,Fast Food
+2 Double Down Burgers & Fries Meal,Stressed,Productive,Heavy,Veg,Fast Food
+Double Down Burger,Tired,Normal,Heavy,Veg,Fast Food
+Double Down Burger & Popcorn Meal,Tired,Normal,Heavy,Veg,Fast Food
+2 Double Down Burgers,Stressed,Normal,Heavy,Veg,Fast Food
+Gold Edition Chicken Zinger Burger & Fries,Stressed,Productive,Heavy,Non-Veg,Fast Food
+Spicy Zinger Burger,Tired,Lazy,Spicy,Veg,Fast Food
+Spicy Zinger Burger and Popcorn Meal,Stressed,Normal,Spicy,Veg,Fast Food
+Mexican Zinger Pro Pepsi Bottle Combo,Sad,Normal,Heavy,Veg,North Indian
+Paneer Zinger Burger,Happy,Lazy,Heavy,Veg,Fast Food
+Zinger Pro Burger & Popcorn Meal,Sad,Lazy,Heavy,Veg,Fast Food
+Zinger Pro Burger & Chicken Meal,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Burger Buddy Meal,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Gold Edition Veg Zinger Burger,Sad,Lazy,Heavy,Veg,Fast Food
+American Classic Zinger Mojito Combo,Sad,Lazy,Light,Veg,North Indian
+Mixed Chicken Zinger Burger Doubles,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Zinger Burger - Classic with Cheese,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Zinger Burger - Tandoori with Cheese,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Veg Zinger Burger with Cheese,Sad,Lazy,Heavy,Veg,Fast Food
+Chicken Zinger Burger - Classic,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Veg Zinger Burger,Sad,Lazy,Heavy,Veg,Fast Food
+Chicken Zinger Burger - Tandoori,Sad,Lazy,Heavy,Non-Veg,Fast Food
+2 X Chicken Krisper Burgers,Sad,Lazy,Heavy,Non-Veg,Fast Food
+2 X Veg Krisper Burgers,Sad,Lazy,Heavy,Veg,Fast Food
+Spicy Zinger Burger and Chicken Meal,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Zinger Pro Burger,Sad,Lazy,Heavy,Veg,Fast Food
+Chicken Longer Burger & 2 Strips Combo,Sad,Lazy,Heavy,Non-Veg,Fast Food
+All Chicken Box,Sad,Lazy,Light,Non-Veg,North Indian
+Classic Zinger Box,Sad,Lazy,Light,Veg,North Indian
+Rice Box Meal,Sad,Lazy,Light,Veg,North Indian
+Roll Meal Box,Sad,Lazy,Light,Veg,North Indian
+Veg Box Meal,Sad,Lazy,Light,Veg,North Indian
+Veg Partnership Zinger Meal,Sad,Lazy,Light,Veg,North Indian
+Bouncer Roll Popcorn Meal,Sad,Lazy,Light,Veg,North Indian
+Chicken Challengers Meal,Sad,Lazy,Light,Non-Veg,North Indian
+Strips King Popcorn Bucket,Sad,Lazy,Light,Veg,North Indian
+Cricket Crunch Meal,Sad,Lazy,Light,Veg,North Indian
+Dream Team Meal,Sad,Lazy,Light,Veg,North Indian
+Clean Bowled Combo,Sad,Productive,Light,Veg,North Indian
+Super 6s Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Rolls Super Kings,Sad,Lazy,Light,Veg,North Indian
+Green Pitch Meal,Sad,Lazy,Light,Veg,North Indian
+LBW Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Classic Roll Super Kings Meal,Sad,Lazy,Light,Veg,North Indian
+Super Over Meal,Sad,Lazy,Light,Veg,North Indian
+5 Leg Pc & 2 Dips Pepsi Bottle Combo,Sad,Lazy,Light,Veg,North Indian
+Peri Peri Chicken 5 Leg Piece Meal,Sad,Lazy,Light,Non-Veg,North Indian
+Peri Peri 10 Pc Chicken Strips & 2 Dips,Sad,Lazy,Light,Non-Veg,North Indian
+Peri Peri Chicken 5 Leg Piece Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Peri Peri Chicken 10 Leg Pc & 4 Dips,Sad,Lazy,Light,Non-Veg,North Indian
+6 Pc Strips & Pepsi Bottle Combo,Sad,Lazy,Light,Veg,North Indian
+Peri Peri chicken strips - 6 Pc,Sad,Lazy,Light,Non-Veg,North Indian
+House Party Chicken Combo,Sad,Lazy,Light,Non-Veg,North Indian
+Chick n Dip Combo,Sad,Lazy,Light,Veg,North Indian
+Zinger Burger & Chicken Combo,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Gold Chicken Zinger Burger Epic Meal,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Gold Veg Zinger Burger x 2,Sad,Lazy,Heavy,Veg,Fast Food
+Saucy Popcorn Classic Zinger Meal,Sad,Lazy,Light,Veg,North Indian
+Gold Zinger Burger & Saucy Popcorn Meal,Sad,Lazy,Heavy,Veg,Fast Food
+Gold Veg & Paneer Zinger Burger Meal,Sad,Lazy,Heavy,Veg,North Indian
+Trio Zinger Chicken Burgers Deal,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Saucy Popcorn x CarryMinati & Rizz Fizz Meal,Sad,Lazy,Light,Veg,North Indian
+Chicken Bucket for Two,Sad,Lazy,Light,Non-Veg,North Indian
+4 Pc Hot & Crispy Pepsi Bottle Combo,Sad,Lazy,Light,Veg,North Indian
+Chicken Krisper Burger Combo,Sad,Lazy,Heavy,Non-Veg,Fast Food
+Chicken Mingles Bucket Meal,Sad,Lazy,Light,Non-Veg,North Indian
+Classic Roll Mojito Meal,Sad,Lazy,Light,Veg,North Indian
+Chicken Solo Feast,Sad,Lazy,Light,Non-Veg,North Indian
+Chicken Mingles Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Chicken & French Fries Bucket,Sad,Lazy,Light,Non-Veg,Fast Food
+Chicken Popcorn & French Fries Bucket,Sad,Lazy,Light,Non-Veg,Fast Food
+Classic Zinger Pepsi Bottle Combo,Sad,Lazy,Light,Veg,North Indian
+2 X Veg Krispers Burger Meal,Sad,Lazy,Heavy,Veg,Fast Food
+All in One Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Ultimate Savings Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Stay Home Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Big 12 - Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+Big 8 - Chicken Bucket,Sad,Lazy,Light,Non-Veg,North Indian
+HC Rice Bowlz,Sad,Productive,Light,Veg,North Indian
+Smoky Red Chicken Rice Bowl,Sad,Productive,Light,Non-Veg,North Indian
+PC Rice Bowlz,Sad,Productive,Light,Veg,North Indian
+Veg Rice Bowlz,Sad,Productive,Light,Veg,North Indian
+Plain Rice Bowl,Sad,Productive,Light,Veg,North Indian
+Hot & Crispy Chicken - 8 pcs,Sad,Lazy,Light,Non-Veg,North Indian
+Hot & Crispy Chicken -6pc,Sad,Lazy,Light,Non-Veg,North Indian
+Hot & Crispy Chicken-4pc,Sad,Lazy,Light,Non-Veg,North Indian
+Hot & Crispy Chicken -2pc,Sad,Lazy,Light,Non-Veg,North Indian
+Hot Chicken Wings - 4pc,Sad,Lazy,Light,Non-Veg,North Indian
+Hot & Crispy Chicken-1pc,Sad,Lazy,Light,Non-Veg,North Indian
+Saucy Popcorn x CarryMinati,Sad,Lazy,Light,Veg,North Indian
+Chicken Popcorn - Large,Sad,Lazy,Light,Non-Veg,North Indian
+Chicken Popcorn - Medium,Sad,Lazy,Light,Non-Veg,North Indian
+Chicken Popcorn - Regular,Sad,Lazy,Light,Non-Veg,North Indian
+5 Pc Smoky Chicken Mojito Combo,Sad,Lazy,Light,Non-Veg,North Indian
+Smoky Red Grilled Chicken - 5 pc,Sad,Lazy,Light,Non-Veg,North Indian
+Smoky Red Grilled Chicken - 2 pc,Sad,Lazy,Light,Non-Veg,North Indian
+Smoky Red Grilled Chicken - 1 pc,Sad,Lazy,Light,Non-Veg,North Indian
+Peri Peri chicken strips - 3 pc,Sad,Lazy,Light,Non-Veg,North Indian
+Gold Edition Regular Fries,Sad,Lazy,Light,Veg,Fast Food
+2 pc Veg Patty,Sad,Lazy,Light,Veg,North Indian
+Spicy Mix French Fries - Large,Sad,Lazy,Spicy,Veg,Fast Food
+French Fries - Large,Sad,Lazy,Light,Veg,Fast Food
+Spicy Mix French Fries - Medium,Sad,Lazy,Spicy,Veg,Fast Food
+French Fries - Medium,Sad,Lazy,Light,Veg,Fast Food
+Pack of 4 Dips -20gm each,Sad,Lazy,Light,Veg,North Indian
+Pack of 2 Dips-20gm each,Sad,Lazy,Light,Veg,North Indian
+Tandoori Flavour Dip - 20 gm,Sad,Lazy,Light,Veg,North Indian
+7UP RizzFizz,Sad,Lazy,Light,Veg,North Indian
+Virgin Mojito Reusable Bottle,Sad,Lazy,Light,Veg,North Indian
+Masala Pepsi Reusable Bottle,Sad,Lazy,Spicy,Veg,North Indian
+Masala Mirinda Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+Dew Mojito Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+Pepsi Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+7Up Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+Mirinda Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+Mountain Dew Reusable Bottle,Happy,Normal,Light,Veg,Snacks
+Chocolate Lava Cake,Happy,Normal,Sweet,Veg,Dessert
+Choco Mud Pie,Happy,Normal,Light,Veg,Snacks
+Mousse Cake (Coffee flavoured,Happy,Normal,Sweet,Veg,Dessert
+Pepsi PET 475ml,Happy,Normal,Light,Veg,Snacks
+Pepsi Can 300 ml,Happy,Normal,Light,Veg,Snacks
+7UP Can 300 ml,Happy,Normal,Light,Veg,Snacks
+Pepsi Black Can 300 ml,Happy,Normal,Light,Veg,Snacks
+Pepsi 475ml Pet,Happy,Normal,Light,Veg,Snacks
+Mirinda Can 300 ml,Happy,Normal,Light,Veg,Snacks
+Craving Saving meal,Happy,Normal,Light,Veg,Snacks
+Party Bucket Meal,Happy,Normal,Light,Veg,Snacks
+Insta Reel Korean Roll Meal,Happy,Normal,Light,Veg,Snacks
+Night Owl Roll combo,Happy,Normal,Light,Veg,Snacks
+Rice Krunch Bowl Combo,Happy,Normal,Light,Veg,Snacks
+Peri Peri Binge Watch combo,Happy,Normal,Light,Veg,Snacks
+Thai Roll Dream meal,Happy,Normal,Light,Veg,Snacks
+Night Shift Zinger Pro Meal,Happy,Normal,Light,Veg,Snacks
+Rice & Bites combo,Happy,Normal,Light,Veg,Snacks
+Midnight Spicy Zinger & Popcorn Meal,Stressed,Normal,Light,Veg,Snacks
+Gaming Night Korean Roll meal,Happy,Normal,Light,Veg,Snacks
+Lazy BFF Rice combo,Happy,Normal,Light,Veg,Snacks
+Night Bite Veg Roll combo,Happy,Normal,Light,Veg,Snacks
+Still Awake Veg Zinger Meal,Happy,Normal,Light,Veg,Snacks
+Dal Gujarati,Happy,Normal,Light,Veg,Snacks
+Gujarati Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Kathiyawadi Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Punjabi Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Gujarati Dal & Rice Combo,Happy,Normal,Light,Veg,Snacks
+Masala Khichdi Combo,Tired,Normal,Light,Veg,Snacks
+Special Puri Sabji +Butter Milk,Happy,Normal,Light,Veg,Snacks
+Sev Masala,Happy,Normal,Light,Veg,Snacks
+Dahi Tikhari,Happy,Normal,Light,Veg,Snacks
+Aloo Bhindi,Happy,Normal,Light,Veg,Snacks
+Paneer Kadai,Happy,Normal,Heavy,Veg,North Indian
+Bhindi Masala,Happy,Normal,Light,Veg,Snacks
+Kaju Khoya Masala,Happy,Normal,Light,Veg,Snacks
+Paneer Butter Masala,Happy,Normal,Heavy,Veg,North Indian
+Paneer Toofani,Happy,Normal,Heavy,Veg,North Indian
+Cheese Butter Masala,Happy,Normal,Light,Veg,Snacks
+Mattar Paneer,Happy,Normal,Heavy,Veg,North Indian
+Veg Toofani,Happy,Normal,Light,Veg,Snacks
+Paneer Tawa,Happy,Normal,Heavy,Veg,North Indian
+Special Jalaram Paneer,Happy,Normal,Heavy,Veg,North Indian
+Paneer Kadai,Happy,Normal,Heavy,Veg,North Indian
+Bhindi Masala,Happy,Normal,Light,Veg,Snacks
+Kaju Khoya Masala,Happy,Normal,Light,Veg,Snacks
+Kaju Paneer Masala,Happy,Normal,Heavy,Veg,North Indian
+Paneer Butter Masala,Happy,Normal,Heavy,Veg,North Indian
+Paneer Toofani,Happy,Normal,Heavy,Veg,North Indian
+Cheese Butter Masala,Happy,Normal,Light,Veg,Snacks
+Mattar Paneer,Happy,Normal,Heavy,Veg,North Indian
+Veg Toofani,Happy,Normal,Light,Veg,Snacks
+Paneer Tawa,Happy,Normal,Heavy,Veg,North Indian
+Special Jalaram Paneer,Happy,Normal,Heavy,Veg,North Indian
+Paneer Bhurji,Happy,Normal,Heavy,Veg,North Indian
+Veg Handi,Happy,Normal,Light,Veg,Snacks
+Paneer Handi,Happy,Normal,Heavy,Veg,North Indian
+Kaju Khoya Sweet,Happy,Normal,Light,Veg,Dessert
+Chana Masala,Happy,Normal,Light,Veg,Snacks
+Paneer Tikka Masala,Stressed,Normal,Heavy,Veg,North Indian
+Dum Aloo,Happy,Normal,Light,Veg,Snacks
+Veg Makkhanwala,Happy,Normal,Light,Veg,Snacks
+Bhindi Fry,Happy,Normal,Light,Veg,Snacks
+Mix Veg,Happy,Normal,Light,Veg,Snacks
+Paneer Balti,Happy,Normal,Heavy,Veg,North Indian
+Palak Paneer,Happy,Normal,Heavy,Veg,North Indian
+Veg Kadai,Happy,Normal,Light,Veg,Snacks
+Shahi Paneer,Happy,Normal,Heavy,Veg,North Indian
+Special Jalaram Veg,Happy,Normal,Light,Veg,Snacks
+Veg Kolhapuri,Happy,Normal,Light,Veg,Snacks
+Veg Jaipuri,Happy,Normal,Light,Veg,Snacks
+Aloo Palak,Happy,Normal,Light,Veg,Snacks
+Aloo Flower,Happy,Normal,Light,Veg,Snacks
+Mattar Palak,Happy,Normal,Light,Veg,Snacks
+Plain Palak,Happy,Normal,Light,Veg,Snacks
+Veg Shahi Korma,Happy,Normal,Light,Veg,Snacks
+Lasaniya Vagharelo Rotlo,Happy,Normal,Light,Veg,Snacks
+Sev Masala,Happy,Normal,Light,Veg,Snacks
+Sev Tamatar,Happy,Normal,Light,Veg,Snacks
+Baingan Bharta,Happy,Normal,Light,Veg,Snacks
+Dahi Tikhari,Happy,Normal,Light,Veg,Snacks
+Aloo Suki Bhaji,Happy,Normal,Light,Veg,Snacks
+Lasaniya Aloo,Happy,Normal,Light,Veg,Snacks
+Mung Masala,Happy,Normal,Light,Veg,Snacks
+Kaju Gathiya,Happy,Normal,Light,Veg,Snacks
+Onion Sev,Happy,Normal,Light,Veg,Snacks
+Dahi Bhindi,Happy,Normal,Light,Veg,Snacks
+Rajvadi Dhokli Sabji,Happy,Normal,Light,Veg,Snacks
+Aloo Bhindi,Happy,Normal,Light,Veg,Snacks
+Bharela Rigan,Happy,Normal,Light,Veg,Snacks
+Lasaniya Ganthiya,Happy,Normal,Light,Veg,Snacks
+Onion - Potato,Happy,Normal,Light,Veg,Snacks
+Rasila Aloo,Happy,Normal,Light,Veg,Snacks
+Kathod,Happy,Normal,Light,Veg,Snacks
+Aloo Baingan,Happy,Normal,Light,Veg,Snacks
+Jalaram Special Aloo Mattar,Happy,Normal,Light,Veg,Snacks
+Kobij Masala,Happy,Normal,Light,Veg,Snacks
+Hyderabadi Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Veg Pulao (Butter),Happy,Normal,Light,Veg,Snacks
+Vaghareli Khichdi,Tired,Normal,Light,Veg,Snacks
+Plain Khichdi,Tired,Normal,Light,Veg,Snacks
+Handi Khichdi,Tired,Normal,Light,Veg,Snacks
+Rajwadi Khichdi,Tired,Normal,Light,Veg,Snacks
+Jeera Rice,Happy,Normal,Light,Veg,Snacks
+Veg Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Masala Rice,Happy,Normal,Light,Veg,Snacks
+Plain Rice,Happy,Normal,Light,Veg,Snacks
+Veg Pulao (Oil),Happy,Normal,Light,Veg,Snacks
+Tawa Butter Roti,Happy,Normal,Light,Veg,Snacks
+Tawa Plain Roti,Happy,Normal,Light,Veg,Snacks
+Bajri Butter Rotlo,Happy,Normal,Light,Veg,Snacks
+Butter Bhakri,Happy,Normal,Light,Veg,Snacks
+Bajri Plain Rotlo,Happy,Normal,Light,Veg,Snacks
+Plain Bhakri,Happy,Normal,Light,Veg,Snacks
+Butter Paratha,Happy,Productive,Light,Veg,North Indian
+Tawa Paratha Butter,Happy,Productive,Light,Veg,North Indian
+Tawa Paratha Oil,Happy,Productive,Light,Veg,North Indian
+Oil Paratha,Happy,Productive,Light,Veg,North Indian
+Gujarati Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Kathiyawadi Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Punjabi Thali (No Jain),Normal,Hectic,Light,Jain,Snacks
+Punjabi Dal & Rice Combo,Happy,Normal,Light,Veg,Snacks
+Gujarati Dal & Rice Combo,Happy,Normal,Light,Veg,Snacks
+Vegetable Biryani Combo,Happy,Hectic,Heavy,Veg,North Indian
+Masala Khichdi Combo,Tired,Normal,Light,Veg,Snacks
+Plain Khichdi Combo,Tired,Normal,Light,Veg,Snacks
+Dal Fry,Happy,Normal,Light,Veg,Snacks
+Dal Tadka,Happy,Normal,Light,Veg,Snacks
+Dal Palak,Happy,Normal,Light,Veg,Snacks
+Mithi Jain Kadhi,Happy,Normal,Light,Jain,Snacks
+Kathiyawadi Kadhi,Happy,Normal,Light,Veg,Snacks
+Fry Papad,Happy,Normal,Light,Veg,Snacks
+Garlic Chutney,Happy,Normal,Light,Veg,Snacks
+Fry Masala Papad,Happy,Normal,Light,Veg,Snacks
+Roasted Papad,Happy,Normal,Light,Veg,Snacks
+Roasted Masala Papad,Happy,Normal,Light,Veg,Snacks
+Green Salad,Happy,Normal,Light,Veg,Snacks
+Tomato Salad,Happy,Normal,Light,Veg,Snacks
+Ghee + Gor,Happy,Normal,Light,Veg,Snacks
+Gor (Bowl),Happy,Normal,Light,Veg,Snacks
+Special Chhas,Happy,Normal,Light,Veg,Snacks
+Rajwadi Lassi (Sweet),Happy,Normal,Light,Veg,Dessert
+Curd Bowl,Happy,Normal,Light,Veg,Snacks
+Salted Curd,Happy,Normal,Light,Veg,Snacks
+Aloo Paratha,Happy,Productive,Light,Veg,North Indian
+Paneer Paratha,Happy,Productive,Heavy,Veg,North Indian
+Gobi Paratha,Happy,Productive,Light,Veg,North Indian
+Special Dal Bati +Butter Milk,Happy,Normal,Light,Veg,Snacks
+Special Puri Sabji +Butter Milk,Happy,Normal,Light,Veg,Snacks
+Gulab Jamun,Happy,Normal,Light,Veg,Snacks
+Special Rotla Churmo,Happy,Normal,Light,Veg,Snacks
+Chole Bhatoore+ Butter Milk,Happy,Normal,Light,Veg,Snacks
+Special Aloo Mattar Sabji + Tawa Paratha/Fry Paratha (2 Pc) + Salad+Butter Milk,Happy,Productive,Light,Veg,North Indian
+Dal Gujarati,Happy,Normal,Light,Veg,Snacks
+Fix Lunch,Happy,Normal,Light,Veg,Snacks
+Fix Lunch Large,Happy,Normal,Light,Veg,Snacks
+Paneer Butter Masala Thali,Normal,Hectic,Heavy,Veg,North Indian
+Cheese Butter Masala Thali,Normal,Hectic,Light,Veg,Snacks
+Veg. Handi Thali,Normal,Hectic,Light,Veg,Snacks
+Palak Paneer Thali,Normal,Hectic,Heavy,Veg,North Indian
+Cheese Butter Masala Combo,Happy,Normal,Light,Veg,Snacks
+Paneer Handi Combo,Happy,Normal,Heavy,Veg,North Indian
+Palak Paneer Combo,Happy,Normal,Heavy,Veg,North Indian
+Paneer Butter Masala Combo,Happy,Normal,Heavy,Veg,North Indian
+Cholekulcha Combo,Happy,Normal,Light,Veg,Snacks
+Veg Handi Combo,Happy,Normal,Light,Veg,Snacks
+Veg  Kolhapuri (spicy),Stressed,Normal,Light,Veg,Snacks
+Veg  Handi,Happy,Normal,Light,Veg,Snacks
+Veg Kadai,Happy,Normal,Light,Veg,Snacks
+Veg Hariyali  Tawa,Happy,Normal,Light,Veg,Snacks
+Veg  Rajwadi,Happy,Normal,Light,Veg,Snacks
+Chana  Masala,Happy,Normal,Light,Veg,Snacks
+Special Paneer Lababdaar,Happy,Normal,Heavy,Veg,North Indian
+Paneer Butter  Masala,Happy,Normal,Heavy,Veg,North Indian
+Special Paneer Lababdaar,Happy,Normal,Heavy,Veg,North Indian
+Paneer Butter  Masala,Happy,Normal,Heavy,Veg,North Indian
+Paneer Kaju Masala,Happy,Normal,Heavy,Veg,North Indian
+Paneer Bhurji,Happy,Normal,Heavy,Veg,North Indian
+Palak  Paneer,Happy,Normal,Heavy,Veg,North Indian
+Special Paneer Laziz,Happy,Normal,Heavy,Veg,North Indian
+Paneer  Angara (spicy),Stressed,Normal,Heavy,Veg,North Indian
+Paneer  Handi,Happy,Normal,Heavy,Veg,North Indian
+Paneer Do Pyaza,Happy,Normal,Heavy,Veg,North Indian
+Panner Do Pyaza,Happy,Normal,Light,Veg,Snacks
+Veg  Kolhapuri (spicy),Stressed,Normal,Light,Veg,Snacks
+Veg  Handi,Happy,Normal,Light,Veg,Snacks
+Veg Kadai,Happy,Normal,Light,Veg,Snacks
+Veg Hariyali  Tawa,Happy,Normal,Light,Veg,Snacks
+Veg  Rajwadi,Happy,Normal,Light,Veg,Snacks
+Chana  Masala,Happy,Normal,Light,Veg,Snacks
+Veg  Jaipuri,Happy,Normal,Light,Veg,Snacks
+Sev Tomato,Happy,Normal,Light,Veg,Snacks
+Special Hyderabadi Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Matka  Dum Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Special Handi Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Veg Biryani,Happy,Hectic,Heavy,Veg,North Indian
+Veg. Pulav (punjabi),Happy,Normal,Light,Veg,Snacks
+Kadhai Pulav,Happy,Normal,Light,Veg,Snacks
+Hara Bhara Kabab (8pcs),Happy,Normal,Light,Veg,Snacks
+Jeera Rice,Happy,Normal,Light,Veg,Snacks
+Dal Tadka,Happy,Normal,Light,Veg,Snacks
+Dal Palak,Happy,Normal,Light,Veg,Snacks
+Dal Fry,Happy,Normal,Light,Veg,Snacks
+Kaju  Masala,Happy,Normal,Light,Veg,Snacks
+Kaju  Curry,Happy,Normal,Light,Veg,Snacks
+Cheese  Butter Masala,Happy,Normal,Light,Veg,Snacks
+Cheese Afghani,Happy,Normal,Light,Veg,Snacks
+Nargisi  Kofta,Happy,Normal,Light,Veg,Snacks
+Veg Kofta,Happy,Normal,Light,Veg,Snacks
+Dal Khichdi With Curd,Tired,Normal,Light,Veg,Snacks
+Palak Dal Khichdi With Curd,Tired,Normal,Light,Veg,Snacks
+Paneer  Chilly Dry,Happy,Normal,Heavy,Veg,North Indian
+Mushroom Chilly Dry,Happy,Normal,Light,Veg,Snacks
+Manchurian Dry,Happy,Normal,Spicy,Veg,Chinese
+Spring Roll,Happy,Normal,Light,Veg,Snacks
+Veg  Crispy,Happy,Normal,Light,Veg,Snacks
+Veg Lollipop,Happy,Normal,Light,Veg,Snacks
+Paneer Chilly  Gravy,Happy,Normal,Heavy,Veg,North Indian
+Manchurian  Gravy,Happy,Normal,Spicy,Veg,Chinese
+Potato Chilly Dry,Happy,Normal,Light,Veg,Snacks
+Manchurian Noodles,Happy,Normal,Spicy,Veg,Chinese
+Veg. Hakka Noodles,Happy,Normal,Light,Veg,Chinese
+Chilly Garlic Noodles,Happy,Normal,Light,Veg,Chinese
+Schezwan Noodles,Happy,Normal,Light,Veg,Chinese
+Lemon Coriander Soup,Tired,Normal,Light,Veg,Snacks
+Cream Of Tomato Soup,Tired,Normal,Light,Veg,Snacks
+Veg. Clear Soup,Tired,Normal,Light,Veg,Snacks
+Hot And Sour,Happy,Normal,Light,Veg,Snacks
+Veg. Manchow Soup,Tired,Normal,Light,Veg,Snacks
+Manchurian Rice,Happy,Normal,Spicy,Veg,Chinese
+Schezwan Rice,Happy,Normal,Light,Veg,Snacks
+Veg. Fried Rice,Happy,Normal,Light,Veg,Snacks
+Traffic Jam,Happy,Normal,Light,Veg,Snacks
+Chinese Bhel,Happy,Normal,Light,Veg,Snacks
+Paneer Butter Masala Thali,Normal,Hectic,Heavy,Veg,North Indian
+Cheese Butter Masala Thali,Normal,Hectic,Light,Veg,Snacks
+Veg. Handi Thali,Normal,Hectic,Light,Veg,Snacks
+Palak Paneer Thali,Normal,Hectic,Heavy,Veg,North Indian
+Cheese Butter Masala Combo,Happy,Normal,Light,Veg,Snacks
+Chinese Combo,Happy,Normal,Light,Veg,Snacks
+Paneer Handi Combo,Happy,Normal,Heavy,Veg,North Indian
+Palak Paneer Combo,Happy,Normal,Heavy,Veg,North Indian
+Paneer Butter Masala Combo,Happy,Normal,Heavy,Veg,North Indian
+Cholekulcha Combo,Happy,Normal,Light,Veg,Snacks
+Veg Handi Combo,Happy,Normal,Light,Veg,Snacks
+Cheese Butter Masala Meal,Happy,Normal,Light,Veg,Snacks
+Paneer Butter Masala Meal,Happy,Normal,Heavy,Veg,North Indian
+Palak Paneer Meal,Happy,Normal,Heavy,Veg,North Indian
+Veg Handi Meal,Happy,Normal,Light,Veg,Snacks
+Chole Meal,Happy,Normal,Light,Veg,Snacks
+Fix Lunch,Happy,Normal,Light,Veg,Snacks
+Fix Lunch Large,Happy,Normal,Light,Veg,Snacks
+Tandoori Roti,Happy,Normal,Light,Veg,Snacks
+Chappati (wheat),Happy,Normal,Light,Veg,Snacks
+Tandoori Naan,Happy,Normal,Light,Veg,Snacks
+Cheese Naan,Happy,Normal,Light,Veg,Snacks
+Garlic Naan,Happy,Normal,Light,Veg,Snacks
+Tandoori Kulcha,Happy,Normal,Light,Veg,Snacks
+Butter Milk,Happy,Normal,Light,Veg,Snacks
+Veg Raita,Happy,Normal,Light,Veg,Snacks
+Gulab Jamun (2 Pcs),Happy,Normal,Light,Veg,Snacks
+Bundi Raita,Happy,Normal,Light,Veg,Snacks
+Roasted Papd,Happy,Normal,Light,Veg,Snacks
+Green Pudina Chutney,Happy,Normal,Light,Veg,Snacks
+Fry Papad,Happy,Normal,Light,Veg,Snacks
+Pavbhaji (non Jain),Happy,Normal,Light,Jain,Snacks
+Only Bhaji (non Jain),Happy,Normal,Light,Jain,Snacks
+Extra Pav,Happy,Normal,Light,Veg,Snacks
+French Fries,Happy,Normal,Light,Veg,Snacks
+Baked Macroni With Pineapple,Happy,Normal,Light,Veg,Snacks
+Baked Macroni,Happy,Normal,Light,Veg,Snacks
+Fix Dinner Large,Happy,Normal,Light,Veg,Snacks
+Fix Dinner,Happy,Normal,Light,Veg,Snacks
+Kaju Katli - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Mix Bites - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Mohanthal - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Anjeer Roll - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Kaju Katli Premium,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli Premium,Happy,Normal,Light,Veg,Snacks
+Kesar Mohanthal,Happy,Normal,Light,Veg,Snacks
+Mohanthal,Happy,Normal,Light,Veg,Snacks
+Boondi Laddu,Happy,Normal,Light,Veg,Snacks
+Motichur Laddu,Happy,Normal,Light,Veg,Snacks
+Kopra Pak,Happy,Normal,Light,Veg,Snacks
+Soanpapdi,Happy,Normal,Light,Veg,Snacks
+Kaju Katli,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli,Happy,Normal,Light,Veg,Snacks
+Kaju Mix Mithai,Happy,Normal,Light,Veg,Snacks
+Kaju Mix Sweets,Happy,Normal,Light,Veg,Dessert
+Mix Bites,Happy,Normal,Light,Veg,Snacks
+Milk Cake,Happy,Normal,Sweet,Veg,Dessert
+Dudh Halwa,Happy,Normal,Light,Veg,Snacks
+Kesar Mohanthal,Happy,Normal,Light,Veg,Snacks
+Mohanthal,Happy,Normal,Light,Veg,Snacks
+Boondi Laddu,Happy,Normal,Light,Veg,Snacks
+Mathura Peda,Happy,Normal,Light,Veg,Snacks
+Mava Mix Mithai,Happy,Normal,Light,Veg,Snacks
+Motichur Laddu,Happy,Normal,Light,Veg,Snacks
+Mysore,Happy,Normal,Light,Veg,Snacks
+Kaju Mysore,Happy,Normal,Light,Veg,Snacks
+Safed Peda,Happy,Normal,Light,Veg,Snacks
+Kopra Pak,Happy,Normal,Light,Veg,Snacks
+Halwasan Pak,Happy,Normal,Light,Veg,Snacks
+Ghee Mix Mithai,Happy,Normal,Light,Veg,Snacks
+Magas Laddu,Happy,Normal,Light,Veg,Snacks
+Malai Peda,Happy,Normal,Light,Veg,Snacks
+Soanpapdi,Happy,Normal,Light,Veg,Snacks
+Khari Puri,Happy,Normal,Light,Veg,Snacks
+Farsipuri,Happy,Normal,Light,Veg,Snacks
+Fulvadi,Happy,Normal,Light,Veg,Snacks
+Farali Tikha Chivda,Happy,Normal,Light,Veg,Snacks
+Banana Wafer,Happy,Normal,Light,Veg,Snacks
+Mix Chavana,Happy,Normal,Light,Veg,Snacks
+Farali Mola Chivda,Happy,Normal,Light,Veg,Snacks
+Jadi Sev,Happy,Normal,Light,Veg,Snacks
+Dry Fruit Kachori,Happy,Normal,Light,Veg,Snacks
+Champakali Ganthiya,Happy,Normal,Light,Veg,Snacks
+Shakkarpara,Happy,Normal,Light,Veg,Snacks
+Potato Wafer,Happy,Normal,Light,Veg,Snacks
+Mini Bhakharwadi,Happy,Normal,Light,Veg,Snacks
+Rajwadi Dalmoth,Happy,Normal,Light,Veg,Snacks
+Chakri,Happy,Normal,Light,Veg,Snacks
+Potato Tikhi Wafer,Happy,Normal,Light,Veg,Snacks
+Khatta Mitha Chavana,Happy,Normal,Light,Veg,Snacks
+Indori Mixer,Happy,Normal,Light,Veg,Snacks
+Banana Tikhi Wafer,Happy,Normal,Light,Veg,Snacks
+Pauva Tikha Chivda,Happy,Normal,Light,Veg,Snacks
+Chatpata Con,Happy,Normal,Light,Veg,Snacks
+Bhakharwadi,Happy,Normal,Light,Veg,Snacks
+Papad Chivda,Happy,Normal,Light,Veg,Snacks
+Makai Chivda,Happy,Normal,Light,Veg,Snacks
+Bikaneri Sev,Happy,Normal,Light,Veg,Snacks
+Sing Bhujia,Happy,Normal,Light,Veg,Snacks
+Mini Ganthiya,Happy,Normal,Light,Veg,Snacks
+Mogar Dal,Happy,Normal,Light,Veg,Snacks
+Bhelpuri,Happy,Normal,Light,Veg,Snacks
+Ratlami Sev,Happy,Normal,Light,Veg,Snacks
+Bhadran Mag,Happy,Normal,Light,Veg,Snacks
+Ghehu Chivda,Happy,Normal,Light,Veg,Snacks
+2 Number Sev,Happy,Normal,Light,Veg,Snacks
+Soya Sticks,Happy,Normal,Light,Veg,Snacks
+Mamri,Happy,Normal,Light,Veg,Snacks
+Chana Jor Garam,Happy,Normal,Light,Veg,Snacks
+Nylon Sev,Happy,Normal,Light,Veg,Snacks
+Chana Dal,Happy,Normal,Light,Veg,Snacks
+Pauva Mola Chivda,Happy,Normal,Light,Veg,Snacks
+Jodhpuri Mixer,Happy,Normal,Light,Veg,Snacks
+Sadi Dalmoth,Happy,Normal,Light,Veg,Snacks
+Kaju Katli,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli,Happy,Normal,Light,Veg,Snacks
+Kaju Mix Mithai,Happy,Normal,Light,Veg,Snacks
+Kaju Mix Sweets,Happy,Normal,Light,Veg,Dessert
+Gulkand Katori,Happy,Normal,Light,Veg,Snacks
+Indrani,Happy,Normal,Light,Veg,Snacks
+Wonder Fig,Happy,Normal,Light,Veg,Snacks
+Kaju Kalash,Happy,Normal,Light,Veg,Snacks
+Chandrakali,Happy,Normal,Light,Veg,Snacks
+Anjeer Dryfruit Cake,Happy,Normal,Sweet,Veg,Dessert
+Kaju Sitafal,Happy,Normal,Light,Veg,Snacks
+Anjeer Dryfruit Halwa,Happy,Normal,Light,Veg,Snacks
+Pista Ghari,Happy,Normal,Light,Veg,Snacks
+Milk Cake,Happy,Normal,Sweet,Veg,Dessert
+Dudh Halwa,Happy,Normal,Light,Veg,Snacks
+Mumbai Halwa,Happy,Normal,Light,Veg,Snacks
+Badam Dryfruit Halwa,Happy,Normal,Light,Veg,Snacks
+Galefa,Happy,Normal,Light,Veg,Snacks
+Dudhi Halwa,Happy,Normal,Light,Veg,Snacks
+Chiku Halwa,Happy,Normal,Light,Veg,Snacks
+Mix Bites,Happy,Normal,Light,Veg,Snacks
+Mix Fruit Bites,Happy,Normal,Light,Veg,Snacks
+Butterscotch Bites,Happy,Normal,Light,Veg,Snacks
+Orange Bites,Happy,Normal,Light,Veg,Snacks
+Walnut Bites,Happy,Normal,Light,Veg,Snacks
+Rose Bites,Happy,Normal,Light,Veg,Snacks
+Strawberry Bites,Happy,Normal,Light,Veg,Snacks
+Mango Bites,Happy,Normal,Light,Veg,Snacks
+Fig Fiesta,Happy,Normal,Light,Veg,Snacks
+Date Excellence,Happy,Normal,Light,Veg,Snacks
+Shahi Gulab Bites,Happy,Normal,Light,Veg,Snacks
+Kaju Katli Premium,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli Premium,Happy,Normal,Light,Veg,Snacks
+Rasgulla Tin,Happy,Normal,Light,Veg,Snacks
+Gulab Jamun Tin,Happy,Normal,Light,Veg,Snacks
+Choco Swiss Barfi,Happy,Normal,Light,Veg,Snacks
+Anjeer Burfi,Happy,Normal,Light,Veg,Snacks
+Akhrot Burfi,Happy,Normal,Light,Veg,Snacks
+Danadar Barfi,Happy,Normal,Light,Veg,Snacks
+Safed Burfi,Happy,Normal,Light,Veg,Snacks
+Kaju Katli - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Mix Bites - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Mohanthal - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Kesar Kaju Katli - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks
+Anjeer Roll - Diwali Gifts Pack,Happy,Normal,Light,Veg,Snacks

@@ -4,6 +4,7 @@ import axios from 'axios';
 import { useAuth } from '../context/AuthContext';
 import Navbar from '../components/Navbar';
 import RecommendationsList from '../components/RecommendationsList';
+import RestaurantDetails from './RestaurantDetails';
 import FilterForm from './FilterForm';
 import SearchPage from './SearchPage';
 import Analytics from './Analytics';
@@ -17,6 +18,7 @@ function MainPage() {
     const [recommendations, setRecommendation] = useState(null);
     const [formDataCache, setFormDataCache] = useState(null);
     const [currentView, setCurrentView] = useState("form")
+    const [detailsContext, setDetailsContext] = useState(null);
 
     function handleRecommend(formData) {
         formData.email = user?.email || "testuser1@example.com"; // Use authenticated user's email
@@ -44,6 +46,11 @@ function MainPage() {
 
     const handleBackToForm = () => {
         setCurrentView("form")
+    }
+
+    const handleViewRestaurant = (restaurantName, predictedCategory, formData) => {
+        setDetailsContext({ restaurantName, predictedCategory, formData });
+        setCurrentView('restaurantDetails');
     }
 
     return (
@@ -99,7 +106,22 @@ function MainPage() {
                 {activeTab === 'recommend' &&
                     (<>
                         {currentView === 'form' && <FilterForm onRecommend={handleRecommend} />}
-                        {recommendations && currentView === 'recommendations' && <RecommendationsList recommendData={recommendations} formData={formDataCache} onBack={handleBackToForm} />}
+                        {recommendations && currentView === 'recommendations' && (
+                            <RecommendationsList
+                                recommendData={recommendations}
+                                formData={formDataCache}
+                                onBack={handleBackToForm}
+                                onViewRestaurant={handleViewRestaurant}
+                            />
+                        )}
+                        {detailsContext && currentView === 'restaurantDetails' && (
+                            <RestaurantDetails
+                                restaurantName={detailsContext.restaurantName}
+                                predictedCategory={detailsContext.predictedCategory}
+                                formData={detailsContext.formData}
+                                onBack={() => setCurrentView('recommendations')}
+                            />
+                        )}
                     </>)
                 }
                 {activeTab === 'search' && <SearchPage />}

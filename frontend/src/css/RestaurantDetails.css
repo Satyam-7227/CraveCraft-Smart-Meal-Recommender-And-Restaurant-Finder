@@ -1,0 +1,264 @@
+.restaurant-details-page {
+    /* padding: 1rem; */
+}
+
+.find-restaurants-button.order-now-button {
+    padding: 5px 15px !important;
+}
+
+.restaurant-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 550px) {
+    .restaurant-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+.restaurant-title {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #111827;
+}
+
+.predicted-area {
+    margin-bottom: 0.75rem;
+    color: #6b7280;
+}
+
+.info-text {
+    color: #374151;
+}
+
+.error-text {
+    color: #b91c1c;
+    margin-bottom: 0.75rem;
+}
+
+.success-text {
+    color: #166534;
+    margin-top: 0.5rem;
+}
+
+.external-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #111827;
+    text-decoration: none;
+}
+
+.external-link:hover {
+    text-decoration: underline;
+}
+
+.restaurant-hero {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e5e7eb;
+    padding: 1rem;
+}
+
+.restaurant-hero-image {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+}
+
+.restaurant-hero-info {
+    flex: 1;
+}
+
+.hero-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #111827;
+}
+
+.hero-line {
+    margin-top: 0.375rem;
+    color: #374151;
+}
+
+.menu-search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+
+.menu-search-input {
+    flex: 1;
+    padding: 0.625rem 0.75rem;
+    border-radius: 0.5rem;
+    border: 1px solid #e5e7eb;
+    background-color: #fff;
+    margin: 0px !important;
+    font-family: 'Inter', sans-serif;
+}
+
+.menu-search-input:focus {
+    outline: none;
+    border-color: #c7d2fe;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(260px, 1fr));
+    gap: 0.75rem;
+}
+
+.menu-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 0.5rem;
+    background: white;
+    transition: box-shadow 0.2s ease, transform 0.05s ease;
+}
+
+.menu-card-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem;
+}
+
+.menu-card-info {
+    min-width: 0;
+}
+
+.menu-card-title {
+    font-weight: 600;
+    color: #111827;
+}
+
+.menu-card-desc {
+    color: #6b7280;
+    margin-top: 0.25rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.menu-card-price {
+    margin-top: 0.375rem;
+    color: #111827;
+    font-weight: 500;
+}
+
+.menu-card-actions {
+}
+
+.like-button.add-button {
+    width: 100% !important;
+    justify-content: center !important;
+}
+
+.menu-card-thumb {
+    width: 72px;
+    height: 72px;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin-bottom: 0.5rem;
+}
+
+.menu-card-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.menu-card:hover {
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05);
+}
+
+.menu-card-actions .like-button,
+.menu-card-actions .dislike-button {
+    padding: 0.4rem 0.8rem;
+}
+
+.restaurant-sticky-footer {
+    position: sticky;
+    bottom: 0;
+    background: #fff;
+    padding: 0.75rem;
+    border-top: 1px solid #e5e7eb;
+    margin-top: 1rem;
+    box-shadow: 0 -4px 8px -6px rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.selected-dishes {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.selected-pill {
+    background: #f3f4f6;
+    border-radius: 9999px;
+    padding: 0.375rem 0.625rem;
+    display: inline-flex;
+    align-items: center;
+}
+
+.pill-remove {
+    margin-left: 0.5rem;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    color: #6b7280;
+}
+
+.pill-remove:hover {
+    color: #111827;
+}
+
+.footer-actions {
+    display: flex;
+    gap: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .menu-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .restaurant-hero {
+        flex-direction: column;
+    }
+
+    .restaurant-hero-image {
+        width: 100%;
+        height: 200px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .restaurant-title {
+        font-size: 1.5rem;
+    }
+}
+
+
