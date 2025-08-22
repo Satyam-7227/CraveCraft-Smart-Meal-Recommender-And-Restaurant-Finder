@@ -82,9 +82,9 @@ function Register() {
                                 <path d="M5 15L5.5 17L7.5 17.5L5.5 18L5 20L4.5 18L2.5 17.5L4.5 17L5 15Z" fill="currentColor"></path>
                             </svg>
                         </span>
-                        <span className="auth-logo-text">Smart Meal</span>
+                        <span className="auth-logo-text">CraveCraft</span>
                     </div>
-                    <h1 className="auth-title">Create your account</h1>
+                    {/* <h1 className="auth-title">Create your account</h1> */}
                     <p className="auth-subtitle">Join us to discover amazing meals</p>
                 </div>
 
