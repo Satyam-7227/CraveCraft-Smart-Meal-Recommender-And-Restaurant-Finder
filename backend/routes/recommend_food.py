@@ -70,24 +70,142 @@ def recommend():
     model_dir = f"data_stored/personal_models/{user_id}" if user_id else None
 
     personal_dish = None
+    personal_dishes = []  # For multiple dish predictions
     if model_dir and os.path.exists(f"{model_dir}/model.pkl"):
         try:
-            # input_data.append(data['timeNeed'])
             personal_model = joblib.load(f"{model_dir}/model.pkl")
             personal_encoders = joblib.load(f"{model_dir}/encoders.pkl")
             personal_target_encoder = joblib.load(f"{model_dir}/target_encoder.pkl")
 
-            personal_prediction = personal_model.predict([encoded_input])
-            personal_dish = personal_target_encoder.inverse_transform(personal_prediction)[0]
-            print("predicted dish",personal_dish)
+            # Create input data in the EXACT same order as training
+            personal_input_data = [
+                data['mood'],
+                data['dayStatus'], 
+                data['craving'],
+                data['diet'],
+                data['timeNeed'],
+                data['cuisines'][0] if isinstance(data['cuisines'], list) else data['cuisines']
+            ]
+            
+            print(f"Personal model input data: {personal_input_data}")
+            
+            # Encode input data using personal model encoders
+            personal_encoded_input = []
+            for i, col in enumerate(['mood', 'dayStatus', 'craving', 'diet', 'timeNeed', 'cuisines']):
+                try:
+                    encoded_value = personal_encoders[col].transform([personal_input_data[i]])[0]
+                    personal_encoded_input.append(encoded_value)
+                    print(f"Encoded {col}: {personal_input_data[i]} -> {encoded_value}")
+                except (ValueError, KeyError) as e:
+                    # Handle unseen categories by using the first known category
+                    personal_encoded_input.append(0)
+                    print(f"Error encoding {col}: {e}, using default value 0")
+            
+            print(f"Personal model encoded input: {personal_encoded_input}")
+
+            # Get prediction probabilities for top dishes
+            prediction_probs = personal_model.predict_proba([personal_encoded_input])[0]
+            
+            # Get top 3 dish predictions with confidence > 10%
+            top_indices = prediction_probs.argsort()[-3:][::-1]
+            top_dishes = []
+            
+            for idx in top_indices:
+                dish_name = personal_target_encoder.inverse_transform([idx])[0]
+                confidence = prediction_probs[idx] * 100
+                if confidence > 10:  # Only include dishes with >10% confidence
+                    top_dishes.append({
+                        'dish': dish_name,
+                        'confidence': confidence
+                    })
+            
+            if top_dishes:
+                personal_dish = top_dishes[0]['dish']  # Primary prediction
+                personal_dishes = top_dishes  # All top predictions
+                print(f"Personal model predicted: {personal_dish} (confidence: {top_dishes[0]['confidence']:.1f}%)")
+                if len(top_dishes) > 1:
+                    print(f"Other predictions: {[d['dish'] for d in top_dishes[1:]]}")
+                    
         except Exception as e:
             print("Error in personal model prediction:", str(e))
+            personal_dish = None
+            personal_dishes = []
+
+    # Create separate restaurant lists for each model type
+    general_restaurants = top_matches  # Keep the original general category restaurants
+    personal_restaurants = []
+    
+    if personal_dish:
+        # Personal ML Model: Filter restaurants by predicted dish or similar dishes
+        print(f"Filtering restaurants for personal dish: {personal_dish}")
+        
+        try:
+            # Search for restaurants with the exact predicted dish
+            exact_matched_dishes = menu_data.find({"Menu Item": {"$regex": re.escape(personal_dish), "$options": "i"}})
+            exact_restaurants = list({r["Restaurant"] for r in exact_matched_dishes})
+            print(f"Found {len(exact_restaurants)} restaurants with exact dish match")
+            
+            # Search for restaurants with similar dishes (using keywords from predicted dish)
+            # Extract key words from dish name (remove common words like "Coffee", "Pack", etc.)
+            dish_keywords = personal_dish.lower().split()
+            # Filter out common words
+            common_words = ['coffee', 'pack', 'ml', 'box', 'bite', 'sized', 'donuts', 'premium', 'bestseller', 'grams', '250', '500']
+            keywords = [word for word in dish_keywords if word not in common_words and len(word) > 2]
+            print(f"Extracted keywords for similar search: {keywords}")
+            
+            similar_restaurants = []
+            if keywords:
+                # Search for restaurants with similar keywords
+                for keyword in keywords:
+                    try:
+                        # Escape special regex characters in the keyword
+                        escaped_keyword = re.escape(keyword)
+                        similar_dishes = menu_data.find({"Menu Item": {"$regex": escaped_keyword, "$options": "i"}})
+                        keyword_restaurants = [r["Restaurant"] for r in similar_dishes]
+                        similar_restaurants.extend(keyword_restaurants)
+                        print(f"Keyword '{keyword}' found {len(keyword_restaurants)} restaurants")
+                    except Exception as e:
+                        print(f"Error searching for keyword '{keyword}': {e}")
+                        continue
+            
+            # Combine and get unique restaurants
+            all_personal_restaurants = list(set(exact_restaurants + similar_restaurants))
+            print(f"Total unique restaurants found: {len(all_personal_restaurants)}")
+            
+            if all_personal_restaurants:
+                # Get restaurant details for personal recommendations
+                personal_restaurant_data = restaurant_data.find({"Name": {"$in": all_personal_restaurants}})
+                sorted_personal_restaurants = sorted(personal_restaurant_data, key=lambda r: float(r.get("Rating & Time","0").split(" ")[0]) if r.get("Rating & Time") else 0, reverse=True)
+                
+                # Create personal restaurant list
+                for res in sorted_personal_restaurants[:10]:
+                    personal_restaurants.append({
+                        "restaurantName": res.get("Name","N/A"),
+                        "location": res.get("Location", "N/A"),
+                        "ratingTime": res.get("Rating & Time","N/A"),
+                        "category": res.get("Category", "N/A"),
+                        "image": res.get("Image URL", "N/A"),
+                        "offer": res.get("Offer", "N/A"),
+                        "link": res.get("Link", "N/A")
+                    })
+                print(f"Successfully found {len(personal_restaurants)} restaurants for personal dish: {personal_dish}")
+            else:
+                print(f"No restaurants found for personal dish: {personal_dish}")
+                
+        except Exception as e:
+            print(f"Error in personal restaurant filtering: {e}")
+    else:
+        print(f"No personal dish predicted, only general category recommendations available")
+    
+    print(f"General restaurants: {len(general_restaurants)}, Personal restaurants: {len(personal_restaurants)}")
 
     return jsonify({
         'dish': predicted_category,  # Now returns the predicted category instead of specific dish
         'confidence': confidence,
-        'recommendation': top_matches,
-        'personalDish': personal_dish,
+        'generalRestaurants': general_restaurants,  # Restaurants for general ML model (category-based)
+        'personalRestaurants': personal_restaurants,  # Restaurants for personal ML model (dish-based)
+        'personalDish': personal_dish,  # Primary personal dish prediction
+        'personalDishes': personal_dishes,  # All personal dish predictions with confidence
         'predictedCategory': predicted_category,  # Additional field for clarity
         # 'category': data['cuisines'][0],
         # 'description': 'Based on your mood and preference',

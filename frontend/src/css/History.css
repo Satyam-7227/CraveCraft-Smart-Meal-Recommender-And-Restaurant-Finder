@@ -3,66 +3,84 @@
     min-height: 100vh;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     padding: 2rem;
-    font-family: 'Inter', sans-serif;
+    font-family: "Inter", sans-serif;
 }
 
 /* Header Section */
 .history-header {
     max-width: 1200px;
     margin: 0 auto 2rem auto;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+    border-radius: 1.5rem;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     gap: 2rem;
-    padding: 2rem;
-    background: white;
-    border-radius: 1rem;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-    border: 1px solid #e2e8f0;
+}
+
+.header-content {
+    flex: 1;
 }
 
 .header-content h1 {
     font-size: 2rem;
-    font-weight: 700;
+    /* font-weight: 800; */
     color: #1a202c;
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 1rem 0;
     background: linear-gradient(135deg, #1a202c 0%, #4a5568 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    letter-spacing: -0.025em;
 }
 
 .header-content p {
     color: #64748b;
-    font-size: 1rem;
+    font-size: 1.125rem;
     margin: 0;
+    font-weight: 500;
 }
 
 /* Stats Cards */
 .history-stats {
     display: flex;
-    gap: 1rem;
+    justify-content: flex-end;
+    flex-shrink: 0;
 }
 
 .stat-card {
     background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
     color: white;
-    padding: 1.5rem;
-    border-radius: 0.75rem;
+    padding: 1rem 1.5rem;
+    border-radius: 1rem;
     text-align: center;
-    min-width: 120px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    min-width: 160px;
+    box-shadow: 0 10px 25px -5px rgba(245, 158, 11, 0.3);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    transition: all 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 20px 35px -10px rgba(245, 158, 11, 0.4);
 }
 
 .stat-number {
     font-size: 2rem;
-    font-weight: 700;
-    margin-bottom: 0.25rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .stat-label {
-    font-size: 0.875rem;
-    opacity: 0.9;
+    font-size: 1rem;
+    font-weight: 600;
+    opacity: 0.95;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 /* Loading State */
@@ -183,6 +201,9 @@
     border: 1px solid #e2e8f0;
     overflow: hidden;
     transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
 }
 
 .history-card:hover {
@@ -190,25 +211,18 @@
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
 
-/* Card Header */
+/* Completely restructured card header for better visual hierarchy */
 .card-header {
     padding: 1.5rem;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     border-bottom: 1px solid #e2e8f0;
+}
+
+.restaurant-row {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-}
-
-.dish-info {
-    flex: 1;
-}
-
-.dish-name {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #1a202c;
-    margin: 0 0 0.5rem 0;
+    align-items: center;
+    margin: 1rem 0;
 }
 
 .restaurant-name {
@@ -217,10 +231,67 @@
     gap: 0.5rem;
     color: #64748b;
     font-size: 0.875rem;
+    flex: 1;
+    font-weight: 700;
+    color: #111827;
+    /* line-height: 1.3; */
+    font-family: 'Inter', sans-serif;
+}
+
+.mood-indicator {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: linear-gradient(135deg, #f3f4f6, #e5e7eb);
+    padding: 0.5rem 0.75rem;
+    border-radius: 20px;
+    border: 1px solid #d1d5db;
+    white-space: nowrap;
+    margin-left: auto;
+}
+
+/* New top row for dish info and mood indicator */
+.header-top-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+/* New bottom row for restaurant and feedback */
+.header-bottom-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid rgba(226, 232, 240, 0.5);
+}
+
+.restaurant-feedback-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+}
+
+.dish-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.dish-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1a202c;
+    margin: 0 0 0.5rem 0;
+    word-wrap: break-word;
+    line-height: 1.3;
 }
 
 .restaurant-icon {
     font-size: 1rem;
+    flex-shrink: 0;
 }
 
 .no-restaurant {
@@ -228,6 +299,7 @@
     font-style: italic;
 }
 
+/* Improved mood indicator positioning and styling */
 .mood-indicator {
     display: flex;
     flex-direction: column;
@@ -235,36 +307,48 @@
     gap: 0.25rem;
     padding: 0.5rem;
     background: white;
-    border-radius: 0.5rem;
+    border-radius: 0.75rem;
     border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    min-width: 70px;
 }
 
 .mood-emoji {
     font-size: 1.5rem;
+    line-height: 1;
 }
 
 .mood-text {
     font-size: 0.75rem;
     color: #64748b;
     font-weight: 500;
+    text-align: center;
 }
 
-/* Add these styles for feedback badges */
-
+/* Improved feedback badge styling and positioning */
 .dish-feedback {
-    margin-top: 0.5rem;
+    margin: 0;
+    flex-shrink: 0;
 }
 
 .feedback-badge {
     display: inline-flex;
     align-items: center;
-    gap: 0.25rem;
-    padding: 0.25rem 0.75rem;
-    border-radius: 1rem;
+    gap: 0.375rem;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.025em;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.feedback-badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.15);
 }
 
 .feedback-badge.like {
@@ -290,8 +374,10 @@
 /* Card Content */
 .card-content {
     padding: 1.5rem;
+    flex: 1;
 }
 
+/* Improved preferences grid with consistent heights */
 .preferences-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -302,39 +388,52 @@
 .preference-item {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    gap: 0.5rem;
     padding: 0.75rem;
     background: #f8fafc;
-    border-radius: 0.5rem;
+    border-radius: 0.75rem;
     border: 1px solid #e2e8f0;
+    transition: all 0.2s ease;
+    min-height: 60px;
+}
+
+.preference-item:hover {
+    background: #f1f5f9;
+    border-color: #cbd5e1;
 }
 
 .preference-icon {
     font-size: 1.25rem;
     flex-shrink: 0;
+    color: #64748b;
 }
 
 .preference-details {
     display: flex;
     flex-direction: column;
     gap: 0.25rem;
+    flex: 1;
+    min-width: 0;
 }
 
 .preference-label {
     font-size: 0.75rem;
     color: #64748b;
     font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
 }
 
 .preference-value {
     font-size: 0.875rem;
     color: #1a202c;
     font-weight: 600;
+    word-wrap: break-word;
 }
 
 /* Cuisines Section */
 .cuisines-section {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .cuisines-label {
@@ -342,7 +441,9 @@
     font-size: 0.875rem;
     color: #64748b;
     font-weight: 500;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
 }
 
 .cuisine-tags {
@@ -352,12 +453,19 @@
 }
 
 .cuisine-tag {
-    padding: 0.25rem 0.75rem;
+    padding: 0.375rem 0.875rem;
     background: #f59e0b;
     color: white;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     font-size: 0.75rem;
     font-weight: 500;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease;
+}
+
+.cuisine-tag:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.15);
 }
 
 .no-cuisines {
@@ -370,21 +478,30 @@
 .location-section {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem;
+    gap: 0.75rem;
+    padding: 1rem;
     background: #f0f9ff;
-    border-radius: 0.5rem;
+    border-radius: 0.75rem;
     border: 1px solid #bae6fd;
+    transition: all 0.2s ease;
+}
+
+.location-section:hover {
+    background: #e0f2fe;
+    border-color: #7dd3fc;
 }
 
 .location-icon {
-    font-size: 1rem;
+    font-size: 1.125rem;
+    color: #0369a1;
+    flex-shrink: 0;
 }
 
-.location-text {
+.location-text.history-location-text {
     font-size: 0.875rem;
     color: #0369a1;
     font-weight: 500;
+    word-wrap: break-word;
 }
 
 /* Card Footer */
@@ -392,6 +509,7 @@
     padding: 1rem 1.5rem;
     background: #f8fafc;
     border-top: 1px solid #e2e8f0;
+    margin-top: auto;
 }
 
 .timestamp {
@@ -404,12 +522,82 @@
 
 .timestamp-icon {
     font-size: 1rem;
+    flex-shrink: 0;
 }
 
 /* Animations */
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+/* Dish Type Badges */
+.dish-type-badge {
+    display: inline-block;
+    padding: 0.375rem 0.875rem;
+    border-radius: 1.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 0.5rem;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+}
+
+.dish-type-badge.single {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    color: white;
+}
+
+.dish-type-badge.multiple {
+    background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    color: white;
+}
+
+.dish-type-badge.none {
+    background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
+    color: white;
+}
+
+/* Selected Dishes List */
+.selected-dishes-list {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.selected-dish-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    background: rgba(139, 92, 246, 0.1);
+    border-radius: 0.75rem;
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    transition: all 0.2s ease;
+}
+
+.selected-dish-item:hover {
+    background: rgba(139, 92, 246, 0.15);
+    border-color: rgba(139, 92, 246, 0.3);
+}
+
+.dish-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+.dish-text {
+    font-size: 0.875rem;
+    color: #374151;
+    font-weight: 500;
+    word-wrap: break-word;
 }
 
 /* Responsive Design */
@@ -417,77 +605,133 @@
     .history-container {
         padding: 1rem;
     }
-    
+
     .history-header {
         flex-direction: column;
-        gap: 1rem;
-        padding: 1.5rem;
+        text-align: center;
+        gap: 1.5rem;
+        padding: 2rem;
     }
     
+    .header-content h1 {
+        font-size: 2rem;
+    }
+    
+    .header-content p {
+        font-size: 1rem;
+    }
+    
+    .stat-card {
+        padding: 1.5rem 2rem;
+        min-width: 140px;
+    }
+    
+    .stat-number {
+        font-size: 2.5rem;
+    }
+
     .history-stats {
         width: 100%;
         justify-content: space-between;
     }
-    
+
     .stat-card {
         flex: 1;
         min-width: auto;
+        padding: 1rem;
     }
-    
+
     .history-grid {
         grid-template-columns: 1fr;
         gap: 1rem;
     }
-    
+
     .preferences-grid {
         grid-template-columns: 1fr;
     }
-    
-    .card-header {
-        /* flex-direction: column; */
+
+    .header-top-row {
+        flex-direction: column;
+        align-items: stretch;
         gap: 1rem;
-        align-items: flex-start;
     }
-    
+
     .mood-indicator {
-        align-self: flex-end;
+        align-self: center;
+        min-width: 100px;
+    }
+
+    .header-bottom-row {
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .restaurant-feedback-group {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.75rem;
+        flex: 1;
+    }
+
+    .restaurant-name {
+        justify-content: flex-start;
+    }
+
+    .dish-feedback {
+        align-self: flex-start;
     }
 }
 
 @media (max-width: 480px) {
     .history-header {
-        padding: 1rem;
+        padding: 1.5rem;
     }
     
     .header-content h1 {
-        font-size: 1.5rem;
+        font-size: 1.75rem;
+    }
+    
+    .stat-card {
+        padding: 1.25rem 1.75rem;
+        min-width: 120px;
     }
     
     .stat-number {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     
+    .stat-label {
+        font-size: 0.875rem;
+    }
+
     .card-content {
         padding: 1rem;
     }
-    
+
     .card-header {
         padding: 1rem;
     }
-}
 
-/* Responsive adjustments for feedback badges */
-@media (max-width: 768px) {
     .feedback-badge {
-        padding: 0.2rem 0.6rem;
+        padding: 0.375rem 0.75rem;
         font-size: 0.7rem;
     }
-    
+
     .feedback-icon {
         font-size: 0.8rem;
     }
-    
+
     .feedback-text {
         font-size: 0.7rem;
+    }
+
+    .mood-indicator {
+        padding: 0.375rem;
+        min-width: 55px;
+    }
+
+    .mood-emoji {
+        font-size: 1.25rem;
     }
 }

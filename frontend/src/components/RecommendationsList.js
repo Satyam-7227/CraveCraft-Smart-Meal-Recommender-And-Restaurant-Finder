@@ -3,31 +3,59 @@ import axios from "axios";
 import '../css/RecommendationList.css';
 
 function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant }) {
-    const [showRestaurants, setShowRestaurants] = useState(false);
+    const [showGeneralRestaurants, setShowGeneralRestaurants] = useState(false);
+    const [showPersonalRestaurants, setShowPersonalRestaurants] = useState(false);
     const [generalFeedback, setGeneralFeedback] = useState('like'); // 'like', 'dislike', or null
     const [personalFeedback, setPersonalFeedback] = useState('like'); // 'like', 'dislike', or null
+    const [successMessage, setSuccessMessage] = useState('');
+    const [showSuccess, setShowSuccess] = useState(false);
 
     function handleFeedback(restaurantName) {
+        // Determine which dish and feedback to use based on whether it's personal or general
+        const isPersonalDish = recommendData.personalDish;
+        const selectedDish = isPersonalDish ? recommendData.personalDish : recommendData.dish;
+        const dishFeedback = isPersonalDish ? personalFeedback : generalFeedback;
+        const feedbackType = isPersonalDish ? 'personal_recommendation' : 'general_recommendation';
+
         const feedbackPayload = {
             ...formData,
-            selectedDish: recommendData.dish,
+            selectedDish: selectedDish,
             selectedRestaurant: restaurantName,
-            // Add the current like/dislike feedback to the restaurant choice
-            dish_feedback: generalFeedback, // Use the current feedback state
-            feedback_type: 'general_recommendation'
+            dish_feedback: dishFeedback,
+            feedback_type: feedbackType
         };
 
         axios.post("http://localhost:5000/api/feedback", feedbackPayload)
             .then((response) => {
-                console.log(response.data)
+                console.log('Feedback submitted successfully:', response.data);
+                // Show success message
+                setSuccessMessage("✅ Dish selected successfully! Redirecting to new recommendation form...");
+                setShowSuccess(true);
+                
+                // Redirect to form submission page after 2 seconds
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
             })
             .catch((err) => {
-                console.log(err)
+                console.error('Error submitting feedback:', err);
+                setSuccessMessage("❌ Failed to submit feedback. Please try again.");
+                setShowSuccess(true);
+                
+                // Hide error message after 3 seconds
+                setTimeout(() => {
+                    setShowSuccess(false);
+                    setSuccessMessage('');
+                }, 3000);
             })
     }
 
-    const handleFindRestaurants = () => {
-        setShowRestaurants(!showRestaurants);
+    const handleFindGeneralRestaurants = () => {
+        setShowGeneralRestaurants(!showGeneralRestaurants);
+    };
+
+    const handleFindPersonalRestaurants = () => {
+        setShowPersonalRestaurants(!showPersonalRestaurants);
     };
 
     const handleGeneralFeedback = (feedback) => {
@@ -123,9 +151,9 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
 
                         <button 
                             className="find-restaurants-button"
-                            onClick={handleFindRestaurants}
+                            onClick={handleFindGeneralRestaurants}
                         >
-                            {showRestaurants ? 'Hide Restaurants' : 'Find Restaurants Serving This'}
+                            {showGeneralRestaurants ? 'Hide Restaurants' : `Find Restaurants Serving ${recommendData.dish} Category`}
                         </button>
                     </div>
 
@@ -137,6 +165,20 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
                                     <h2 className="dish-title">{recommendData.personalDish}</h2>
                                     <div className="cuisine-badge-single">{formData.cuisines}</div>
                                     <p className="dish-description">Perfect for your happy mood and heavy craving</p>
+
+                                    {/* Show multiple personal dish predictions if available */}
+                                    {recommendData.personalDishes && recommendData.personalDishes.length > 1 && (
+                                        <div className="personal-dish-alternatives">
+                                            <h4>Other Personal Recommendations:</h4>
+                                            <div className="alternative-dishes">
+                                                {recommendData.personalDishes.slice(1, 4).map((dishData, index) => (
+                                                    <span key={index} className="alternative-dish">
+                                                        {dishData.dish} ({dishData.confidence.toFixed(0)}%)
+                                                    </span>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    )}
 
                                     <div className="dish-stats">
                                         <div className="stat-item">
@@ -196,20 +238,57 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
 
                             <button 
                                 className="find-restaurants-button"
-                                
+                                onClick={handleFindPersonalRestaurants}
                             >
-                              Find Restaurants Serving This
+                              {showPersonalRestaurants ? 'Hide Restaurants' : 'Find Restaurants Serving This'}
                             </button>
                         </div>
                     )}
                 </div>
 
-                {/* Restaurant Recommendations - Only show when button is clicked */}
-                {showRestaurants && (
+                {/* Restaurant Recommendations - Show based on which model's button was clicked */}
+                {(showGeneralRestaurants || showPersonalRestaurants) && (
                     <div className="restaurants-section">
-                        <h3>Available at these restaurants</h3>
+                        <h3>
+                            {showPersonalRestaurants 
+                                ? `Restaurants serving ${recommendData.personalDish} or similar dishes`
+                                : `Restaurants serving ${recommendData.dish} category dishes`
+                            }
+                        </h3>
+                        {showGeneralRestaurants && showPersonalRestaurants && (
+                            <p className="model-indicator">
+                                💡 Showing restaurants from both General ML (category-based) and Personal ML (dish-based) models
+                            </p>
+                        )}
+                        {showGeneralRestaurants && !showPersonalRestaurants && (
+                            <p className="model-indicator">
+                                🎯 Showing restaurants from General ML Model (category-based recommendations)
+                            </p>
+                        )}
+                        {!showGeneralRestaurants && showPersonalRestaurants && (
+                            <p className="model-indicator">
+                                🎯 Showing restaurants from Personal ML Model (dish-based recommendations)
+                            </p>
+                        )}
                         <div className="restaurants-grid">
-                            {recommendData.recommendation.map((restaurant, index) => (
+                            {/* Show restaurants based on which model's button was clicked */}
+                            {(() => {
+                                let restaurantsToShow = [];
+                                
+                                if (showGeneralRestaurants && recommendData.generalRestaurants) {
+                                    restaurantsToShow.push(...recommendData.generalRestaurants);
+                                }
+                                
+                                if (showPersonalRestaurants && recommendData.personalRestaurants) {
+                                    restaurantsToShow.push(...recommendData.personalRestaurants);
+                                }
+                                
+                                // Remove duplicates based on restaurant name
+                                const uniqueRestaurants = restaurantsToShow.filter((restaurant, index, self) => 
+                                    index === self.findIndex(r => r.restaurantName === restaurant.restaurantName)
+                                );
+                                
+                                return uniqueRestaurants.map((restaurant, index) => (
                                 <div key={index} className="restaurant-card">
                                     <div className="restaurant-image">
                                         <img src={restaurant.image || "/placeholder.svg"} alt={restaurant.restaurantName} />
@@ -250,7 +329,7 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
                                                 if (onViewRestaurant) {
                                                     onViewRestaurant(
                                                         restaurant.restaurantName,
-                                                        recommendData.predictedCategory || recommendData.dish,
+                                                        recommendData.personalDish || recommendData.dish,
                                                         formData
                                                     );
                                                 }
@@ -258,13 +337,21 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
                                                 <span className="button-icon">🔗</span>
                                                 View
                                             </button>
+                                                                                    {/* 
+                                            "Choose This" button only appears for personal dish predictions
+                                            - General ML Model: NO button (predicts categories, not specific dishes)
+                                            - Personal ML Model: YES button (predicts specific dish names)
+                                        */}
+                                        {recommendData.personalDish && showPersonalRestaurants && (
                                             <button className="choose-button" onClick={() => handleFeedback(restaurant.restaurantName)}>
                                                 Choose This
                                             </button>
+                                        )}
                                         </div>
                                     </div>
                                 </div>
-                            ))}
+                            ));
+                            })()}
                         </div>
                     </div>
                 )}
@@ -311,6 +398,18 @@ function RecommendationsList({ recommendData, formData, onBack, onViewRestaurant
                                     </div>
                                 </div>
                             ))}
+                        </div>
+                    </div>
+                )}
+                
+                {/* Success/Error Message */}
+                {showSuccess && (
+                    <div className={`message-overlay ${successMessage.includes('❌') ? 'error' : 'success'}`}>
+                        <div className="message-content">
+                            <div className="message-icon">
+                                {successMessage.includes('❌') ? '❌' : '✅'}
+                            </div>
+                            <div className="message-text">{successMessage}</div>
                         </div>
                     </div>
                 )}

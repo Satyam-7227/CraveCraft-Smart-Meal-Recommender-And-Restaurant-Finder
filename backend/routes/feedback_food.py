@@ -29,12 +29,16 @@ def submit_feedback():
     }
 
     # Include single selected dish only if provided (e.g., "Choose This" flow)
-    if data.get("selectedDish") is not None:
+    if data.get("selectedDish") is not None and data.get("selectedDish"):
         feedback_entry["selectedDish"] = data.get("selectedDish")
 
     # Include multiple selected dishes only if provided (RestaurantDetails flow)
-    if data.get("selectedDishes") is not None:
-        feedback_entry["selectedDishes"] = data.get("selectedDishes")
+    if data.get("selectedDishes") is not None and data.get("selectedDishes"):
+        # Ensure selectedDishes is always a list for consistency
+        if isinstance(data.get("selectedDishes"), list):
+            feedback_entry["selectedDishes"] = data.get("selectedDishes")
+        else:
+            feedback_entry["selectedDishes"] = [data.get("selectedDishes")]
 
     feedback_data.insert_one(feedback_entry)
 

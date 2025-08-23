@@ -248,6 +248,18 @@ body {
     margin-bottom: 1rem;
 }
 
+.model-indicator {
+    background: #f0f9ff;
+    border: 1px solid #0ea5e9;
+    border-radius: 0.375rem;
+    padding: 0.75rem;
+    margin: 1rem 0;
+    color: #0369a1;
+    font-size: 0.875rem;
+    text-align: center;
+    font-weight: 500;
+}
+
 .restaurants-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -302,7 +314,7 @@ body {
 }
 
 .restaurant-details {
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
 }
 
 .detail-item {
@@ -609,4 +621,88 @@ body {
 .like-button.active .thumbs-up-icon,
 .dislike-button.active .thumbs-down-icon {
     stroke: white;
+}
+
+/* Personal Dish Alternatives */
+.personal-dish-alternatives {
+    margin: 1rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.personal-dish-alternatives h4 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.alternative-dishes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.alternative-dish {
+    background: #667eea;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+/* Message Overlay */
+.message-overlay {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background: white;
+    border-radius: 0.75rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    border: 2px solid;
+    padding: 1.5rem;
+    min-width: 300px;
+    max-width: 400px;
+    animation: slideInUp 0.3s ease-out;
+}
+
+.message-overlay.success {
+    border-color: #22c55e;
+}
+
+.message-overlay.error {
+    border-color: #ef4444;
+}
+
+.message-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.message-icon {
+    font-size: 2rem;
+}
+
+.message-text {
+    flex: 1;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #374151;
+}
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -40%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
 }

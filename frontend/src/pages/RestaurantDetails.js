@@ -72,7 +72,12 @@ function RestaurantDetails({ restaurantName: restaurantNameProp, predictedCatego
                 feedback_type: 'general_recommendation'
             };
             await axios.post("http://localhost:5000/api/feedback", payload);
-            setSuccessMessage("Your selection has been saved. Enjoy your meal!");
+            setSuccessMessage("✅ Order submitted successfully! Redirecting to new recommendation form...");
+            
+            // Redirect to form submission page after 2 seconds
+            setTimeout(() => {
+                navigate('/');
+            }, 2000);
         } catch (e) {
             setError(e?.response?.data?.error || e.message || "Failed to submit");
         } finally {
@@ -181,7 +186,13 @@ function RestaurantDetails({ restaurantName: restaurantNameProp, predictedCatego
                         </div>
                     </div>
                     {successMessage && (
-                        <div className="success-text">{successMessage}</div>
+                        <div className="success-message">
+                            <div className="success-icon">✅</div>
+                            <div className="success-content">
+                                <div className="success-title">Success!</div>
+                                <div className="success-text">{successMessage}</div>
+                            </div>
+                        </div>
                     )}
                 </div>
             </div>
