@@ -1,70 +1,149 @@
-# Getting Started with Create React App
+# Smart Meal Recommender 🍽️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive meal recommendation system built for college examination (4th semester) that intelligently suggests personalized food options based on user preferences, dietary restrictions, and historical data.
 
-## Available Scripts
+## 📋 Project Overview
 
-In the project directory, you can run:
+This Smart Meal Recommender is a full-stack web application that combines machine learning algorithms with rule-based systems to provide intelligent food recommendations. The project was initially developed for academic purposes and continues to be improved over time with new features and optimizations.
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🎯 Core Functionality
+- **Personalized Food Recommendations**: AI-powered suggestions based on user preferences and history
+- **Rule-based Filtering**: Dietary restrictions, allergies, and nutritional requirements
+- **Restaurant Integration**: Browse and discover nearby restaurants
+- **User Authentication**: Secure login/registration system with JWT tokens
+- **Feedback System**: Rate and provide feedback on recommendations
+- **History Tracking**: Monitor your food choices and preferences over time
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 📊 Analytics & Insights
+- **Personal Analytics Dashboard**: Visualize your eating patterns
+- **Nutritional Insights**: Track your dietary intake and goals
+- **Recommendation Performance**: Monitor how well the system learns your preferences
 
-### `npm test`
+### 🚀 Technical Features
+- **Lazy Loading**: Optimized performance with progressive content loading
+- **Responsive Design**: Mobile-first approach for all devices
+- **Real-time Updates**: Dynamic content updates without page refresh
+- **Data Visualization**: Interactive charts using Chart.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏗️ Architecture
 
-### `npm run build`
+### Frontend (React.js)
+- **React 19.1.0**: Latest React with modern hooks and features
+- **React Router**: Client-side routing for seamless navigation
+- **Axios**: HTTP client for API communication
+- **Chart.js**: Data visualization and analytics
+- **Responsive CSS**: Mobile-first design approach
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Backend (Python Flask)
+- **Flask 3.1.1**: Lightweight web framework
+- **MongoDB**: NoSQL database for flexible data storage
+- **JWT Authentication**: Secure token-based authentication
+- **CORS Support**: Cross-origin resource sharing enabled
+- **Modular Architecture**: Blueprint-based route organization
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
+- Node.js (v16 or higher)
+- Python 3.8+
+- MongoDB
+- Git
 
-### `npm run eject`
+### Frontend Setup
+```bash
+cd frontend
+npm install
+npm start
+```
+The frontend will run on [http://localhost:3000](http://localhost:3000)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Backend Setup
+```bash
+cd backend
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On macOS/Linux
+source venv/bin/activate
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+pip install -r requirements.txt
+python app.py
+```
+The backend API will run on [http://localhost:5000](http://localhost:5000)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📁 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+Smart_Meal_Recommender/
+├── frontend/                 # React.js frontend application
+│   ├── src/
+│   │   ├── components/      # Reusable UI components
+│   │   ├── pages/          # Main application pages
+│   │   ├── context/        # React context for state management
+│   │   └── css/            # Stylesheets
+│   ├── public/             # Static assets
+│   └── package.json        # Frontend dependencies
+├── backend/                 # Python Flask backend
+│   ├── routes/             # API endpoint definitions
+│   ├── models/             # Data models and schemas
+│   ├── data_stored/        # Data storage and processing
+│   └── requirements.txt    # Python dependencies
+└── README.md               # Project documentation
+```
 
-## Learn More
+## 🔧 Key Components
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Frontend Components
+- **Navbar**: Navigation and user authentication
+- **RecommendationsList**: Display food recommendations
+- **SearchPage**: Advanced food search with filters
+- **Analytics**: Data visualization dashboard
+- **History**: User's food choice history
+- **RestaurantDetails**: Restaurant information and reviews
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Backend Routes
+- **Authentication**: User login, registration, and JWT management
+- **Recommendations**: AI-powered food suggestions
+- **Feedback**: User rating and feedback collection
+- **History**: User preference tracking
+- **Analytics**: Data analysis and insights
+- **Restaurants**: Restaurant information and management
 
-### Code Splitting
+## 🎓 Academic Context
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project was developed as part of the **4th semester college examination** requirements, demonstrating:
+- Full-stack web development skills
+- Machine learning integration
+- Database design and management
+- User experience design
+- API development and integration
+- Modern web technologies
 
-### Analyzing the Bundle Size
+## 🔮 Future Improvements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The project is continuously evolving with planned enhancements:
+- [ ] Enhanced ML algorithms for better recommendations
+- [ ] Mobile app development
+- [ ] Social features and food sharing
+- [ ] Integration with food delivery services
+- [ ] Advanced nutritional analysis
+- [ ] Multi-language support
 
-### Making a Progressive Web App
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This is a personal academic project that's being improved over time. Feel free to explore the code and provide feedback!
 
-### Advanced Configuration
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is developed for educational purposes as part of college coursework.
 
-### Deployment
+## 👨‍💻 Developer
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Built with ❤️ for academic excellence and continuous learning in web development and machine learning.
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Last updated: December 2024*
+*Project Status: Active Development*
