@@ -1,10 +1,10 @@
-# Smart Meal Recommender 🍽️
+# CRAVECRAFT 🍽️
 
 A comprehensive meal recommendation system built for college examination (4th semester) that intelligently suggests personalized food options based on user preferences, dietary restrictions, and historical data.
 
 ## 📋 Project Overview
 
-This Smart Meal Recommender is a full-stack web application that combines machine learning algorithms with rule-based systems to provide intelligent food recommendations. The project was initially developed for academic purposes and continues to be improved over time with new features and optimizations.
+This CRAVECRAFT is a full-stack web application that combines machine learning algorithms with rule-based systems to provide intelligent food recommendations. The project was initially developed for academic purposes and continues to be improved over time with new features and optimizations.
 
 ## ✨ Features
 
@@ -76,7 +76,7 @@ The backend API will run on [http://localhost:5000](http://localhost:5000)
 ## 📁 Project Structure
 
 ```
-Smart_Meal_Recommender/
+CRAVECRAFT/
 ├── frontend/                 # React.js frontend application
 │   ├── src/
 │   │   ├── components/      # Reusable UI components
@@ -144,6 +144,3 @@ This project is developed for educational purposes as part of college coursework
 Built with ❤️ for academic excellence and continuous learning in web development and machine learning.
 
 ---
-
-*Last updated: December 2024*
-*Project Status: Active Development*
