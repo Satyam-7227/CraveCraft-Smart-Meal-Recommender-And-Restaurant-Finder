@@ -2,6 +2,7 @@ from flask import Blueprint, request, jsonify
 from models.user_model import feedback_data
 from routes.train_personal_model import train_personal_model
 from datetime import datetime
+import pytz
 
 feedback_bp = Blueprint('feedback_bp',__name__)
 
@@ -10,6 +11,11 @@ def submit_feedback():
     data = request.json
 
     email = data.get("email", "testuser@example.com")
+    
+    # Get current time in Kolkata, India timezone (IST)
+    kolkata_tz = pytz.timezone('Asia/Kolkata')
+    current_time = datetime.now(kolkata_tz)
+    
     feedback_entry = {
         "email": data.get("email", "testuser@example.com"),
         "mood": data.get("mood"),
@@ -25,7 +31,7 @@ def submit_feedback():
         # Add new fields for dish feedback
         "dish_feedback": data.get("dish_feedback"),  # 'like' or 'dislike'
         "feedback_type": data.get("feedback_type"),  # 'general_recommendation' or 'personal_recommendation'
-        "timestamp": datetime.now()
+        "timestamp": current_time
     }
 
     # Include single selected dish only if provided (e.g., "Choose This" flow)

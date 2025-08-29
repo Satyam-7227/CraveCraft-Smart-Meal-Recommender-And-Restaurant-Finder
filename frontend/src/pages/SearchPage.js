@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import axios from 'axios';
+import LazyLoadingDemo from '../components/LazyLoadingDemo';
 import '../css/SearchPage.css';
 
 function SearchPage() {
@@ -17,24 +18,90 @@ function SearchPage() {
     const [showMenu, setShowMenu] = useState(false);
     const [menuData, setMenuData] = useState([]);
     const [menuLoading, setMenuLoading] = useState(false);
+    
+    // Lazy loading states
+    const [hasMore, setHasMore] = useState(true);
+    const [isLoadingMore, setIsLoadingMore] = useState(false);
+    const [allRestaurants, setAllRestaurants] = useState([]);
+    const [displayedRestaurants, setDisplayedRestaurants] = useState([]);
+    const [displayCount, setDisplayCount] = useState(20);
+    
+    // Refs for intersection observer
+    const observerRef = useRef();
+    const loadingRef = useRef();
+    const searchTimeoutRef = useRef();
 
-    // Fetch restaurants data with improved search
-    const fetchRestaurants = async (page = 1, search = '', category = '', location = '') => {
+    // Lazy loading configuration
+    const ITEMS_PER_PAGE = 20;
+    const LAZY_LOAD_THRESHOLD = 5; // Load more when 5 items away from end
+
+    // Intersection Observer for lazy loading
+    const lastRestaurantRef = useCallback(node => {
+        if (loading) return;
+        
+        if (observerRef.current) observerRef.current.disconnect();
+        
+        observerRef.current = new IntersectionObserver(entries => {
+            if (entries[0].isIntersecting && hasMore && !isLoadingMore) {
+                loadMoreRestaurants();
+            }
+        });
+        
+        if (node) observerRef.current.observe(node);
+    }, [loading, hasMore, isLoadingMore]);
+
+    // Load more restaurants for lazy loading
+    const loadMoreRestaurants = useCallback(async () => {
+        if (isLoadingMore || !hasMore) return;
+        
+        setIsLoadingMore(true);
+        
+        try {
+            // Simulate API delay for better UX
+            await new Promise(resolve => setTimeout(resolve, 300));
+            
+            const nextPage = Math.ceil(displayedRestaurants.length / ITEMS_PER_PAGE) + 1;
+            
+            if (nextPage <= totalPages) {
+                const response = await axios.get('http://localhost:5000/api/restaurants', {
+                    params: {
+                        page: nextPage,
+                        limit: ITEMS_PER_PAGE,
+                        search: searchTerm.trim(),
+                        category: selectedCategory,
+                        location: selectedLocation
+                    }
+                });
+                
+                if (response.data.restaurants.length > 0) {
+                    setDisplayedRestaurants(prev => [...prev, ...response.data.restaurants]);
+                    setCurrentPage(nextPage);
+                }
+            }
+            
+            setHasMore(nextPage < totalPages);
+        } catch (err) {
+            console.error('Error loading more restaurants:', err);
+        } finally {
+            setIsLoadingMore(false);
+        }
+    }, [isLoadingMore, hasMore, displayedRestaurants.length, totalPages, searchTerm, selectedCategory, selectedLocation]);
+
+    // Fetch restaurants data with improved search and lazy loading
+    const fetchRestaurants = async (page = 1, search = '', category = '', location = '', reset = true) => {
         try {
             setLoading(true);
+            setError(null);
             
             // Clean and prepare search term for better matching
             let cleanSearch = search.trim();
             if (cleanSearch) {
-                // Convert to lowercase for case-insensitive search
-                cleanSearch = cleanSearch.toLowerCase();
-                // Remove extra spaces
-                cleanSearch = cleanSearch.replace(/\s+/g, ' ');
+                cleanSearch = cleanSearch.toLowerCase().replace(/\s+/g, ' ');
             }
             
             const params = {
                 page: page,
-                limit: 20,
+                limit: ITEMS_PER_PAGE,
                 search: cleanSearch,
                 category: category,
                 location: location
@@ -48,28 +115,43 @@ function SearchPage() {
                 const searchOnlyResponse = await axios.get('http://localhost:5000/api/restaurants', {
                     params: {
                         page: page,
-                        limit: 20,
+                        limit: ITEMS_PER_PAGE,
                         search: cleanSearch
                     }
                 });
                 
                 if (searchOnlyResponse.data.restaurants.length > 0) {
-                    setRestaurants(searchOnlyResponse.data.restaurants);
+                    const restaurants = searchOnlyResponse.data.restaurants;
+                    setDisplayedRestaurants(restaurants);
+                    setAllRestaurants(restaurants);
                     setTotalPages(searchOnlyResponse.data.pagination.total_pages);
                     setCurrentPage(page);
+                    setHasMore(page < searchOnlyResponse.data.pagination.total_pages);
                     setError(null);
                     return;
                 }
             }
             
-            setRestaurants(response.data.restaurants);
+            const restaurants = response.data.restaurants;
+            
+            if (reset) {
+                setDisplayedRestaurants(restaurants);
+                setAllRestaurants(restaurants);
+            } else {
+                setDisplayedRestaurants(prev => [...prev, ...restaurants]);
+                setAllRestaurants(prev => [...prev, ...restaurants]);
+            }
+            
             setTotalPages(response.data.pagination.total_pages);
             setCurrentPage(page);
+            setHasMore(page < response.data.pagination.total_pages);
             setError(null);
         } catch (err) {
             console.error('Error fetching restaurants:', err);
             setError('Failed to load restaurants');
             setRestaurants([]);
+            setDisplayedRestaurants([]);
+            setAllRestaurants([]);
         } finally {
             setLoading(false);
         }
@@ -107,13 +189,12 @@ function SearchPage() {
         
         try {
             setMenuLoading(true);
-            setError(null); // Clear any previous errors
+            setError(null);
             
             const response = await axios.get('http://localhost:5000/api/restaurant/details', {
                 params: { name: restaurantName }
             });
             
-            // Validate response data
             if (response.data && response.data.menu) {
                 setMenuData(Array.isArray(response.data.menu) ? response.data.menu : []);
             } else {
@@ -137,35 +218,43 @@ function SearchPage() {
         }
     };
 
-    // Handle search with smart suggestions
-    const handleSearch = () => {
-        if (!searchTerm.trim()) {
-            // If no search term, just apply filters
-            setCurrentPage(1);
-            fetchRestaurants(1, '', selectedCategory, selectedLocation);
-            return;
+    // Debounced search with lazy loading
+    const handleSearch = useCallback(() => {
+        if (searchTimeoutRef.current) {
+            clearTimeout(searchTimeoutRef.current);
         }
         
-        setCurrentPage(1);
-        fetchRestaurants(1, searchTerm, selectedCategory, selectedLocation);
-    };
+        searchTimeoutRef.current = setTimeout(() => {
+            setCurrentPage(1);
+            setHasMore(true);
+            fetchRestaurants(1, searchTerm, selectedCategory, selectedLocation, true);
+        }, 300);
+    }, [searchTerm, selectedCategory, selectedLocation]);
 
-    // Handle search on Enter key with smart suggestions
+    // Handle search on Enter key
     const handleSearchKeyPress = (e) => {
         if (e.key === 'Enter') {
-            handleSearch();
+            if (searchTimeoutRef.current) {
+                clearTimeout(searchTimeoutRef.current);
+            }
+            setCurrentPage(1);
+            setHasMore(true);
+            fetchRestaurants(1, searchTerm, selectedCategory, selectedLocation, true);
         }
     };
 
     // Handle filter changes
-    const handleFilterChange = () => {
+    const handleFilterChange = useCallback(() => {
         setCurrentPage(1);
-        fetchRestaurants(1, searchTerm, selectedCategory, selectedLocation);
-    };
+        setHasMore(true);
+        fetchRestaurants(1, searchTerm, selectedCategory, selectedLocation, true);
+    }, [searchTerm, selectedCategory, selectedLocation]);
 
-    // Handle pagination
+    // Handle pagination (for manual navigation)
     const handlePageChange = (page) => {
-        fetchRestaurants(page, searchTerm, selectedCategory, selectedLocation);
+        setCurrentPage(page);
+        setHasMore(true);
+        fetchRestaurants(page, searchTerm, selectedCategory, selectedLocation, true);
     };
 
     // Clear filters
@@ -174,7 +263,8 @@ function SearchPage() {
         setSelectedCategory('');
         setSelectedLocation('');
         setCurrentPage(1);
-        fetchRestaurants(1, '', '', '');
+        setHasMore(true);
+        fetchRestaurants(1, '', '', '', true);
     };
 
     // Close menu modal
@@ -208,12 +298,116 @@ function SearchPage() {
         }
     };
 
+    // Render restaurant card with lazy loading ref
+    const renderRestaurantCard = (restaurant, index) => {
+        const isLast = index === displayedRestaurants.length - 1;
+        
+        return (
+            <div 
+                key={restaurant && restaurant.id ? restaurant.id : index} 
+                className="restaurant-card"
+                ref={isLast ? lastRestaurantRef : null}
+            >
+                <div className="restaurant-image">
+                    {restaurant && restaurant.image && restaurant.image !== 'N/A' ? (
+                        <img src={restaurant.image} alt={restaurant.name || 'Restaurant'} />
+                    ) : (
+                        <div className="placeholder-image">
+                            <span>🍽️</span>
+                        </div>
+                    )}
+                    {restaurant && restaurant.offer && restaurant.offer !== 'N/A' && (
+                        <div className="offer-badge">
+                            {restaurant.offer}
+                        </div>
+                    )}
+                </div>
+
+                <div className="restaurant-info">
+                    <h3 className="restaurant-name search-page-restaurant-name">
+                        {restaurant && restaurant.name ? restaurant.name : 'Unnamed Restaurant'}
+                    </h3>
+
+                    <div className="restaurant-meta">
+                        <div className="rating-time-row">
+                            <span className="rating">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
+                                </svg>
+                                {extractRating(restaurant && restaurant.ratingTime)}
+                            </span>
+                            <span className="time">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <polyline points="12,6 12,12 16,14"></polyline>
+                                </svg>
+                                {extractTime(restaurant && restaurant.ratingTime)}
+                            </span>
+                            <span className="location">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                <span className="location-text">
+                                    {restaurant && restaurant.location ? restaurant.location : 'Location N/A'}
+                                </span>
+                            </span>
+                        </div>
+                        
+                        <div className="categories-section">
+                            <div className="categories-truncated">
+                                <span className="category-badge">
+                                    {restaurant && restaurant.category ? restaurant.category : 'Category N/A'}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="restaurant-actions">
+                        <button
+                            onClick={() => restaurant && restaurant.name ? fetchRestaurantMenu(restaurant.name) : null}
+                            className="view-menu-btn"
+                            disabled={!restaurant || !restaurant.name}
+                        >
+                            View Menu
+                        </button>
+                        {restaurant && restaurant.link && restaurant.link !== 'N/A' && (
+                            <a
+                                href={restaurant.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="visit-site-btn"
+                            >
+                                Visit Site
+                            </a>
+                        )}
+                    </div>
+                </div>
+            </div>
+        );
+    };
+
     useEffect(() => {
         fetchRestaurants();
         fetchFilters();
+        
+        // Cleanup function
+        return () => {
+            if (searchTimeoutRef.current) {
+                clearTimeout(searchTimeoutRef.current);
+            }
+            if (observerRef.current) {
+                observerRef.current.disconnect();
+            }
+        };
     }, []);
 
-    if (loading && (!restaurants || restaurants.length === 0)) {
+    // Effect for search and filter changes
+    useEffect(() => {
+        handleSearch();
+    }, [handleSearch]);
+
+    if (loading && (!displayedRestaurants || displayedRestaurants.length === 0)) {
         return (
             <div className="search-page-container">
                 <div className="loading-state">
@@ -293,89 +487,42 @@ function SearchPage() {
 
             {/* Results Count */}
             <div className="results-info">
-                <span>Found {restaurants && Array.isArray(restaurants) ? restaurants.length : 0} restaurants</span>
+                <span>Found {displayedRestaurants && Array.isArray(displayedRestaurants) ? displayedRestaurants.length : 0} restaurants</span>
+                {hasMore && (
+                    <span className="lazy-load-info">
+                        • Scroll down to load more
+                    </span>
+                )}
             </div>
 
-            {/* Restaurants Grid */}
+            {/* Lazy Loading Demo */}
+            {displayedRestaurants.length === 0 && !loading && !error && (
+                <LazyLoadingDemo />
+            )}
+
+            {/* Restaurants Grid with Lazy Loading */}
             <div className="restaurants-grid">
-                {restaurants && Array.isArray(restaurants) && restaurants.map((restaurant, index) => (
-                    <div key={restaurant && restaurant.id ? restaurant.id : index} className="restaurant-card">
-                        <div className="restaurant-image">
-                            {restaurant && restaurant.image && restaurant.image !== 'N/A' ? (
-                                <img src={restaurant.image} alt={restaurant.name || 'Restaurant'} />
-                            ) : (
-                                <div className="placeholder-image">
-                                    <span>🍽️</span>
-                                </div>
-                            )}
-                            {restaurant && restaurant.offer && restaurant.offer !== 'N/A' && (
-                                <div className="offer-badge">
-                                    {restaurant.offer}
-                                </div>
-                            )}
-                        </div>
-
-                        <div className="restaurant-info">
-                            <h3 className="restaurant-name search-page-restaurant-name">{restaurant && restaurant.name ? restaurant.name : 'Unnamed Restaurant'}</h3>
-
-                            <div className="restaurant-meta">
-                                <div className="rating-time-row">
-                                    <span className="rating">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                                            <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>
-                                        </svg>
-                                        {extractRating(restaurant && restaurant.ratingTime)}
-                                    </span>
-                                    <span className="time">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                            <circle cx="12" cy="12" r="10"></circle>
-                                            <polyline points="12,6 12,12 16,14"></polyline>
-                                        </svg>
-                                        {extractTime(restaurant && restaurant.ratingTime)}
-                                    </span>
-                                    <span className="location">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
-                                            <circle cx="12" cy="10" r="3"></circle>
-                                        </svg>
-                                        <span className="location-text">{restaurant && restaurant.location ? restaurant.location : 'Location N/A'}</span>
-                                    </span>
-                                </div>
-                                
-                                <div className="categories-section">
-                                    <div className="categories-truncated">
-                                        <span className="category-badge">
-                                            {restaurant && restaurant.category ? restaurant.category : 'Category N/A'}
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="restaurant-actions">
-                                <button
-                                    onClick={() => restaurant && restaurant.name ? fetchRestaurantMenu(restaurant.name) : null}
-                                    className="view-menu-btn"
-                                    disabled={!restaurant || !restaurant.name}
-                                >
-                                    View Menu
-                                </button>
-                                {restaurant && restaurant.link && restaurant.link !== 'N/A' && (
-                                    <a
-                                        href={restaurant.link}
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                        className="visit-site-btn"
-                                    >
-                                        Visit Site
-                                    </a>
-                                )}
-                            </div>
-                        </div>
-                    </div>
-                ))}
+                {displayedRestaurants && Array.isArray(displayedRestaurants) && displayedRestaurants.map((restaurant, index) => 
+                    renderRestaurantCard(restaurant, index)
+                )}
             </div>
 
-            {/* Pagination */}
+            {/* Lazy Loading Indicator */}
+            {isLoadingMore && (
+                <div className="lazy-loading-indicator" ref={loadingRef}>
+                    <div className="loading-spinner"></div>
+                    <p>Loading more restaurants...</p>
+                </div>
+            )}
+
+            {/* End of Results */}
+            {!hasMore && displayedRestaurants.length > 0 && (
+                <div className="end-of-results">
+                    <p>🎉 You've reached the end! No more restaurants to load.</p>
+                </div>
+            )}
+
+            {/* Manual Pagination (Alternative to lazy loading) */}
             {totalPages > 1 && (
                 <div className="pagination">
                     <button

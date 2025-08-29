@@ -30,14 +30,29 @@ function History() {
 
     const formatDate = (timestamp) => {
         if (!timestamp) return 'Unknown date';
-        const date = new Date(timestamp);
-        return date.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'short',
-            day: 'numeric',
-            hour: '2-digit',
-            minute: '2-digit'
-        });
+        
+        try {
+            const date = new Date(timestamp);
+            
+            // Check if the date is valid
+            if (isNaN(date.getTime())) {
+                return 'Invalid date';
+            }
+            
+            // Format for Kolkata timezone (IST)
+            return date.toLocaleString('en-IN', {
+                timeZone: 'Asia/Kolkata',
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: true
+            }) + ' IST';
+        } catch (error) {
+            console.error('Error formatting date:', error);
+            return 'Date format error';
+        }
     };
 
     const getMoodIcon = (mood) => {
@@ -161,6 +176,7 @@ function History() {
                 <div className="header-content">
                     <h1>Your Meal History</h1>
                     <p>Track your past recommendations and choices</p>
+                    
                 </div>
                 <div className="history-stats">
                     <div className="stat-card">
@@ -186,6 +202,13 @@ function History() {
                 <div className="history-grid">
                     {historyData.map((entry, index) => (
                         <div key={index} className="history-card">
+                            {/* Newest indicator for the first few entries
+                            {index < 3 && (
+                                <div className="newest-indicator">
+                                    {index === 0 ? '🆕 Latest' : index === 1 ? '🆕 Recent' : '🆕 Recent'}
+                                </div>
+                            )} */}
+                            
                             <div className="card-header">
                                 {renderDishInfo(entry)}
                                 <div className="restaurant-row">

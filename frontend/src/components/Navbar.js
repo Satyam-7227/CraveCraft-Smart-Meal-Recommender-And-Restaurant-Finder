@@ -21,7 +21,7 @@ function Navbar() {
                             <path d="M5 15L5.5 17L7.5 17.5L5.5 18L5 20L4.5 18L2.5 17.5L4.5 17L5 15Z" fill="currentColor"></path>
                         </svg>
                     </span>
-                    <span className="logo-text">Smart Meal</span>
+                    <span className="logo-text">CraveCraft</span>
                 </div>
             </div>
             <div className="navbar-right">

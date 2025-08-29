@@ -1,5 +1,6 @@
 from flask import Blueprint, request, jsonify
 from models.user_model import feedback_data
+from datetime import datetime
 
 history_bp = Blueprint('history_bp',__name__)
 
@@ -44,5 +45,16 @@ def get_history():
             history_entry["dishType"] = "none"
 
         history.append(history_entry)
+
+    # Sort history from newest to oldest (latest first)
+    # Handle cases where timestamp might be None
+    def get_sort_key(entry):
+        timestamp = entry.get("timestamp")
+        if timestamp is None:
+            return datetime.min  # Put entries without timestamp at the end
+        return timestamp
+
+    # Sort in descending order (newest first)
+    history.sort(key=get_sort_key, reverse=True)
 
     return jsonify({"history": history})
