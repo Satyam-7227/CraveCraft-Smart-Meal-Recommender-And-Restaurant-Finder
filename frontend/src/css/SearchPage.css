@@ -1,5 +1,4 @@
 /* Complete redesign with black/white theme and professional styling */
-
 body {
     font-family: 'Inter', sans-serif;
 }
@@ -9,34 +8,32 @@ body {
     min-height: 100vh;
     background: #fafafa;
     padding: 2rem;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 /* Header Section */
 .search-header {
-    max-width: 1200px;
-    margin: 0 auto 3rem auto;
-    padding: 3rem 2rem;
-    background: #ffffff;
-    border-radius: 16px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    border: 1px solid #e5e7eb;
     text-align: center;
+    margin: 0 auto 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
 }
 
 .header-content h1 {
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: #111827;
-    margin: 0 0 1rem 0;
-    letter-spacing: -0.025em;
+    font-size: 1.75rem;
+    margin: 0.5rem 0 0.5rem;
+    font-weight: 700;
+    color: white;
 }
 
 .header-content p {
-    color: #6b7280;
-    font-size: 1.125rem;
+    font-size: 0.875rem;
+    opacity: 0.9;
     margin: 0;
-    font-weight: 400;
 }
 
 /* Search and Filters Section */
@@ -82,6 +79,8 @@ body {
     transition: all 0.2s ease;
     background: #ffffff;
     color: #111827;
+    margin: 10px 0 10px;
+    font-family: 'Inter', sans-serif;
 }
 
 .search-bar input:focus {
@@ -110,6 +109,7 @@ body {
     gap: 0.5rem;
     font-family: 'Inter', sans-serif;
     margin: 10px 0px;
+    justify-content: center;
 }
 
 .search-btn:hover {
@@ -809,10 +809,8 @@ body {
     }
 
     .filter-select {
-        /* min-width: auto;
-        max-width: none; */
         flex: none;
-        max-width: 200px;
+        max-width: 100%;
     }
 
     .clear-filters-btn {

@@ -486,14 +486,14 @@ function SearchPage() {
             </div>
 
             {/* Results Count */}
-            <div className="results-info">
+            {/* <div className="results-info">
                 <span>Found {displayedRestaurants && Array.isArray(displayedRestaurants) ? displayedRestaurants.length : 0} restaurants</span>
                 {hasMore && (
                     <span className="lazy-load-info">
                         • Scroll down to load more
                     </span>
                 )}
-            </div>
+            </div> */}
 
             {/* Lazy Loading Demo */}
             {displayedRestaurants.length === 0 && !loading && !error && (
