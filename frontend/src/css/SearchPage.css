@@ -243,7 +243,6 @@ body {
 }
 
 .restaurant-info {
-    padding: 1.5rem;
     display: flex;
     flex-direction: column;
     flex: 1;
@@ -270,7 +269,6 @@ body {
     display: flex;
     align-items: center;
     gap: 1rem;
-    flex-wrap: wrap;
     width: 100%;
 }
 
@@ -905,7 +903,6 @@ body {
         flex-direction: row;
         gap: 1rem;
         width: 100%;
-        flex-wrap: wrap;
         justify-content: flex-start;
     }
 

@@ -523,7 +523,7 @@ function SearchPage() {
             )}
 
             {/* Manual Pagination (Alternative to lazy loading) */}
-            {totalPages > 1 && (
+            {/* {totalPages > 1 && (
                 <div className="pagination">
                     <button
                         onClick={() => handlePageChange(currentPage - 1)}
@@ -545,7 +545,7 @@ function SearchPage() {
                         Next →
                     </button>
                 </div>
-            )}
+            )} */}
 
             {/* Restaurant Menu Modal */}
             {showMenu && (
