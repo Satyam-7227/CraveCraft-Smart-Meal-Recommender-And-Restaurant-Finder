@@ -8,6 +8,7 @@ function History() {
     const [historyData, setHistoryData] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
+    const [expandedEntries, setExpandedEntries] = useState(new Set());
 
     useEffect(() => {
         if (user?.email) {
@@ -97,7 +98,19 @@ function History() {
         return null;
     };
 
-    const renderDishInfo = (entry) => {
+    const toggleMultipleDishes = (index) => {
+        setExpandedEntries(prev => {
+            const newSet = new Set(prev);
+            if (newSet.has(index)) {
+                newSet.delete(index);
+            } else {
+                newSet.add(index);
+            }
+            return newSet;
+        });
+    };
+
+    const renderDishInfo = (entry, index) => {
         if (entry.dishType === "single" && entry.selectedDish && entry.selectedDish !== "N/A") {
             return (
                 <div className="dish-info">
@@ -106,25 +119,34 @@ function History() {
                 </div>
             );
         } else if (entry.dishType === "multiple" && entry.selectedDishes && entry.selectedDishes !== "N/A") {
+            const isExpanded = expandedEntries.has(index);
             return (
                 <div className="dish-info">
                     <h3 className="dish-name">Multiple Dishes Selected</h3>
-                    <div className="dish-type-badge multiple">Multiple Dishes</div>
-                    <div className="selected-dishes-list">
-                        {Array.isArray(entry.selectedDishes) ? (
-                            entry.selectedDishes.map((dish, idx) => (
-                                <div key={idx} className="selected-dish-item">
-                                    <span className="dish-icon">🍽️</span>
-                                    <span className="dish-text">{dish}</span>
-                                </div>
-                            ))
-                        ) : (
-                            <div className="selected-dish-item">
-                                <span className="dish-icon">🍽️</span>
-                                <span className="dish-text">{entry.selectedDishes}</span>
-                            </div>
-                        )}
+                    <div 
+                        className="dish-type-badge multiple clickable"
+                        onClick={() => toggleMultipleDishes(index)}
+                        style={{ cursor: 'pointer' }}
+                    >
+                        Multiple Dishes {isExpanded ? '▼' : '▶'}
                     </div>
+                    {isExpanded && (
+                        <div className="selected-dishes-list">
+                            {Array.isArray(entry.selectedDishes) ? (
+                                entry.selectedDishes.map((dish, idx) => (
+                                    <div key={idx} className="selected-dish-item">
+                                        <span className="dish-icon">🍽️</span>
+                                        <span className="dish-text">{dish}</span>
+                                    </div>
+                                ))
+                            ) : (
+                                <div className="selected-dish-item">
+                                    <span className="dish-icon">🍽️</span>
+                                    <span className="dish-text">{entry.selectedDishes}</span>
+                                </div>
+                            )}
+                        </div>
+                    )}
                 </div>
             );
         } else {
@@ -210,7 +232,7 @@ function History() {
                             )} */}
                             
                             <div className="card-header">
-                                {renderDishInfo(entry)}
+                                {renderDishInfo(entry, index)}
                                 <div className="restaurant-row">
                                     <div className="restaurant-name">
                                         {entry.selectedRestaurant ? (
